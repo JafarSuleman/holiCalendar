@@ -39,6 +39,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
 
   late DateTime selectedDay;
   String? chooseCalendar;
+  late Map<DateTime, List> _events;
   List<String> monthlyYearly = [
     'Monthly',
     'Yearly',
@@ -46,7 +47,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
   String? chooseHoliDaysList;
   List<String> holiDaysList = [
     "All",
-    "Holidays",
+    "National holiday",
     "observance days",
   ];
   String? chooseCalendarList;
@@ -69,7 +70,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
     chooseCalendar = monthlyYearly.first;
     calendarFormat = CalendarFormat.month;
     selectedCountryId = widget.selectedCountryId ?? "";
-    events = getEvents();
+    // events = getEvents();
     focusedDay = DateTime.now();
     selectedDay = DateTime.now();
     _tabController = TabController(length: 3, vsync: this,);
@@ -104,19 +105,19 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
   }
 
 
-  Map<DateTime, List<dynamic>> getEvents() {
-    Map<DateTime, List<dynamic>> events = {};
-    events[DateTime.utc(2024, 1, 1)] = ['New Year'];
-    events[DateTime.utc(2024, 7, 4)] = ['Independence Day'];
-    events[DateTime.utc(2024, 12, 25)] = ['Christmas'];
-    events[DateTime.utc(2024, 3, 23)] = ['Pakistan Resolution Day'];
-
-    events[DateTime.utc(2024, 2, 14)] = ['Valentine\'s Day'];
-    events[DateTime.utc(2024, 5, 12)] = ['Mother\'s Day'];
-    events[DateTime.utc(2024, 6, 16)] = ['Father\'s Day'];
-
-    return events;
-  }
+  // Map<DateTime, List<dynamic>> getEvents() {
+  //   Map<DateTime, List<dynamic>> events = {};
+  //   events[DateTime.utc(2024, 1, 1)] = ['New Year'];
+  //   events[DateTime.utc(2024, 7, 4)] = ['Independence Day'];
+  //   events[DateTime.utc(2024, 12, 25)] = ['Christmas'];
+  //   events[DateTime.utc(2024, 3, 23)] = ['Pakistan Resolution Day'];
+  //
+  //   events[DateTime.utc(2024, 2, 14)] = ['Valentine\'s Day'];
+  //   events[DateTime.utc(2024, 5, 12)] = ['Mother\'s Day'];
+  //   events[DateTime.utc(2024, 6, 16)] = ['Father\'s Day'];
+  //
+  //   return events;
+  // }
 
   @override
   Widget build(BuildContext context) {
@@ -271,8 +272,8 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                               ],
                             ),
                           ),
-                          if (chooseHoliDaysList == holiDaysList.first)
-                            if (chooseCalendarList == calendarList.first)
+                          // if (chooseHoliDaysList == holiDaysList.first)
+                          //   if (chooseHoliDaysList == holiDaysList.first)
                               Expanded(
                                 child: ListView.builder(
                                   itemCount: holidays.length,
@@ -306,7 +307,16 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                                                 ],
                                               ),
                                             ),
-                                            ...holidaysByMonth[month]!.map((holiday) {
+                                            ...holidaysByMonth[month]!.where((holiday) {
+                                              if (chooseHoliDaysList == holiDaysList.first) {
+                                                return true; // Show all holidays
+                                              } else if (chooseHoliDaysList == holiDaysList[1]) {
+                                                return holiday.type?.contains("National holiday") ?? false; // Show only public holidays
+                                              } else if (chooseHoliDaysList == holiDaysList[2]) {
+                                                return holiday.type?.contains("Observance") ?? false; // Show only observance days
+                                              }
+                                              return false;
+                                            }).map((holiday) {
                                               return Column(
                                                 children: [
                                                   ListTile(
@@ -508,13 +518,11 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                                 firstDay: DateTime.utc(2021, 1, 1),
                                 lastDay: DateTime.utc(2030, 12, 31),
                                 focusedDay: focusedDay,
-                                eventLoader: getEventsForDay,
                                 calendarFormat: CalendarFormat.month,
                                 availableCalendarFormats: const {
                                   CalendarFormat.month: 'Month',
                                 },
                                 calendarStyle: const CalendarStyle(
-
                                   weekNumberTextStyle: TextStyle(color: Colors.red),
                                   weekendTextStyle: TextStyle(color: Colors.red),
                                 ),
@@ -533,6 +541,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                                   return isSameDay(selectedDay, day);
                                 },
                               ),
+
                             // const CalendarPage(),
                             if (chooseCalendar != monthlyYearly.first)
                               const YearlyCalendarGrid(),
@@ -547,6 +556,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
       ),
     );
   }
+
   Map<int, List<Holidays>> groupHolidaysByMonth(List<Holidays> holidays) {
     Map<int, List<Holidays>> holidaysByMonth = {};
     for (var holiday in holidays) {
@@ -561,6 +571,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
     }
     return holidaysByMonth;
   }
+
 
 
   String getWeekDayFromISODate(String isoDate) {
@@ -600,6 +611,23 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
     }
     return null;
   }
+
+
+  // List<dynamic> getEventsForDay(DateTime day) {
+  //   return events[day] ?? [];
+  // }
+  String _getAppBarTitle() {
+    switch (_tabController.index) {
+      case 0:
+        return 'Holidays';
+      case 1:
+        return 'Events';
+      case 2:
+        return 'Calendar';
+      default:
+        return '';
+    }
+  }
   void _showAddDialogue(BuildContext context) {
     showModalBottomSheet(
       context: context,
@@ -614,22 +642,6 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
         );
       },
     );
-  }
-
-  List<dynamic> getEventsForDay(DateTime day) {
-    return events[day] ?? [];
-  }
-  String _getAppBarTitle() {
-    switch (_tabController.index) {
-      case 0:
-        return 'Holidays';
-      case 1:
-        return 'Events';
-      case 2:
-        return 'Calendar';
-      default:
-        return '';
-    }
   }
 }
 
