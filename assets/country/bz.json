@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/new-year",
+        "urlid": "belize/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "George Price Day",
+        "description": "George Price Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/george-price-day",
+        "urlid": "belize/george-price-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Heroes and Benefactors Day",
+        "description": "National Heroes and Benefactors Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-03-09",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/heroes-and-benefactors-day",
+        "urlid": "belize/heroes-and-benefactors-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for National Heroes and Benefactors Day",
+        "description": "National Heroes and Benefactors Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/heroes-and-benefactors-day",
+        "urlid": "belize/heroes-and-benefactors-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Belize (Belize City)",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-03-19T21:06:28-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 21,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/good-friday",
+        "urlid": "belize/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/easter-saturday",
+        "urlid": "belize/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belize/easter-sunday",
+        "urlid": "belize/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/easter-monday",
+        "urlid": "belize/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-04-29",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/may-day",
+        "urlid": "belize/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/may-day",
+        "urlid": "belize/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Belize (Belize City)",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-06-20T14:50:59-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 14,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/emancipation-day",
+        "urlid": "belize/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. George's Caye Day",
+        "description": "St. George's Caye Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-09-10",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/st-georges-caye-day",
+        "urlid": "belize/st-georges-caye-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-09-21",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/independence-day",
+        "urlid": "belize/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Belize (Belize City)",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-09-22T06:43:33-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 6,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "El Día de la Raza",
+        "description": "El Día de la Raza is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/pan-american-day",
+        "urlid": "belize/pan-american-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for El Día de la Raza",
+        "description": "El Día de la Raza is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/pan-american-day",
+        "urlid": "belize/pan-american-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Garifuna Settlement Day",
+        "description": "Garifuna Settlement Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-11-19",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/garifuna-settlement-day",
+        "urlid": "belize/garifuna-settlement-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Belize (Belize City)",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-12-21T03:20:34-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 3,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/christmas-day",
+        "urlid": "belize/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Belize",
+        "country": {
+          "id": "bz",
+          "name": "Belize"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belize/second-day-of-christmas",
+        "urlid": "belize/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

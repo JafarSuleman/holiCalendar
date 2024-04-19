@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/new-year",
+        "urlid": "syria/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Day",
+        "description": "Revolution Day is a public holiday in Syria",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/revolution-day",
+        "urlid": "syria/revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/syria/ramadan-begins",
+        "urlid": "syria/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Syria (Aleppo)",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/mothers-day",
+        "urlid": "syria/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/syria/easter",
+        "urlid": "syria/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/eid-al-fitr",
+        "urlid": "syria/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Evacuation Day",
+        "description": "Evacuation Day is a public holiday in Syria",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-04-17",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/evacuation-day",
+        "urlid": "syria/evacuation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/may-day",
+        "urlid": "syria/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Day",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/orthodox-easter",
+        "urlid": "syria/orthodox-easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martyrs' Day",
+        "description": "Martyrs' Day is a public holiday in Syria",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/martyrs-day",
+        "urlid": "syria/martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/eid-al-adha",
+        "urlid": "syria/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Syria (Aleppo)",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/muharram-new-year",
+        "urlid": "syria/muharram-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a observance in Syria",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/syria/armed-forces-day",
+        "urlid": "syria/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/prophet-birthday",
+        "urlid": "syria/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Syria (Aleppo)",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "October Liberation Day",
+        "description": "October Liberation Day is a public holiday in Syria",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-10-06",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/october-liberation-day",
+        "urlid": "syria/october-liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Syria (Aleppo)",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "sy",
+          "name": "Syria"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/syria/christmas-day",
+        "urlid": "syria/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

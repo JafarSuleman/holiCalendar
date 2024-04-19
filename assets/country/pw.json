@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/new-year",
+        "urlid": "palau/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Youth Day",
+        "description": "Youth Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-03-15",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/youth-day",
+        "urlid": "palau/youth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Palau (Ngerulmud)",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-03-20T12:06:28+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 12,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "+09",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Senior Citizens Day",
+        "description": "Senior Citizens Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/senior-citizens-day",
+        "urlid": "palau/senior-citizens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Senior Citizens Day",
+        "description": "Senior Citizens Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/senior-citizens-day",
+        "urlid": "palau/senior-citizens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for President's Day",
+        "description": "President's Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-05-31",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/presidents-day",
+        "urlid": "palau/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "President's Day",
+        "description": "President's Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/presidents-day",
+        "urlid": "palau/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Palau (Ngerulmud)",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-06-21T05:50:59+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 5,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "+09",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-07-09",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/constitution-day",
+        "urlid": "palau/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/labor-day",
+        "urlid": "palau/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Palau (Ngerulmud)",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-09-22T21:43:33+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 21,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "+09",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/independence-day",
+        "urlid": "palau/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "United Nations Day",
+        "description": "United Nations Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-10-24",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/united-nations-day",
+        "urlid": "palau/united-nations-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Family Day",
+        "description": "Family Day is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-11-22",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/family-day",
+        "urlid": "palau/family-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thanksgiving",
+        "description": "Thanksgiving is a public holiday in Palau",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-11-28",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/thanksgiving",
+        "urlid": "palau/thanksgiving",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Palau (Ngerulmud)",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-12-21T18:20:34+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 18,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "+09",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pw",
+          "name": "Palau"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/palau/christmas-day",
+        "urlid": "palau/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

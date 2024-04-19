@@ -1,0 +1,2506 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/new-year-day",
+        "urlid": "spain/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Reconquest Day",
+        "description": "Reconquest Day is a observance in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/reconquest-day",
+        "urlid": "spain/reconquest-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a public holiday and the day most Christmas presentes are exchanged in Spain.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/epiphany",
+        "urlid": "spain/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival Monday",
+        "description": "Carnival Monday is a observance in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/carnival-monday",
+        "urlid": "spain/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival Tuesday",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/carnival-tuesday",
+        "urlid": "spain/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival Tuesday",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/carnival-tuesday",
+        "urlid": "spain/carnival-tuesday",
+        "locations": "EX",
+        "states": [
+          {
+            "id": 296,
+            "abbrev": "EX",
+            "name": "Extremadura",
+            "exception": null,
+            "iso": "es-ex"
+          }
+        ]
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/valentine-day",
+        "urlid": "spain/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/ash-wednesday",
+        "urlid": "spain/ash-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Andalucía",
+        "description": "The Day of Andalucía, also known as Andalucía Day, is an annual public holiday in the Andalucía autonomous community in Spain on February 28.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-02-28",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 28
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/andalucia-day",
+        "urlid": "spain/andalucia-day",
+        "locations": "AN",
+        "states": [
+          {
+            "id": 212,
+            "abbrev": "AN",
+            "name": "Andalusia",
+            "exception": null,
+            "iso": "es-an"
+          }
+        ]
+      },
+      {
+        "name": "Day of the Balearic Islands",
+        "description": "The Day of the Balearic Islands is held on March 1 to remember the date when the Balearic Islands' Statute of Autonomy came into effect. It is a local public holiday in this area in Spain.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/the-balearic-islands-day",
+        "urlid": "spain/the-balearic-islands-day",
+        "locations": "IB",
+        "states": [
+          {
+            "id": 289,
+            "abbrev": "IB",
+            "name": "Balearic Islands",
+            "exception": null,
+            "iso": "es-ib"
+          }
+        ]
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/fathers-day",
+        "urlid": "spain/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "San Jose",
+        "description": "Saint Joseph's Day honors St Joseph, the Virgin Mary's spouse. It is a public holiday in some parts of Spain on March 19 each year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/san-jose",
+        "urlid": "spain/san-jose",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "San Jose",
+        "description": "Saint Joseph's Day honors St Joseph, the Virgin Mary's spouse. It is a public holiday in some parts of Spain on March 19 each year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/san-jose",
+        "urlid": "spain/san-jose",
+        "locations": "MU, VC",
+        "states": [
+          {
+            "id": 300,
+            "abbrev": "MU",
+            "name": "Murcia",
+            "exception": null,
+            "iso": "es-mc"
+          },
+          {
+            "id": 302,
+            "abbrev": "VC",
+            "name": "Valencia",
+            "exception": null,
+            "iso": "es-vc"
+          }
+        ]
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Spain (Madrid)",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/palm-sunday",
+        "urlid": "spain/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/maundy-thursday",
+        "urlid": "spain/maundy-thursday",
+        "locations": "All except CT, VC",
+        "states": [
+          {
+            "id": 212,
+            "abbrev": "AN",
+            "name": "Andalusia",
+            "exception": null,
+            "iso": "es-an"
+          },
+          {
+            "id": 213,
+            "abbrev": "AR",
+            "name": "Aragon",
+            "exception": null,
+            "iso": "es-ar"
+          },
+          {
+            "id": 288,
+            "abbrev": "O",
+            "name": "Asturias",
+            "exception": null,
+            "iso": "es-as"
+          },
+          {
+            "id": 289,
+            "abbrev": "IB",
+            "name": "Balearic Islands",
+            "exception": null,
+            "iso": "es-ib"
+          },
+          {
+            "id": 290,
+            "abbrev": "PV",
+            "name": "Basque Country",
+            "exception": null,
+            "iso": "es-pv"
+          },
+          {
+            "id": 291,
+            "abbrev": "CN",
+            "name": "Canary Islands",
+            "exception": null,
+            "iso": "es-cn"
+          },
+          {
+            "id": 292,
+            "abbrev": "S",
+            "name": "Cantabria",
+            "exception": null,
+            "iso": "es-cb"
+          },
+          {
+            "id": 294,
+            "abbrev": "CL",
+            "name": "Castile-Leon",
+            "exception": null,
+            "iso": "es-cl"
+          },
+          {
+            "id": 293,
+            "abbrev": "CM",
+            "name": "Castile-La Mancha",
+            "exception": null,
+            "iso": "es-cm"
+          },
+          {
+            "id": 296,
+            "abbrev": "EX",
+            "name": "Extremadura",
+            "exception": null,
+            "iso": "es-ex"
+          },
+          {
+            "id": 297,
+            "abbrev": "GA",
+            "name": "Galicia",
+            "exception": null,
+            "iso": "es-ga"
+          },
+          {
+            "id": 298,
+            "abbrev": "LO",
+            "name": "La Rioja",
+            "exception": null,
+            "iso": "es-ri"
+          },
+          {
+            "id": 299,
+            "abbrev": "M",
+            "name": "Madrid",
+            "exception": null,
+            "iso": "es-md"
+          },
+          {
+            "id": 300,
+            "abbrev": "MU",
+            "name": "Murcia",
+            "exception": null,
+            "iso": "es-mc"
+          },
+          {
+            "id": 301,
+            "abbrev": "NA",
+            "name": "Navarre",
+            "exception": null,
+            "iso": "es-nc"
+          },
+          {
+            "id": 303,
+            "abbrev": "CE",
+            "name": "Ceuta",
+            "exception": null,
+            "iso": "es-ce"
+          },
+          {
+            "id": 304,
+            "abbrev": "ML",
+            "name": "Melilla",
+            "exception": null,
+            "iso": "es-ml"
+          }
+        ]
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/maundy-thursday",
+        "urlid": "spain/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/good-friday",
+        "urlid": "spain/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/holy-saturday",
+        "urlid": "spain/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/easter-sunday",
+        "urlid": "spain/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/easter-monday",
+        "urlid": "spain/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/easter-monday",
+        "urlid": "spain/easter-monday",
+        "locations": "IB, PV, CT, LO, NA, VC, S",
+        "states": [
+          {
+            "id": 289,
+            "abbrev": "IB",
+            "name": "Balearic Islands",
+            "exception": null,
+            "iso": "es-ib"
+          },
+          {
+            "id": 290,
+            "abbrev": "PV",
+            "name": "Basque Country",
+            "exception": null,
+            "iso": "es-pv"
+          },
+          {
+            "id": 295,
+            "abbrev": "CT",
+            "name": "Catalonia",
+            "exception": null,
+            "iso": "es-ct"
+          },
+          {
+            "id": 298,
+            "abbrev": "LO",
+            "name": "La Rioja",
+            "exception": null,
+            "iso": "es-ri"
+          },
+          {
+            "id": 301,
+            "abbrev": "NA",
+            "name": "Navarre",
+            "exception": null,
+            "iso": "es-nc"
+          },
+          {
+            "id": 302,
+            "abbrev": "VC",
+            "name": "Valencia",
+            "exception": null,
+            "iso": "es-vc"
+          },
+          {
+            "id": 292,
+            "abbrev": "S",
+            "name": "Cantabria",
+            "exception": null,
+            "iso": "es-cb"
+          }
+        ]
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/eid-al-fitr",
+        "urlid": "spain/eid-al-fitr",
+        "locations": "ML",
+        "states": [
+          {
+            "id": 304,
+            "abbrev": "ML",
+            "name": "Melilla",
+            "exception": null,
+            "iso": "es-ml"
+          }
+        ]
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/eid-al-fitr",
+        "urlid": "spain/eid-al-fitr",
+        "locations": "CE",
+        "states": [
+          {
+            "id": 303,
+            "abbrev": "CE",
+            "name": "Ceuta",
+            "exception": null,
+            "iso": "es-ce"
+          }
+        ]
+      },
+      {
+        "name": "Day of Aragón",
+        "description": "The Day of Aragon celebrates the Spanish region of Aragon's culture and history. It is an annual local public holiday on April 23.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/aragon-day",
+        "urlid": "spain/aragon-day",
+        "locations": "AR",
+        "states": [
+          {
+            "id": 213,
+            "abbrev": "AR",
+            "name": "Aragon",
+            "exception": null,
+            "iso": "es-ar"
+          }
+        ]
+      },
+      {
+        "name": "St George's Day",
+        "description": "St George's Day is an occasion for people in Catalonia to give loved ones a rose and a book.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/st-george-day",
+        "urlid": "spain/st-george-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Castile and León Day",
+        "description": "Castile and León Day is celebrated in the Spanish autonomous community of Castile and León on April 23 every year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/castille-and-leon-day",
+        "urlid": "spain/castille-and-leon-day",
+        "locations": "CL",
+        "states": [
+          {
+            "id": 294,
+            "abbrev": "CL",
+            "name": "Castile-Leon",
+            "exception": null,
+            "iso": "es-cl"
+          }
+        ]
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/labor-day",
+        "urlid": "spain/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Madrid",
+        "description": "The Day of the Autonomous Community of Madrid, Spain, marks the anniversary of an uprising against French troops in Madrid. It is an annual local public holiday on May 2.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-02",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/madrid-day",
+        "urlid": "spain/madrid-day",
+        "locations": "M",
+        "states": [
+          {
+            "id": 299,
+            "abbrev": "M",
+            "name": "Madrid",
+            "exception": null,
+            "iso": "es-md"
+          }
+        ]
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "One of Spain’s most popular and festive family occasions is Mothers’ Day on the first Sunday in May.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/mother-day",
+        "urlid": "spain/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Galicia Literature Day",
+        "description": "Galicia Literature Day is a autonomous community holiday in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-17",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 17
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/galicia-literature-day",
+        "urlid": "spain/galicia-literature-day",
+        "locations": "GA",
+        "states": [
+          {
+            "id": 297,
+            "abbrev": "GA",
+            "name": "Galicia",
+            "exception": null,
+            "iso": "es-ga"
+          }
+        ]
+      },
+      {
+        "name": "Whit Sunday/Pentecost",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/pentecost",
+        "urlid": "spain/pentecost",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/pentecost-monday",
+        "urlid": "spain/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/corpus-christi",
+        "urlid": "spain/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/corpus-christi",
+        "urlid": "spain/corpus-christi",
+        "locations": "CM",
+        "states": [
+          {
+            "id": 293,
+            "abbrev": "CM",
+            "name": "Castile-La Mancha",
+            "exception": null,
+            "iso": "es-cm"
+          }
+        ]
+      },
+      {
+        "name": "Day of the Canary Islands",
+        "description": "The Day of the Canary Islands marks the anniversary of the autonomous Canary Islands Parliament's first session. It is a local public holiday on the Canary Islands on May 30 each year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/canaries-day",
+        "urlid": "spain/canaries-day",
+        "locations": "CN",
+        "states": [
+          {
+            "id": 291,
+            "abbrev": "CN",
+            "name": "Canary Islands",
+            "exception": null,
+            "iso": "es-cn"
+          }
+        ]
+      },
+      {
+        "name": "Day of Castile-La Mancha",
+        "description": "The Day of the Region of Castilla-La Mancha marks the anniversary of when Castilla-La Mancha's first regional courts were opened. It is an annual public holiday in this Spanish region on May 31.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-05-31",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 31
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/castile-la-mancha-day",
+        "urlid": "spain/castile-la-mancha-day",
+        "locations": "CM",
+        "states": [
+          {
+            "id": 293,
+            "abbrev": "CM",
+            "name": "Castile-La Mancha",
+            "exception": null,
+            "iso": "es-cm"
+          }
+        ]
+      },
+      {
+        "name": "Day of Murcia",
+        "description": "The Day of the Region of Murcia marks the anniversary of when the autonomy of Murcia's statutes was approved. It is an annual public holiday in Murcia, Spain, on June 9.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-09",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/murcia-day",
+        "urlid": "spain/murcia-day",
+        "locations": "MU",
+        "states": [
+          {
+            "id": 300,
+            "abbrev": "MU",
+            "name": "Murcia",
+            "exception": null,
+            "iso": "es-mc"
+          }
+        ]
+      },
+      {
+        "name": "Day of La Rioja",
+        "description": "The Day of La Rioja is an annual public holiday in the Spanish autonomous community of La Rioja on June 9.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-09",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/rioja-day",
+        "urlid": "spain/rioja-day",
+        "locations": "LO",
+        "states": [
+          {
+            "id": 298,
+            "abbrev": "LO",
+            "name": "La Rioja",
+            "exception": null,
+            "iso": "es-ri"
+          }
+        ]
+      },
+      {
+        "name": "Day off for Day of La Rioja",
+        "description": "The Day of La Rioja is an annual public holiday in the Spanish autonomous community of La Rioja on June 9.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/rioja-day",
+        "urlid": "spain/rioja-day",
+        "locations": "LO",
+        "states": [
+          {
+            "id": 298,
+            "abbrev": "LO",
+            "name": "La Rioja",
+            "exception": null,
+            "iso": "es-ri"
+          }
+        ]
+      },
+      {
+        "name": "San Antonio",
+        "description": "The Day of Saint Anthony of Padua marks the anniversary of St Anthony's death. It is a local public holiday in Ceuta, Spain, on June 13 each year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-13",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/san-antonio",
+        "urlid": "spain/san-antonio",
+        "locations": "CE",
+        "states": [
+          {
+            "id": 303,
+            "abbrev": "CE",
+            "name": "Ceuta",
+            "exception": null,
+            "iso": "es-ce"
+          }
+        ]
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/eid-al-adha",
+        "urlid": "spain/eid-al-adha",
+        "locations": "CE, ML",
+        "states": [
+          {
+            "id": 303,
+            "abbrev": "CE",
+            "name": "Ceuta",
+            "exception": null,
+            "iso": "es-ce"
+          },
+          {
+            "id": 304,
+            "abbrev": "ML",
+            "name": "Melilla",
+            "exception": null,
+            "iso": "es-ml"
+          }
+        ]
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Spain (Madrid)",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint John the Baptist Day",
+        "description": "Saint John the Baptist Day is annually held on June 24 to honor the life of St John, an early Christian saint. It is a public holiday in Catalonia, Spain.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/sant-joan",
+        "urlid": "spain/sant-joan",
+        "locations": "CT, VC",
+        "states": [
+          {
+            "id": 295,
+            "abbrev": "CT",
+            "name": "Catalonia",
+            "exception": null,
+            "iso": "es-ct"
+          },
+          {
+            "id": 302,
+            "abbrev": "VC",
+            "name": "Valencia",
+            "exception": null,
+            "iso": "es-vc"
+          }
+        ]
+      },
+      {
+        "name": "Saint John the Baptist Day",
+        "description": "Saint John the Baptist Day is annually held on June 24 to honor the life of St John, an early Christian saint. It is a public holiday in Catalonia, Spain.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/sant-joan",
+        "urlid": "spain/sant-joan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saint James the Apostle",
+        "description": "Saint James' Day is an occasion to honor the life and deeds of one of Jesus' disciples. It is a public holiday in the autonomous communities of the Basque Country and Galicia in Spain on July 25.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-07-25",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 25
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/santiago-apostle",
+        "urlid": "spain/santiago-apostle",
+        "locations": "PV, GA, NA, S, M",
+        "states": [
+          {
+            "id": 290,
+            "abbrev": "PV",
+            "name": "Basque Country",
+            "exception": null,
+            "iso": "es-pv"
+          },
+          {
+            "id": 297,
+            "abbrev": "GA",
+            "name": "Galicia",
+            "exception": null,
+            "iso": "es-ga"
+          },
+          {
+            "id": 301,
+            "abbrev": "NA",
+            "name": "Navarre",
+            "exception": null,
+            "iso": "es-nc"
+          },
+          {
+            "id": 292,
+            "abbrev": "S",
+            "name": "Cantabria",
+            "exception": null,
+            "iso": "es-cb"
+          },
+          {
+            "id": 299,
+            "abbrev": "M",
+            "name": "Madrid",
+            "exception": null,
+            "iso": "es-md"
+          }
+        ]
+      },
+      {
+        "name": "Feast of Saint James the Apostle",
+        "description": "Saint James' Day is an occasion to honor the life and deeds of one of Jesus' disciples. It is a public holiday in the autonomous communities of the Basque Country and Galicia in Spain on July 25.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-07-25",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/santiago-apostle",
+        "urlid": "spain/santiago-apostle",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Institutions",
+        "description": "The Day of the Institutions of Cantabria marks the anniversary of the creation of the Cantabria province.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-07-28",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/the-institutions-day",
+        "urlid": "spain/the-institutions-day",
+        "locations": "S",
+        "states": [
+          {
+            "id": 292,
+            "abbrev": "S",
+            "name": "Cantabria",
+            "exception": null,
+            "iso": "es-cb"
+          }
+        ]
+      },
+      {
+        "name": "The Day of Our Lady of Africa",
+        "description": "The Day of Our Lady of Africa honors the patron saint of the city of Ceuta. It is a public holiday in this Spanish city on August 5.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/day-our-lady-africa",
+        "urlid": "spain/day-our-lady-africa",
+        "locations": "CE",
+        "states": [
+          {
+            "id": 303,
+            "abbrev": "CE",
+            "name": "Ceuta",
+            "exception": null,
+            "iso": "es-ce"
+          }
+        ]
+      },
+      {
+        "name": "The Day of Cantabria",
+        "description": "The Day of Cantabria celebrates the history, culture and language of the Cantabrian region of Spain. It is annually held on the second Sunday of August.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-08-11",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/cantabria-day",
+        "urlid": "spain/cantabria-day",
+        "locations": "S",
+        "states": [
+          {
+            "id": 292,
+            "abbrev": "S",
+            "name": "Cantabria",
+            "exception": null,
+            "iso": "es-cb"
+          }
+        ]
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/assumption",
+        "urlid": "spain/assumption",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Independent City of Ceuta",
+        "description": "The Day of Ceuta is celebrated as a local public holiday in the city of Ceuta in Spain on September 2 each year. This date commemorates when Pedro de Menezes (Meneses) took control of Ceuta.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/the-independent-city-ceuta-day",
+        "urlid": "spain/the-independent-city-ceuta-day",
+        "locations": "CE",
+        "states": [
+          {
+            "id": 303,
+            "abbrev": "CE",
+            "name": "Ceuta",
+            "exception": null,
+            "iso": "es-ce"
+          }
+        ]
+      },
+      {
+        "name": "Elcano's Day",
+        "description": "Elcano’s Day is an observance in Spain's Basque region that recalls Juan Sebastián de Elcano’s circumnavigation of the globe in 1522.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-06",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/elcanos-day",
+        "urlid": "spain/elcanos-day",
+        "locations": "PV",
+        "states": [
+          {
+            "id": 290,
+            "abbrev": "PV",
+            "name": "Basque Country",
+            "exception": null,
+            "iso": "es-pv"
+          }
+        ]
+      },
+      {
+        "name": "Day of Asturias",
+        "description": "The Day of Asturias commemorates the Virgin of Covadonga and the Battle of Covadonga. It is an annual local public holiday in the autonomous community of Asturias in Spain on September 8.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/asturias-day",
+        "urlid": "spain/asturias-day",
+        "locations": "O",
+        "states": [
+          {
+            "id": 288,
+            "abbrev": "O",
+            "name": "Asturias",
+            "exception": null,
+            "iso": "es-as"
+          }
+        ]
+      },
+      {
+        "name": "Day of Extremadura",
+        "description": "The Day of Extremadura marks the anniversary of the Virgin Mary's birth. It is a local public holiday in Extremadura, Spain, on September 8.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/extremadura-day",
+        "urlid": "spain/extremadura-day",
+        "locations": "EX",
+        "states": [
+          {
+            "id": 296,
+            "abbrev": "EX",
+            "name": "Extremadura",
+            "exception": null,
+            "iso": "es-ex"
+          }
+        ]
+      },
+      {
+        "name": "Virgin of the Victory",
+        "description": "Virgin of the Victory is a observance in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/virgin-of-the-victory",
+        "urlid": "spain/virgin-of-the-victory",
+        "locations": "ML",
+        "states": [
+          {
+            "id": 304,
+            "abbrev": "ML",
+            "name": "Melilla",
+            "exception": null,
+            "iso": "es-ml"
+          }
+        ]
+      },
+      {
+        "name": "Day off for Day of Asturias",
+        "description": "The Day of Asturias commemorates the Virgin of Covadonga and the Battle of Covadonga. It is an annual local public holiday in the autonomous community of Asturias in Spain on September 8.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/asturias-day",
+        "urlid": "spain/asturias-day",
+        "locations": "O",
+        "states": [
+          {
+            "id": 288,
+            "abbrev": "O",
+            "name": "Asturias",
+            "exception": null,
+            "iso": "es-as"
+          }
+        ]
+      },
+      {
+        "name": "National Day of Catalonia",
+        "description": "The Day of Catalonia commemorates the end of the siege of Barcelona in 1714. It is a local public holiday in Barcelona, Spain, on September 11.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-11",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 11
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/catalonia-day",
+        "urlid": "spain/catalonia-day",
+        "locations": "CT",
+        "states": [
+          {
+            "id": 295,
+            "abbrev": "CT",
+            "name": "Catalonia",
+            "exception": null,
+            "iso": "es-ct"
+          }
+        ]
+      },
+      {
+        "name": "Nuestra Señora de la Bien Aparecida",
+        "description": "Nuestra Señora de la Bien Aparecida is a autonomous community holiday in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/nuestra-senora-de-la-bien-aparecida",
+        "urlid": "spain/nuestra-senora-de-la-bien-aparecida",
+        "locations": "S",
+        "states": [
+          {
+            "id": 292,
+            "abbrev": "S",
+            "name": "Cantabria",
+            "exception": null,
+            "iso": "es-cb"
+          }
+        ]
+      },
+      {
+        "name": "Day of Melilla",
+        "description": "The Day of Melilla marks the anniversary of the storming of the city in 1497 and is a public holiday in Melilla, Spain.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/melilla-day",
+        "urlid": "spain/melilla-day",
+        "locations": "ML",
+        "states": [
+          {
+            "id": 304,
+            "abbrev": "ML",
+            "name": "Melilla",
+            "exception": null,
+            "iso": "es-ml"
+          }
+        ]
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Spain (Madrid)",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Valencian Community",
+        "description": "The Day of the Valencian Community is a local public holiday in Valencia, Spain, on October 9 each year. It celebrates Valencian culture and history.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-10-09",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/the-valencian-community-day",
+        "urlid": "spain/the-valencian-community-day",
+        "locations": "VC",
+        "states": [
+          {
+            "id": 302,
+            "abbrev": "VC",
+            "name": "Valencia",
+            "exception": null,
+            "iso": "es-vc"
+          }
+        ]
+      },
+      {
+        "name": "Hispanic Day",
+        "description": "Hispanic Day marks the anniversary of the date that Christopher Columbus first set foot in the Americas. It is a public holiday in Spain on October 12.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/hispanic-day",
+        "urlid": "spain/hispanic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/all-saints-day",
+        "urlid": "spain/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Navarre",
+        "description": "People celebrate the culture of the Navarre region in Spain and life of Saint Francis Xavier on the Day of Navarre. It is an annual local public holiday in this region on December 3.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-03",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/navarre-day",
+        "urlid": "spain/navarre-day",
+        "locations": "NA",
+        "states": [
+          {
+            "id": 301,
+            "abbrev": "NA",
+            "name": "Navarre",
+            "exception": null,
+            "iso": "es-nc"
+          }
+        ]
+      },
+      {
+        "name": "Day of Navarre",
+        "description": "People celebrate the culture of the Navarre region in Spain and life of Saint Francis Xavier on the Day of Navarre. It is an annual local public holiday in this region on December 3.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-03",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 3
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/navarre-day",
+        "urlid": "spain/navarre-day",
+        "locations": "NA",
+        "states": [
+          {
+            "id": 301,
+            "abbrev": "NA",
+            "name": "Navarre",
+            "exception": null,
+            "iso": "es-nc"
+          }
+        ]
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day marks the anniversary of the referendum to approve the Spanish Constitution and is a public holiday in Spain.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-06",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/constitution-day",
+        "urlid": "spain/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/immaculate-conception",
+        "urlid": "spain/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Immaculate Conception observed",
+        "description": "Immaculate Conception observed is a autonomous community holiday in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/immaculate-conception-observed",
+        "urlid": "spain/immaculate-conception-observed",
+        "locations": "AN, AR, O, CL, EX, ML, MU",
+        "states": [
+          {
+            "id": 212,
+            "abbrev": "AN",
+            "name": "Andalusia",
+            "exception": null,
+            "iso": "es-an"
+          },
+          {
+            "id": 213,
+            "abbrev": "AR",
+            "name": "Aragon",
+            "exception": null,
+            "iso": "es-ar"
+          },
+          {
+            "id": 288,
+            "abbrev": "O",
+            "name": "Asturias",
+            "exception": null,
+            "iso": "es-as"
+          },
+          {
+            "id": 294,
+            "abbrev": "CL",
+            "name": "Castile-Leon",
+            "exception": null,
+            "iso": "es-cl"
+          },
+          {
+            "id": 296,
+            "abbrev": "EX",
+            "name": "Extremadura",
+            "exception": null,
+            "iso": "es-ex"
+          },
+          {
+            "id": 304,
+            "abbrev": "ML",
+            "name": "Melilla",
+            "exception": null,
+            "iso": "es-ml"
+          },
+          {
+            "id": 300,
+            "abbrev": "MU",
+            "name": "Murcia",
+            "exception": null,
+            "iso": "es-mc"
+          }
+        ]
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Spain (Madrid)",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/christmas-eve",
+        "urlid": "spain/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/christmas-day",
+        "urlid": "spain/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Stephen's Day",
+        "description": "The Feast of St Stephen is a holiday to commemorate the life and death of an early Christian saint.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Autonomous Community Holiday",
+        "canonical_url": "https://calendarific.com/holiday/spain/san-esteban",
+        "urlid": "spain/san-esteban",
+        "locations": "CT",
+        "states": [
+          {
+            "id": 295,
+            "abbrev": "CT",
+            "name": "Catalonia",
+            "exception": null,
+            "iso": "es-ct"
+          }
+        ]
+      },
+      {
+        "name": "St Stephen's Day",
+        "description": "The Feast of St Stephen is a holiday to commemorate the life and death of an early Christian saint.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/san-esteban",
+        "urlid": "spain/san-esteban",
+        "locations": "IB",
+        "states": [
+          {
+            "id": 289,
+            "abbrev": "IB",
+            "name": "Balearic Islands",
+            "exception": null,
+            "iso": "es-ib"
+          }
+        ]
+      },
+      {
+        "name": "Feast of the Holy Family",
+        "description": "Feast of the Holy Family is a observance in Spain",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-29",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/feast-holy-family",
+        "urlid": "spain/feast-holy-family",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "es",
+          "name": "Spain"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/spain/new-year-eve",
+        "urlid": "spain/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

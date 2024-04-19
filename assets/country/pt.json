@@ -1,0 +1,1259 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/new-year-day",
+        "urlid": "portugal/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Tuesday / Pancake Day",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/carnival",
+        "urlid": "portugal/carnival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/portugal/valentine-day",
+        "urlid": "portugal/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Joseph's Day",
+        "description": "St. Joseph's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-joseph-day",
+        "urlid": "portugal/st-joseph-day",
+        "locations": "Santarém",
+        "states": [
+          {
+            "id": 852,
+            "abbrev": null,
+            "name": "Santarém",
+            "exception": null,
+            "iso": "pt-14"
+          }
+        ]
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/portugal/father-day",
+        "urlid": "portugal/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Portugal (Lisbon)",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-03-20T03:06:28+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 3,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "WET",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/good-friday",
+        "urlid": "portugal/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/easter-sunday",
+        "urlid": "portugal/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-03-31T01:00:00+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 1,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "WET",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Our Lady of Mércoles",
+        "description": "Our Lady of Mércoles is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-04-16",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 16
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/our-lady-of-mercoles",
+        "urlid": "portugal/our-lady-of-mercoles",
+        "locations": "Castelo Branco",
+        "states": [
+          {
+            "id": 843,
+            "abbrev": null,
+            "name": "Castelo Branco",
+            "exception": null,
+            "iso": "pt-05"
+          }
+        ]
+      },
+      {
+        "name": "Liberty Day",
+        "description": "Liberty Day is a national holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-04-25",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/liberty-day",
+        "urlid": "portugal/liberty-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/labor-day",
+        "urlid": "portugal/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/portugal/mother-day",
+        "urlid": "portugal/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/ascension-day",
+        "urlid": "portugal/ascension-day",
+        "locations": "Beja",
+        "states": [
+          {
+            "id": 841,
+            "abbrev": null,
+            "name": "Beja",
+            "exception": null,
+            "iso": "pt-02"
+          }
+        ]
+      },
+      {
+        "name": "St. Joana's Day",
+        "description": "St. Joana's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-joana-day",
+        "urlid": "portugal/st-joana-day",
+        "locations": "Aveiro",
+        "states": [
+          {
+            "id": 840,
+            "abbrev": null,
+            "name": "Aveiro",
+            "exception": null,
+            "iso": "pt-01"
+          }
+        ]
+      },
+      {
+        "name": "Azores Day",
+        "description": "Azores Day is a regional holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/azores-day",
+        "urlid": "portugal/azores-day",
+        "locations": "Azores",
+        "states": [
+          {
+            "id": 211,
+            "abbrev": null,
+            "name": "Azores",
+            "exception": null,
+            "iso": "pt-20"
+          }
+        ]
+      },
+      {
+        "name": "Leiria Day",
+        "description": "Leiria Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-22",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 22
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/leiria-day",
+        "urlid": "portugal/leiria-day",
+        "locations": "Leiria",
+        "states": [
+          {
+            "id": 848,
+            "abbrev": null,
+            "name": "Leiria",
+            "exception": null,
+            "iso": "pt-10"
+          }
+        ]
+      },
+      {
+        "name": "Portalegre Day",
+        "description": "Portalegre Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/portalegre-day",
+        "urlid": "portugal/portalegre-day",
+        "locations": "Portalegre",
+        "states": [
+          {
+            "id": 850,
+            "abbrev": null,
+            "name": "Portalegre",
+            "exception": null,
+            "iso": "pt-12"
+          }
+        ]
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/corpus-christi",
+        "urlid": "portugal/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Portugal Day",
+        "description": "Portugal Day is a national holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/portugal-day",
+        "urlid": "portugal/portugal-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Anthony's Day",
+        "description": "St. Anthony's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-06-13",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 13
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-anthony-day",
+        "urlid": "portugal/st-anthony-day",
+        "locations": "Lisbon, Vila Real",
+        "states": [
+          {
+            "id": 849,
+            "abbrev": null,
+            "name": "Lisbon",
+            "exception": null,
+            "iso": "pt-11"
+          },
+          {
+            "id": 855,
+            "abbrev": null,
+            "name": "Vila Real",
+            "exception": null,
+            "iso": "pt-17"
+          }
+        ]
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Portugal (Lisbon)",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-06-20T21:50:59+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 21,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WEST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. John's Day",
+        "description": "St. John's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-john-day",
+        "urlid": "portugal/st-john-day",
+        "locations": "Porto, Braga",
+        "states": [
+          {
+            "id": 851,
+            "abbrev": null,
+            "name": "Porto",
+            "exception": null,
+            "iso": "pt-13"
+          },
+          {
+            "id": 842,
+            "abbrev": null,
+            "name": "Braga",
+            "exception": null,
+            "iso": "pt-03"
+          }
+        ]
+      },
+      {
+        "name": "St. Peter's Day",
+        "description": "St. Peter's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-peter-day",
+        "urlid": "portugal/st-peter-day",
+        "locations": "Évora",
+        "states": [
+          {
+            "id": 845,
+            "abbrev": null,
+            "name": "Évora",
+            "exception": null,
+            "iso": "pt-07"
+          }
+        ]
+      },
+      {
+        "name": "Madeira Day",
+        "description": "Madeira Day is a regional holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/madeira-day",
+        "urlid": "portugal/madeira-day",
+        "locations": "Madeira",
+        "states": [
+          {
+            "id": 210,
+            "abbrev": null,
+            "name": "Madeira",
+            "exception": null,
+            "iso": "pt-30"
+          }
+        ]
+      },
+      {
+        "name": "St. Elizabeth's Day",
+        "description": "St. Elizabeth's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-elizabeth-day",
+        "urlid": "portugal/st-elizabeth-day",
+        "locations": "Coimbra",
+        "states": [
+          {
+            "id": 844,
+            "abbrev": null,
+            "name": "Coimbra",
+            "exception": null,
+            "iso": "pt-06"
+          }
+        ]
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/assumption",
+        "urlid": "portugal/assumption",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Our Lady of Sorrows",
+        "description": "Our Lady of Sorrows is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-08-20",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 20
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/our-lady-of-sorrows",
+        "urlid": "portugal/our-lady-of-sorrows",
+        "locations": "Viana do Castelo",
+        "states": [
+          {
+            "id": 854,
+            "abbrev": null,
+            "name": "Viana do Castelo",
+            "exception": null,
+            "iso": "pt-16"
+          }
+        ]
+      },
+      {
+        "name": "Our Lady of Graces",
+        "description": "Our Lady of Graces is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-08-22",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 22
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/our-lady-of-graces",
+        "urlid": "portugal/our-lady-of-graces",
+        "locations": "Bragança",
+        "states": [
+          {
+            "id": 589,
+            "abbrev": null,
+            "name": "Bragança",
+            "exception": null,
+            "iso": "pt-04"
+          }
+        ]
+      },
+      {
+        "name": "Faro Day",
+        "description": "Faro Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/faro-day",
+        "urlid": "portugal/faro-day",
+        "locations": "Faro",
+        "states": [
+          {
+            "id": 846,
+            "abbrev": null,
+            "name": "Faro",
+            "exception": null,
+            "iso": "pt-08"
+          }
+        ]
+      },
+      {
+        "name": "Birth of Bocage",
+        "description": "Birth of Bocage is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/birth-of-bocage",
+        "urlid": "portugal/birth-of-bocage",
+        "locations": "Setúbal",
+        "states": [
+          {
+            "id": 853,
+            "abbrev": null,
+            "name": "Setúbal",
+            "exception": null,
+            "iso": "pt-15"
+          }
+        ]
+      },
+      {
+        "name": "St. Matthew's Day",
+        "description": "St. Matthew's Day is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-09-21",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 21
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/st-matthew-day",
+        "urlid": "portugal/st-matthew-day",
+        "locations": "Viseu",
+        "states": [
+          {
+            "id": 856,
+            "abbrev": null,
+            "name": "Viseu",
+            "exception": null,
+            "iso": "pt-18"
+          }
+        ]
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Portugal (Lisbon)",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-09-22T13:43:33+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 13,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WEST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a national holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-10-05",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/republic-implantation",
+        "urlid": "portugal/republic-implantation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-10-27T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WEST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/all-saints-day",
+        "urlid": "portugal/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Foral of Sancho I",
+        "description": "Foral of Sancho I is a district holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-11-27",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 27
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "District Holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/foral-of-sancho-i",
+        "urlid": "portugal/foral-of-sancho-i",
+        "locations": "Guarda",
+        "states": [
+          {
+            "id": 847,
+            "abbrev": null,
+            "name": "Guarda",
+            "exception": null,
+            "iso": "pt-09"
+          }
+        ]
+      },
+      {
+        "name": "Restoration of Independence",
+        "description": "Restoration of Independence is a national holiday in Portugal",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-12-01",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/restoration-of-independence",
+        "urlid": "portugal/restoration-of-independence",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/immaculate-conception",
+        "urlid": "portugal/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Portugal (Lisbon)",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-12-21T09:20:34+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 9,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "WET",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/portugal/christmas-eve",
+        "urlid": "portugal/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/portugal/christmas-day",
+        "urlid": "portugal/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "pt",
+          "name": "Portugal"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/portugal/new-year-eve",
+        "urlid": "portugal/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

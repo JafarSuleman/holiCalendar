@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Ethiopian Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/christmas-day",
+        "urlid": "ethiopia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany / Timkat",
+        "description": "Epiphany / Timkat is a public holiday in Ethiopia",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-01-20",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/epiphany",
+        "urlid": "ethiopia/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Adwa Victory Day",
+        "description": "Adwa Victory Day is a public holiday in Ethiopia",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-03-02",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/adwa-victory-day",
+        "urlid": "ethiopia/adwa-victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Ethiopia (Addis Ababa)",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/eid-al-fitr",
+        "urlid": "ethiopia/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/labor-day",
+        "urlid": "ethiopia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ethiopian Good Friday",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/good-friday",
+        "urlid": "ethiopia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fasika",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/easter-sunday",
+        "urlid": "ethiopia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Patriots' Day",
+        "description": "Patriots' Day is a public holiday in Ethiopia",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/patriots-victory-day",
+        "urlid": "ethiopia/patriots-victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Derg Downfall Day",
+        "description": "Derg Downfall Day is a public holiday in Ethiopia",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-05-28",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/derg-downfall-day",
+        "urlid": "ethiopia/derg-downfall-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/eid-al-adha",
+        "urlid": "ethiopia/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Ethiopia (Addis Ababa)",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ethiopian New Year",
+        "description": "Ethiopian New Year is a public holiday in Ethiopia",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-09-11",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/ethiopian-new-year",
+        "urlid": "ethiopia/ethiopian-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/prophet-birthday",
+        "urlid": "ethiopia/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Ethiopia (Addis Ababa)",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Meskel",
+        "description": "Meskel is a public holiday in Ethiopia",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-09-27",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/ethiopia/finding-true-cross-day",
+        "urlid": "ethiopia/finding-true-cross-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Ethiopia (Addis Ababa)",
+        "country": {
+          "id": "et",
+          "name": "Ethiopia"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/new-year",
+        "urlid": "french-polynesia/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Missionary Day",
+        "description": "Missionary Day is a public holiday in French Polynesia",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-03-05",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/arrival-first-missionaries",
+        "urlid": "french-polynesia/arrival-first-missionaries",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in French Polynesia (Papeete)",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-03-19T17:06:28-10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 17,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-10:00",
+            "zoneabb": "TAHT",
+            "zoneoffset": -36000,
+            "zonedst": 0,
+            "zonetotaloffset": -36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/good-friday",
+        "urlid": "french-polynesia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/easter-monday",
+        "urlid": "french-polynesia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/may-day",
+        "urlid": "french-polynesia/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in French Polynesia",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/victory-day",
+        "urlid": "french-polynesia/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/ascension",
+        "urlid": "french-polynesia/ascension",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/pentecost-monday",
+        "urlid": "french-polynesia/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in French Polynesia (Papeete)",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-06-20T10:50:59-10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 10,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-10:00",
+            "zoneabb": "TAHT",
+            "zoneoffset": -36000,
+            "zonedst": 0,
+            "zonetotaloffset": -36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Autonomy Day",
+        "description": "Autonomy Day is a public holiday in French Polynesia",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/internal-autonomy-day",
+        "urlid": "french-polynesia/internal-autonomy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "French National Day",
+        "description": "French National Day is a public holiday in French Polynesia",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-07-14",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/bastille-day",
+        "urlid": "french-polynesia/bastille-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/assumption-of-mary",
+        "urlid": "french-polynesia/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in French Polynesia (Papeete)",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-09-22T02:43:33-10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 2,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-10:00",
+            "zoneabb": "TAHT",
+            "zoneoffset": -36000,
+            "zonedst": 0,
+            "zonetotaloffset": -36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/all-saints-day",
+        "urlid": "french-polynesia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Armistice Day is a public holiday in French Polynesia",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/armistice-day",
+        "urlid": "french-polynesia/armistice-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in French Polynesia (Papeete)",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-12-20T23:20:34-10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 20,
+            "hour": 23,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-10:00",
+            "zoneabb": "TAHT",
+            "zoneoffset": -36000,
+            "zonedst": 0,
+            "zonetotaloffset": -36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pf",
+          "name": "French Polynesia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-polynesia/christmas-day",
+        "urlid": "french-polynesia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

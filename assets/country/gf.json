@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/new-year",
+        "urlid": "french-guiana/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Monday",
+        "description": "Carnival / Shrove Monday is a private sector holiday in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Private sector holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/carnival-monday",
+        "urlid": "french-guiana/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Tuesday / Pancake Day",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Private sector holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/mardi-gras",
+        "urlid": "french-guiana/mardi-gras",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Private sector holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/ash-wednesday",
+        "urlid": "french-guiana/ash-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Laetare Sunday",
+        "description": "Laetare Sunday is a observance in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-03-10",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/laetare",
+        "urlid": "french-guiana/laetare",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in French Guiana (Cayenne)",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-03-20T00:06:28-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 0,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "GFT",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/palm-sunday",
+        "urlid": "french-guiana/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/good-friday",
+        "urlid": "french-guiana/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/easter-sunday",
+        "urlid": "french-guiana/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/easter-monday",
+        "urlid": "french-guiana/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/may-day",
+        "urlid": "french-guiana/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/victory-day",
+        "urlid": "french-guiana/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/ascension-day",
+        "urlid": "french-guiana/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/whit-sunday",
+        "urlid": "french-guiana/whit-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/whit-monday",
+        "urlid": "french-guiana/whit-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Abolition Day",
+        "description": "Abolition Day is a public holiday in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/abolition-day",
+        "urlid": "french-guiana/abolition-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in French Guiana (Cayenne)",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-06-20T17:50:59-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 17,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "GFT",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "French National Day",
+        "description": "French National Day is a public holiday in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-07-14",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/national-day",
+        "urlid": "french-guiana/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/assumption",
+        "urlid": "french-guiana/assumption",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in French Guiana (Cayenne)",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-09-22T09:43:33-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 9,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "GFT",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Cayenne Festival",
+        "description": "Cayenne Festival is a common local holiday in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-10-15",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 15
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/cayenne-festival",
+        "urlid": "french-guiana/cayenne-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/all-saints",
+        "urlid": "french-guiana/all-saints",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/all-souls",
+        "urlid": "french-guiana/all-souls",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Armistice Day is a public holiday in French Guiana",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/armistice-day",
+        "urlid": "french-guiana/armistice-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in French Guiana (Cayenne)",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-12-21T06:20:34-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 6,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "GFT",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/christmas-day",
+        "urlid": "french-guiana/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "gf",
+          "name": "French Guiana"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/french-guiana/new-year-eve",
+        "urlid": "french-guiana/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

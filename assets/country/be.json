@@ -1,0 +1,981 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/new-year-day",
+        "urlid": "belgium/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/epiphany",
+        "urlid": "belgium/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/valentine-day",
+        "urlid": "belgium/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Belgium (Brussels)",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/good-friday",
+        "urlid": "belgium/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/easter",
+        "urlid": "belgium/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/easter-monday",
+        "urlid": "belgium/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/labor-day",
+        "urlid": "belgium/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Iris Day",
+        "description": "Iris Day is a regional government holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional government holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/iris-day",
+        "urlid": "belgium/iris-day",
+        "locations": "Brussels",
+        "states": [
+          {
+            "id": 786,
+            "abbrev": null,
+            "name": "Brussels",
+            "exception": null,
+            "iso": "be-bru"
+          }
+        ]
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/ascension-day",
+        "urlid": "belgium/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after Ascension Day",
+        "description": "Day after Ascension Day is a bank holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/bank-holiday-1",
+        "urlid": "belgium/bank-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/mothers-day",
+        "urlid": "belgium/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/pentecost",
+        "urlid": "belgium/pentecost",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/whit-monday",
+        "urlid": "belgium/whit-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-06-09",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/fathers-day",
+        "urlid": "belgium/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Belgium (Brussels)",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Flemish Community",
+        "description": "",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-07-11",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 11
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional government holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/flemish-community-day",
+        "urlid": "belgium/flemish-community-day",
+        "locations": "Antwerp, Limburg, East Flanders, Flemish Brabant, West Flanders",
+        "states": [
+          {
+            "id": 776,
+            "abbrev": null,
+            "name": "Antwerp",
+            "exception": null,
+            "iso": "be-van"
+          },
+          {
+            "id": 779,
+            "abbrev": null,
+            "name": "Limburg",
+            "exception": null,
+            "iso": "be-vli"
+          },
+          {
+            "id": 777,
+            "abbrev": null,
+            "name": "East Flanders",
+            "exception": null,
+            "iso": "be-vov"
+          },
+          {
+            "id": 778,
+            "abbrev": null,
+            "name": "Flemish Brabant",
+            "exception": null,
+            "iso": "be-vbr"
+          },
+          {
+            "id": 780,
+            "abbrev": null,
+            "name": "West Flanders",
+            "exception": null,
+            "iso": "be-vwv"
+          }
+        ]
+      },
+      {
+        "name": "Belgian National Day",
+        "description": "Belgian National Day is a national holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-07-21",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/belgian-national-day",
+        "urlid": "belgium/belgian-national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/assumption",
+        "urlid": "belgium/assumption",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Walloon Region",
+        "description": "Day of the Walloon Region is a regional government holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional government holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/walloon-region-day",
+        "urlid": "belgium/walloon-region-day",
+        "locations": "Namur",
+        "states": [
+          {
+            "id": 784,
+            "abbrev": null,
+            "name": "Namur",
+            "exception": null,
+            "iso": "be-wna"
+          }
+        ]
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Belgium (Brussels)",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the French Community",
+        "description": "Day of the French Community is a regional government holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-09-27",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 27
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional government holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/french-community-day",
+        "urlid": "belgium/french-community-day",
+        "locations": "Walloon Brabant, Hainaut, Liège, Luxembourg, Namur",
+        "states": [
+          {
+            "id": 785,
+            "abbrev": null,
+            "name": "Walloon Brabant",
+            "exception": null,
+            "iso": "be-wbr"
+          },
+          {
+            "id": 781,
+            "abbrev": null,
+            "name": "Hainaut",
+            "exception": null,
+            "iso": "be-wht"
+          },
+          {
+            "id": 782,
+            "abbrev": null,
+            "name": "Liège",
+            "exception": null,
+            "iso": "be-wlg"
+          },
+          {
+            "id": 783,
+            "abbrev": null,
+            "name": "Luxembourg",
+            "exception": null,
+            "iso": "be-wlx"
+          },
+          {
+            "id": 784,
+            "abbrev": null,
+            "name": "Namur",
+            "exception": null,
+            "iso": "be-wna"
+          }
+        ]
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/halloween",
+        "urlid": "belgium/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/all-saints-day",
+        "urlid": "belgium/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Armistice Day is a national holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/armistice-day",
+        "urlid": "belgium/armistice-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the German-speaking Community",
+        "description": "Day of the German-speaking Community is a regional government holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional government holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/german-speaking-community-day",
+        "urlid": "belgium/german-speaking-community-day",
+        "locations": "Liège (community)",
+        "states": [
+          {
+            "id": 782,
+            "abbrev": null,
+            "name": "Liège",
+            "exception": "community",
+            "iso": "be-wlg"
+          }
+        ]
+      },
+      {
+        "name": "St. Nicholas Day",
+        "description": "St. Nicholas Day is a observance in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-12-06",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/st-nicholas",
+        "urlid": "belgium/st-nicholas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Belgium (Brussels)",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/christmas-eve",
+        "urlid": "belgium/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/christmas-day",
+        "urlid": "belgium/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a bank holiday in Belgium",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/belgium/boxing-day",
+        "urlid": "belgium/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "be",
+          "name": "Belgium"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belgium/new-year-eve",
+        "urlid": "belgium/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

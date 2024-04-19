@@ -1,0 +1,1230 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/new-year-day",
+        "urlid": "macedonia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Eve",
+        "description": "Orthodox Christmas Eve is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Common local holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-christmas-eve",
+        "urlid": "macedonia/orthodox-christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-christmas-day",
+        "urlid": "macedonia/orthodox-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-01-08",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-christmas-day",
+        "urlid": "macedonia/orthodox-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany (Orthodox)",
+        "description": "Epiphany (Orthodox) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-01-19",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 19
+          }
+        },
+        "type": [
+          "Common local holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-epiphany",
+        "urlid": "macedonia/orthodox-epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Sava's Day",
+        "description": "St Sava's Day is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-01-27",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 27
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/saint-sava-day",
+        "urlid": "macedonia/saint-sava-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/valentine-day",
+        "urlid": "macedonia/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day/International Women's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/mothers-day",
+        "urlid": "macedonia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/ramadan-begins",
+        "urlid": "macedonia/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in North Macedonia (Skopje)",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/good-friday",
+        "urlid": "macedonia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/holy-saturday",
+        "urlid": "macedonia/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/easter-sunday",
+        "urlid": "macedonia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/easter-monday",
+        "urlid": "macedonia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Romani Day (for Romani community)",
+        "description": "International Romani Day (for Romani community) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-04-08",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 8
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/international-romani-day",
+        "urlid": "macedonia/international-romani-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/eid-al-fitr",
+        "urlid": "macedonia/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/labour-day",
+        "urlid": "macedonia/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday (Orthodox)",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "Common local holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-good-friday",
+        "urlid": "macedonia/orthodox-good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Saturday (Orthodox)",
+        "description": "The Saturday before Easter Sunday is also known as Holy Saturday for many Orthodox churches worldwide.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-holy-saturday",
+        "urlid": "macedonia/orthodox-holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday (Orthodox)",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-easter-sunday",
+        "urlid": "macedonia/orthodox-easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday (Orthodox)",
+        "description": "Orthodox Easter Monday is the day after the Orthodox Easter Sunday.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-easter-monday",
+        "urlid": "macedonia/orthodox-easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Vlach’s National Day (for Vlach community)",
+        "description": "Vlach’s National Day (for Vlach community) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/vlach-national-day",
+        "urlid": "macedonia/vlach-national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saints Cyril and Methodius' Day",
+        "description": "Saints Cyril and Methodius' Day is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-05-24",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/saints-cyril-and-methodius-day",
+        "urlid": "macedonia/saints-cyril-and-methodius-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha (Feast of Sacrifice)",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/eid-al-adha",
+        "urlid": "macedonia/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in North Macedonia (Skopje)",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Friday before Pentecost",
+        "description": "Friday before Pentecost is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/friday-before-pentecost",
+        "urlid": "macedonia/friday-before-pentecost",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-08-02",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/republic-day",
+        "urlid": "macedonia/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Assumption of Mary (Orthodox)",
+        "description": "Feast of the Assumption of Mary (Orthodox) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-08-28",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 28
+          }
+        },
+        "type": [
+          "Common local holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/orthodox-assumption-mary-feast",
+        "urlid": "macedonia/orthodox-assumption-mary-feast",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/independence-day",
+        "urlid": "macedonia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/fathers-day",
+        "urlid": "macedonia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence Day",
+        "description": "Independence Day is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/independence-day",
+        "urlid": "macedonia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in North Macedonia (Skopje)",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Bosniaks' Day (for Bosniak community)",
+        "description": "International Bosniaks' Day (for Bosniak community) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-09-28",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 28
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/international-bosniaks-day",
+        "urlid": "macedonia/international-bosniaks-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of People’s Uprising",
+        "description": "Day of People’s Uprising is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/day-of-peoples-uprising",
+        "urlid": "macedonia/day-of-peoples-uprising",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First day of Yom Kippur (Jewish community)",
+        "description": "Yom Kippur (Day of Atonement) is an important Jewish holiday that centers on the themes of atonement and repentance.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/yom-kippur-first-day",
+        "urlid": "macedonia/yom-kippur-first-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Macedonian Revolutionary Struggle",
+        "description": "Day of the Macedonian Revolutionary Struggle is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-10-23",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/day-of-the-revolutionary-struggle",
+        "urlid": "macedonia/day-of-the-revolutionary-struggle",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/halloween",
+        "urlid": "macedonia/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/all-saints-day",
+        "urlid": "macedonia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Albanian Alphabet Day (Albanian community)",
+        "description": "Albanian Alphabet Day (Albanian community) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-11-22",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 22
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/albanian-alphabet-day",
+        "urlid": "macedonia/albanian-alphabet-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Kliment Ohridski's Day",
+        "description": "Saint Kliment Ohridski's Day is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/saint-kliment-ohridski-day",
+        "urlid": "macedonia/saint-kliment-ohridski-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Saint Kliment Ohridski's Day",
+        "description": "Saint Kliment Ohridski's Day is a national holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/saint-kliment-ohridski-day",
+        "urlid": "macedonia/saint-kliment-ohridski-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Turkish Language Day (Turkish community)",
+        "description": "Turkish Language Day (Turkish community) is a optional holiday in North Macedonia",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-21",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/turkish-language-day",
+        "urlid": "macedonia/turkish-language-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in North Macedonia (Skopje)",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/christmas-eve",
+        "urlid": "macedonia/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/christmas-day",
+        "urlid": "macedonia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "mk",
+          "name": "North Macedonia"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macedonia/new-year-eve",
+        "urlid": "macedonia/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

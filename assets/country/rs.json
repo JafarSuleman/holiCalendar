@@ -1,0 +1,881 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Western New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/new-year-day",
+        "urlid": "serbia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Day of Western New Year's Day",
+        "description": "Second Day of Western New Year's Day is a national holiday in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/new-year-day-2",
+        "urlid": "serbia/new-year-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Day of Baptism",
+        "description": "First Day of Baptism is an Orthodox holiday in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Orthodox",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/first-day-of-baptism",
+        "urlid": "serbia/first-day-of-baptism",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/christmas-day",
+        "urlid": "serbia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year",
+        "description": "The Orthodox New Year, based on the Julian calendar, is annually held on January 14, according to the Gregorian calendar.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-01-14",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/orthodox-new-year",
+        "urlid": "serbia/orthodox-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Spirituality Day/St Sava's Day",
+        "description": "Spirituality Day/St Sava's Day is a observance in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-01-27",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/spirituality-day",
+        "urlid": "serbia/spirituality-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Statehood Day of the Republic of Serbia",
+        "description": "Statehood Day of the Republic of Serbia is a national holiday in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-02-15",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/statehood-day",
+        "urlid": "serbia/statehood-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Statehood Day of the Republic of Serbia (Day 2)",
+        "description": "Statehood Day of the Republic of Serbia (Day 2) is a national holiday in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-02-16",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/statehood-day-2",
+        "urlid": "serbia/statehood-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/ramadan-begins",
+        "urlid": "serbia/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Serbia (Belgrade)",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Western Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Christian",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/good-friday",
+        "urlid": "serbia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Western Easter Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Christian",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/easter-saturday",
+        "urlid": "serbia/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Western Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Christian",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/easter-sunday",
+        "urlid": "serbia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Western Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Christian",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/easter-monday",
+        "urlid": "serbia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "Muslim",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/eid-al-fitr-first-day",
+        "urlid": "serbia/eid-al-fitr-first-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holocaust Remembrance Day",
+        "description": "Holocaust Remembrance Day is a observance in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-04-22",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/holocaust-remembrance-day",
+        "urlid": "serbia/holocaust-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor holiday",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/labor-holiday",
+        "urlid": "serbia/labor-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day Holiday",
+        "description": "Labor Day Holiday is a national holiday in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-02",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/labor-holiday-2",
+        "urlid": "serbia/labor-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/good-friday-orthodox",
+        "urlid": "serbia/good-friday-orthodox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "The Saturday before Easter Sunday is also known as Holy Saturday for many Orthodox churches worldwide.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/holy-saturday",
+        "urlid": "serbia/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Day",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/easter",
+        "urlid": "serbia/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Orthodox Easter Monday is the day after the Orthodox Easter Sunday.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/easter-monday-orthodox",
+        "urlid": "serbia/easter-monday-orthodox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a observance in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/victory-day",
+        "urlid": "serbia/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Day of Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "Muslim",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/eid-al-adha-first-day",
+        "urlid": "serbia/eid-al-adha-first-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Serbia (Belgrade)",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Vitus' Day",
+        "description": "St Vitus' Day is a observance in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-06-28",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/st-vitus-day",
+        "urlid": "serbia/st-vitus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Serbia (Belgrade)",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Yom Kippur",
+        "description": "Yom Kippur (Day of Atonement) is an important Jewish holiday that centers on the themes of atonement and repentance.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Hebrew",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/yom-kippur",
+        "urlid": "serbia/yom-kippur",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "World War II Victims Remembrance Day",
+        "description": "World War II Victims Remembrance Day is a observance in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-10-21",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/world-war-two-victims-remembrance-day",
+        "urlid": "serbia/world-war-two-victims-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Armistice Day is a national holiday in Serbia",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/armistice-day",
+        "urlid": "serbia/armistice-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Serbia (Belgrade)",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Day of Western Christmas",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "Christian",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/serbia/first-day-of-christmas",
+        "urlid": "serbia/first-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-12-29",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/serbia/mothers-day",
+        "urlid": "serbia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Western New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "rs",
+          "name": "Serbia"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/serbia/new-year-eve",
+        "urlid": "serbia/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

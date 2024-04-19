@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/new-year",
+        "urlid": "falkland-islands/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Margaret Thatcher Day",
+        "description": "Margaret Thatcher Day is a observance in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-01-10",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/margaret-thather-day",
+        "urlid": "falkland-islands/margaret-thather-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Falkland Islands (Stanley)",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-03-20T00:06:28-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 0,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "FKST",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/good-friday",
+        "urlid": "falkland-islands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-06-14",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/liberation-day",
+        "urlid": "falkland-islands/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Falkland Islands (Stanley)",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-06-20T17:50:59-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 17,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "FKST",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Falkland Day",
+        "description": "Falkland Day is a observance in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-08-14",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/falkland-day",
+        "urlid": "falkland-islands/falkland-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Falkland Islands (Stanley)",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-09-22T09:43:33-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 9,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "FKST",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peat Cutting Monday",
+        "description": "Peat Cutting Monday is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-10-07",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/peat-cutting-monday",
+        "urlid": "falkland-islands/peat-cutting-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King Charles III's Birthday",
+        "description": "King Charles III's Birthday is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-11-14",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/kings-birthday",
+        "urlid": "falkland-islands/kings-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle Day",
+        "description": "Battle Day is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/battle-day",
+        "urlid": "falkland-islands/battle-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle Day observed",
+        "description": "Battle Day is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/battle-day",
+        "urlid": "falkland-islands/battle-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Falkland Islands (Stanley)",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-21T06:20:34-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 6,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "FKST",
+            "zoneoffset": -10800,
+            "zonedst": 0,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/christmas-day",
+        "urlid": "falkland-islands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/second-day-of-christmas",
+        "urlid": "falkland-islands/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Holiday",
+        "description": "Christmas Holiday is a public holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-27",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/third-day-of-christmas",
+        "urlid": "falkland-islands/third-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Holiday",
+        "description": "Christmas Holiday is a government holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-30",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/fourth-day-of-christmas",
+        "urlid": "falkland-islands/fourth-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Holiday",
+        "description": "Christmas Holiday is a government holiday in Falkland Islands",
+        "country": {
+          "id": "fk",
+          "name": "Falkland Islands"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/falkland-islands/fifth-day-of-christmas",
+        "urlid": "falkland-islands/fifth-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

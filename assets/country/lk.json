@@ -1,0 +1,985 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Tamil Thai Pongal Day",
+        "description": "Tamil Thai Pongal Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/pongal-day",
+        "urlid": "sri-lanka/pongal-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Duruthu Full Moon Poya Day",
+        "description": "Duruthu Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-01-25",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/duruthu-poya",
+        "urlid": "sri-lanka/duruthu-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-02-04",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/national-day",
+        "urlid": "sri-lanka/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/valentine-day",
+        "urlid": "sri-lanka/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navam Full Moon Poya Day",
+        "description": "Navam Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-02-23",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/navam-poya",
+        "urlid": "sri-lanka/navam-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mahasivarathri Day",
+        "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/mahasivarathri-day",
+        "urlid": "sri-lanka/mahasivarathri-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/ramadan-begins",
+        "urlid": "sri-lanka/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Sri Lanka (Colombo)",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-20T08:36:28+05:30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 8,
+            "minute": 36,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+05:30",
+            "zoneabb": "IST",
+            "zoneoffset": 19800,
+            "zonedst": 0,
+            "zonetotaloffset": 19800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Madin Full Moon Poya Day",
+        "description": "Madin Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/madin-poya",
+        "urlid": "sri-lanka/madin-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holi",
+        "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/hindu-holi",
+        "urlid": "sri-lanka/hindu-holi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/good-friday",
+        "urlid": "sri-lanka/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/easter-sunday",
+        "urlid": "sri-lanka/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/eid-al-fitr",
+        "urlid": "sri-lanka/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sinhala and Tamil New Year's Eve",
+        "description": "Sinhala and Tamil New Year's Eve is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/sinhala-tamil-new-year-eve",
+        "urlid": "sri-lanka/sinhala-tamil-new-year-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sinhala and Tamil New Year's Day",
+        "description": "Sinhala and Tamil New Year's Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/sinhala-tamil-new-year-day",
+        "urlid": "sri-lanka/sinhala-tamil-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bak Full Moon Poya Day",
+        "description": "Bak Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/bak-poya",
+        "urlid": "sri-lanka/bak-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/labour-day",
+        "urlid": "sri-lanka/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/mother-day",
+        "urlid": "sri-lanka/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Vesak Full Moon Poya Day",
+        "description": "Vesak Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/vesak-poya",
+        "urlid": "sri-lanka/vesak-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after Vesak Full Moon Poya Day",
+        "description": "Day after Vesak Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-05-24",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/vesak-poya-day-after",
+        "urlid": "sri-lanka/vesak-poya-day-after",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/father-day",
+        "urlid": "sri-lanka/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/eid-al-adha",
+        "urlid": "sri-lanka/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Sri Lanka (Colombo)",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-06-21T02:20:59+05:30",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 2,
+            "minute": 20,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+05:30",
+            "zoneabb": "IST",
+            "zoneoffset": 19800,
+            "zonedst": 0,
+            "zonetotaloffset": 19800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Poson Full Moon Poya Day",
+        "description": "Poson Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/poson-poya",
+        "urlid": "sri-lanka/poson-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Esala Full Moon Poya Day",
+        "description": "Esala Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-07-20",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/esala-poya",
+        "urlid": "sri-lanka/esala-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Raksha Bandhan",
+        "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/hindu-raksha-bandhan",
+        "urlid": "sri-lanka/hindu-raksha-bandhan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nikini Full Moon Poya Day",
+        "description": "Nikini Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/nikini-poya",
+        "urlid": "sri-lanka/nikini-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "description": "Ganesh Chaturthi is the great Ganesha festival that celebrates the birthday of Lord Ganesha during the Hindu Month of Bhadra, which usually falls between mid-August and mid-September. It is also known as Vinayaka Chaturthi and can last up to 10 days.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/hindu-ganesh-chaturthi",
+        "urlid": "sri-lanka/hindu-ganesh-chaturthi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Milad-Un-Nabi (Holy Prophet's Birthday)",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/prophet-birthday",
+        "urlid": "sri-lanka/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Binara Full Moon Poya Day",
+        "description": "Binara Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/binara-poya",
+        "urlid": "sri-lanka/binara-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Sri Lanka (Colombo)",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-09-22T18:13:33+05:30",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 18,
+            "minute": 13,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+05:30",
+            "zoneabb": "IST",
+            "zoneoffset": 19800,
+            "zonedst": 0,
+            "zonetotaloffset": 19800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dussehra",
+        "description": "Dussehra is a Hindu holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-10-13",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 13
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/hindu-dussera",
+        "urlid": "sri-lanka/hindu-dussera",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Vap Full Moon Poya Day",
+        "description": "Vap Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-10-17",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/vap-poya",
+        "urlid": "sri-lanka/vap-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Deepavali",
+        "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/deepavali",
+        "urlid": "sri-lanka/deepavali",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ill Full Moon Poya Day",
+        "description": "Ill Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/il-poya",
+        "urlid": "sri-lanka/il-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unduvap Full Moon Poya Day",
+        "description": "Unduvap Full Moon Poya Day is a public holiday in Sri Lanka",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-12-14",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/unduvap-poya",
+        "urlid": "sri-lanka/unduvap-poya",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Sri Lanka (Colombo)",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-12-21T14:50:34+05:30",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 14,
+            "minute": 50,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+05:30",
+            "zoneabb": "IST",
+            "zoneoffset": 19800,
+            "zonedst": 0,
+            "zonetotaloffset": 19800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/christmas-eve",
+        "urlid": "sri-lanka/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "lk",
+          "name": "Sri Lanka"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/sri-lanka/christmas-day",
+        "urlid": "sri-lanka/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

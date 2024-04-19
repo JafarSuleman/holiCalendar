@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/new-year-day",
+        "urlid": "paraguay/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Heroes' Day",
+        "description": "Heroes' Day is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/dia-de-los-heroes",
+        "urlid": "paraguay/dia-de-los-heroes",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Paraguay (Asuncion)",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-03-20T00:06:28-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 0,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "PYST",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-03-24T00:00:00-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "PYST",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/maundy-thursday",
+        "urlid": "paraguay/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/good-friday",
+        "urlid": "paraguay/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/labor-day",
+        "urlid": "paraguay/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Holiday",
+        "description": "National Holiday is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-05-14",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/national-holiday",
+        "urlid": "paraguay/national-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/dia-de-la-independencia",
+        "urlid": "paraguay/dia-de-la-independencia",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chaco Armistice",
+        "description": "Chaco Armistice is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-06-12",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/chaco-armistice",
+        "urlid": "paraguay/chaco-armistice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Paraguay (Asuncion)",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "PYT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Founding of Asuncion",
+        "description": "Founding of Asuncion is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/founding-ofasuncion",
+        "urlid": "paraguay/founding-ofasuncion",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Paraguay (Asuncion)",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "PYT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boqueron Battle Victory Day",
+        "description": "Boqueron Battle Victory Day is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-09-29",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/boqueron-battle-victory-day",
+        "urlid": "paraguay/boqueron-battle-victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-10-06T00:00:00-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "PYT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Virgin of Caacupé Day",
+        "description": "Virgin of Caacupé Day is a national holiday in Paraguay",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/virgin-of-caacupe",
+        "urlid": "paraguay/virgin-of-caacupe",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Paraguay (Asuncion)",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-12-21T06:20:34-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 6,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "PYST",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/christmas-eve",
+        "urlid": "paraguay/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/christmas-day",
+        "urlid": "paraguay/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "py",
+          "name": "Paraguay"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/paraguay/new-year-eve",
+        "urlid": "paraguay/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

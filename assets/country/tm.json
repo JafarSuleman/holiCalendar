@@ -1,0 +1,1081 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/new-year",
+        "urlid": "turkmenistan/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Fatherland Defenders",
+        "description": "Day of Fatherland Defenders is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-01-27",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/day-of-fatherlands-defenders",
+        "urlid": "turkmenistan/day-of-fatherlands-defenders",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Diplomatic Staff of Turkmenistan",
+        "description": "Day of Diplomatic Staff of Turkmenistan is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-02-18",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/day-of-diplomatic-staff-of-turkmenistan",
+        "urlid": "turkmenistan/day-of-diplomatic-staff-of-turkmenistan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Transport and Communication Workers",
+        "description": "Day of Transport and Communication Workers is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-03-07",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/day-of-transport-and-communication-workers",
+        "urlid": "turkmenistan/day-of-transport-and-communication-workers",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/turkmen-womans-day",
+        "urlid": "turkmenistan/turkmen-womans-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Turkmenistan (Ashgabat)",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-03-20T08:06:28+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 8,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TMT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz Bayram (Spring Festival)",
+        "description": "Nowruz Bayram (Spring Festival) is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/nowruz-bayram",
+        "urlid": "turkmenistan/nowruz-bayram",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz Bayram (Spring Festival)",
+        "description": "Nowruz Bayram (Spring Festival) is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-03-22",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/nowruz-bayram-1",
+        "urlid": "turkmenistan/nowruz-bayram-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Chemical Industry Workers",
+        "description": "Day of Chemical Industry Workers is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/day-of-chemical-industry-workers",
+        "urlid": "turkmenistan/day-of-chemical-industry-workers",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "World Health Day",
+        "description": "World Health Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/health-day",
+        "urlid": "turkmenistan/health-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Oraza Bayram",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/eid-al-fitr",
+        "urlid": "turkmenistan/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Migration Workers Day",
+        "description": "Migration Workers Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-04-17",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/migration-workers-day",
+        "urlid": "turkmenistan/migration-workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Turkmen Racing Horse Festival",
+        "description": "Turkmen Racing Horse Festival is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-04-28",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/turkmen-racing-horse-festival",
+        "urlid": "turkmenistan/turkmen-racing-horse-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/victory-day",
+        "urlid": "turkmenistan/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-05-18",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/revival-unity-poetry-magtymguly",
+        "urlid": "turkmenistan/revival-unity-poetry-magtymguly",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashgabat City Day",
+        "description": "Ashgabat City Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-05-25",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/ashgabat-city-day",
+        "urlid": "turkmenistan/ashgabat-city-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carpet Day",
+        "description": "Carpet Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/carpet-day",
+        "urlid": "turkmenistan/carpet-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Internal Affairs Officers Day",
+        "description": "Internal Affairs Officers Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-05-29",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/internal-affairs-officers-day",
+        "urlid": "turkmenistan/internal-affairs-officers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Childrens Day",
+        "description": "International Childrens Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/international-childrens-day",
+        "urlid": "turkmenistan/international-childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Textile Workers Day",
+        "description": "Textile Workers Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-02",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/textile-workers-day",
+        "urlid": "turkmenistan/textile-workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "World Envrionment Day",
+        "description": "World Envrionment Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-05",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/world-environment-day",
+        "urlid": "turkmenistan/world-environment-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Science Day",
+        "description": "Science Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-12",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/science-day",
+        "urlid": "turkmenistan/science-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kurban Bayramy Holiday",
+        "description": "Kurban Bayramy Holiday is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/eid-al-adha-holiday",
+        "urlid": "turkmenistan/eid-al-adha-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kurban Bayramy",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/eid-al-adha",
+        "urlid": "turkmenistan/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kurban Bayramy Holiday",
+        "description": "Kurban Bayramy Holiday is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/eid-al-adha-holiday-1",
+        "urlid": "turkmenistan/eid-al-adha-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Turkmenistan (Ashgabat)",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-21T01:50:59+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 1,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TMT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Prosecutor's Office Employees",
+        "description": "Day of Prosecutor's Office Employees is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-26",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/prosecutors-office-employees-day",
+        "urlid": "turkmenistan/prosecutors-office-employees-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Turkmen Workers of Culture and Art",
+        "description": "Day of Turkmen Workers of Culture and Art is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-06-27",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/turkmen-workers-of-culture-and-art",
+        "urlid": "turkmenistan/turkmen-workers-of-culture-and-art",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Judicial Employees",
+        "description": "Day of Judicial Employees is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/judicial-employees-day",
+        "urlid": "turkmenistan/judicial-employees-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Health and Medical Industry Workers Day",
+        "description": "Health and Medical Industry Workers Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-07-21",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/health-and-medical-industry-workers-day",
+        "urlid": "turkmenistan/health-and-medical-industry-workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Frontiersmen",
+        "description": "Day of Frontiersmen is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-08-11",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/frontiersmen-day",
+        "urlid": "turkmenistan/frontiersmen-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Students and Knowledge",
+        "description": "Day of Students and Knowledge is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-09-01",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/day-of-students-and-knowledge",
+        "urlid": "turkmenistan/day-of-students-and-knowledge",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Workers in the Energy Sector",
+        "description": "Day of the Workers in the Energy Sector is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-09-14",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/energy-sector-workers-day",
+        "urlid": "turkmenistan/energy-sector-workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Turkmenistan (Ashgabat)",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-09-22T17:43:33+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 17,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TMT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-09-27",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/independence-day",
+        "urlid": "turkmenistan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Day of Senior Citizens",
+        "description": "International Day of Senior Citizens is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/international-day-of-senior-citizens",
+        "urlid": "turkmenistan/international-day-of-senior-citizens",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Commemoration and National Mourning",
+        "description": "Day of Commemoration and National Mourning is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-10-06",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/national-mourning-day",
+        "urlid": "turkmenistan/national-mourning-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Naval Forces of Turkmenistan",
+        "description": "Day of Naval Forces of Turkmenistan is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-10-09",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/naval-forces-day",
+        "urlid": "turkmenistan/naval-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Harvest Festival",
+        "description": "Harvest Festival is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-11-10",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/harvest-festival",
+        "urlid": "turkmenistan/harvest-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Neutrality",
+        "description": "Day of Neutrality is a public holiday in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-12-12",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/day-of-neutrality",
+        "urlid": "turkmenistan/day-of-neutrality",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Workers of Oil, Gas, Power and Geological Industry",
+        "description": "Day of the Workers of Oil, Gas, Power and Geological Industry is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-12-14",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/oil-gas-power-and-geological-workers-day",
+        "urlid": "turkmenistan/oil-gas-power-and-geological-workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Niyazov Day",
+        "description": "Niyazov Day is a observance in Turkmenistan",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-12-21",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkmenistan/niyazov-day",
+        "urlid": "turkmenistan/niyazov-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Turkmenistan (Ashgabat)",
+        "country": {
+          "id": "tm",
+          "name": "Turkmenistan"
+        },
+        "date": {
+          "iso": "2024-12-21T14:20:34+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 14,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TMT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

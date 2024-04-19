@@ -1,0 +1,578 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/new-year-day",
+        "urlid": "kazakhstan/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year Holiday",
+        "description": "New Year Holiday is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/new-year-day-2",
+        "urlid": "kazakhstan/new-year-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/christmas-day",
+        "urlid": "kazakhstan/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/womens-day",
+        "urlid": "kazakhstan/womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Kazakhstan (Astana)",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-03-20T09:06:28+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 9,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "ALMT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nauryz",
+        "description": "Nauryz is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/nauryz",
+        "urlid": "kazakhstan/nauryz",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nauryz Holiday",
+        "description": "Nauryz Holiday is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-03-22",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/nauryz-day-2",
+        "urlid": "kazakhstan/nauryz-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nauryz Holiday",
+        "description": "Nauryz Holiday is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-03-23",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/nauryz-3",
+        "urlid": "kazakhstan/nauryz-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nauryz Holiday observed",
+        "description": "Nauryz Holiday is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/nauryz-3",
+        "urlid": "kazakhstan/nauryz-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unity Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/unity-day",
+        "urlid": "kazakhstan/unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Defender of the Fatherland Day",
+        "description": "Defender of the Fatherland Day is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-05-07",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/defender-fatherland-day",
+        "urlid": "kazakhstan/defender-fatherland-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/victory-day",
+        "urlid": "kazakhstan/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kurban Ait",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/eid-al-adha",
+        "urlid": "kazakhstan/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Kazakhstan (Astana)",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-06-21T02:50:59+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 2,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "ALMT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Capital",
+        "description": "Day of the Capital is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-07-06",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/capital-day",
+        "urlid": "kazakhstan/capital-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Day of the Capital",
+        "description": "Day of the Capital is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/capital-day",
+        "urlid": "kazakhstan/capital-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-08-30",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/constitution-day",
+        "urlid": "kazakhstan/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Kazakhstan (Astana)",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-09-22T18:43:33+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 18,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "ALMT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-10-25",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/republic-day",
+        "urlid": "kazakhstan/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Kazakhstan",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-12-16",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/independence-day",
+        "urlid": "kazakhstan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Kazakhstan (Astana)",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-12-21T15:20:34+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 15,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "ALMT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "kz",
+          "name": "Kazakhstan"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/kazakhstan/new-year-eve",
+        "urlid": "kazakhstan/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/new-year-day",
+        "urlid": "puerto-rico/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/epiphany",
+        "urlid": "puerto-rico/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birthday of Eugenio María de Hostos",
+        "description": "Birthday of Eugenio María de Hostos is a observance in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-01-11",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/eugenio-maria-de-hostos-birthday",
+        "urlid": "puerto-rico/eugenio-maria-de-hostos-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martin Luther King Jr Day",
+        "description": "Martin Luther King Jr Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/martin-luther-king-day",
+        "urlid": "puerto-rico/martin-luther-king-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival/Shrove Tuesday",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/shrove-tuesday",
+        "urlid": "puerto-rico/shrove-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/valentine-day",
+        "urlid": "puerto-rico/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín",
+        "description": "Day in Commemoration of the Birthday of Don Luis Muñoz-Marín is a observance in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-02-18",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/luis-munoz-marin-day",
+        "urlid": "puerto-rico/luis-munoz-marin-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Presidents' Day",
+        "description": "Presidents' Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-02-19",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/presidents-day",
+        "urlid": "puerto-rico/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "American Citizenship Day",
+        "description": "American Citizenship Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-03-02",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 2
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/american-citizenship-day",
+        "urlid": "puerto-rico/american-citizenship-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Puerto Rico (San Juan)",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-03-22",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 22
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/emancipation-day",
+        "urlid": "puerto-rico/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/good-friday",
+        "urlid": "puerto-rico/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/easter-sunday",
+        "urlid": "puerto-rico/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "José de Diego’s Birthday",
+        "description": "José de Diego’s Birthday is a observance in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-04-16",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/jose-de-diego-day",
+        "urlid": "puerto-rico/jose-de-diego-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/mother-day",
+        "urlid": "puerto-rico/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day",
+        "description": "Memorial Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-05-27",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 27
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/memorial-day",
+        "urlid": "puerto-rico/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/father-day",
+        "urlid": "puerto-rico/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Puerto Rico (San Juan)",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "US Independence Day",
+        "description": "US Independence Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/independence-day",
+        "urlid": "puerto-rico/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-07-25",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 25
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/constitution-day",
+        "urlid": "puerto-rico/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "José Celso Barbosa’s Birthday",
+        "description": "José Celso Barbosa’s Birthday is a observance in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-07-27",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/jose-celso-barbosa-day",
+        "urlid": "puerto-rico/jose-celso-barbosa-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/labor-day",
+        "urlid": "puerto-rico/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Puerto Rico (San Juan)",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Columbus Day",
+        "description": "Columbus Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/columbus-day",
+        "urlid": "puerto-rico/columbus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Veterans Day",
+        "description": "Veterans Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/veterans-day",
+        "urlid": "puerto-rico/veterans-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Discovery Day",
+        "description": "Discovery Day is a bank/public sector holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-11-19",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 19
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank/Public Sector Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/discovery-day",
+        "urlid": "puerto-rico/discovery-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thanksgiving Day",
+        "description": "Thanksgiving Day is a public holiday in Puerto Rico",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-11-28",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/thanksgiving-day",
+        "urlid": "puerto-rico/thanksgiving-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Puerto Rico (San Juan)",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/christmas-eve",
+        "urlid": "puerto-rico/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/christmas-day",
+        "urlid": "puerto-rico/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "pr",
+          "name": "Puerto Rico"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/puerto-rico/new-year-eve",
+        "urlid": "puerto-rico/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

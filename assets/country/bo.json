@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/new-year-day",
+        "urlid": "bolivia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/the-three-wise-men-day",
+        "urlid": "bolivia/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Plurinational State Foundation Day",
+        "description": "Plurinational State Foundation Day is a national holiday in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-01-22",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/plurinational-state-foundation-day",
+        "urlid": "bolivia/plurinational-state-foundation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Candelaria",
+        "description": "Feast of Candelaria is a observance in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-02-02",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/feast-of-candelaria",
+        "urlid": "bolivia/feast-of-candelaria",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Monday",
+        "description": "Carnival / Shrove Monday is a national holiday in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/carnival-monday",
+        "urlid": "bolivia/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Tuesday / Pancake Day",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/carnival-tuesday",
+        "urlid": "bolivia/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/father-day",
+        "urlid": "bolivia/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Bolivia (La Paz)",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "BOT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Sea",
+        "description": "Day of the Sea is a observance in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-03-23",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/day-of-the-sea",
+        "urlid": "bolivia/day-of-the-sea",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/maundy-thursday",
+        "urlid": "bolivia/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/good-friday",
+        "urlid": "bolivia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/childrens-day",
+        "urlid": "bolivia/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/labor-day",
+        "urlid": "bolivia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-05-27",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/mothers-day",
+        "urlid": "bolivia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/corpus-christi",
+        "urlid": "bolivia/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Bolivia (La Paz)",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "BOT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Aymara New Year Day",
+        "description": "Aymara New Year Day is a national holiday in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/aymara-new-year-day",
+        "urlid": "bolivia/aymara-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-08-06",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/independence-day",
+        "urlid": "bolivia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a observance in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-08-17",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/flag-day",
+        "urlid": "bolivia/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Bolivia (La Paz)",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "BOT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bolivian Women's Day",
+        "description": "Bolivian Women's Day is a observance in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/womens-day",
+        "urlid": "bolivia/womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Decolonization",
+        "description": "Day of Decolonization is a observance in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/indigenous-resistances-day",
+        "urlid": "bolivia/indigenous-resistances-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Dignity",
+        "description": "Day of Dignity is a national holiday in Bolivia",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-10-17",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/day-of-dignity",
+        "urlid": "bolivia/day-of-dignity",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/all-saints-day",
+        "urlid": "bolivia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Bolivia (La Paz)",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "BOT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "bo",
+          "name": "Bolivia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/bolivia/christmas-day",
+        "urlid": "bolivia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

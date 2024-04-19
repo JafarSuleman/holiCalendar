@@ -1,0 +1,1419 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/new-year-day",
+        "urlid": "moldova/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/moldova/orthodox-christmas-day",
+        "urlid": "moldova/orthodox-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day holiday",
+        "description": "Orthodox Christmas Day holiday is a national holiday and Orthodox holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-01-08",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/moldova/orthodox-christmas-day",
+        "urlid": "moldova/orthodox-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mihai Eminescu Commemoration Day",
+        "description": "Mihai Eminescu Commemoration Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/mihai-eminescu-day",
+        "urlid": "moldova/mihai-eminescu-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holocaust Remembrance Day",
+        "description": "Holocaust Remembrance Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-01-27",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/holocaust-remembrance-day",
+        "urlid": "moldova/holocaust-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/valentine-day",
+        "urlid": "moldova/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Commemoration of the Victims of the Afghanistan War",
+        "description": "Day of Commemoration of the Victims of the Afghanistan War is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-02-15",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/victims-of-afghanistan-war-commemoration-day",
+        "urlid": "moldova/victims-of-afghanistan-war-commemoration-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martisor (first day of spring)",
+        "description": "Martisor (first day of spring) is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/martisor",
+        "urlid": "moldova/martisor",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance and Gratitude Day",
+        "description": "Remembrance and Gratitude Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-03-02",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/remembrance-and-gratitude-day",
+        "urlid": "moldova/remembrance-and-gratitude-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a national holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/international-womens-day",
+        "urlid": "moldova/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Moldova (Chișinău)",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance and Freedom Day",
+        "description": "Remembrance and Freedom Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/freedom-day",
+        "urlid": "moldova/freedom-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Victims of Organized Famine of 1946-1947",
+        "description": "Day of Victims of Organized Famine of 1946-1947 is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-04-20",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/day-of-victims-of-organized-famine",
+        "urlid": "moldova/day-of-victims-of-organized-famine",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Victims of Nuclear Accidents",
+        "description": "Day of Victims of Nuclear Accidents is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-04-26",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/day-of-victims-of-nuclear-accidents",
+        "urlid": "moldova/day-of-victims-of-nuclear-accidents",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "State Flag Day",
+        "description": "State Flag Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-04-27",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/state-flag-day",
+        "urlid": "moldova/state-flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Occupational Health and Safety Day",
+        "description": "Occupational Health and Safety Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-04-28",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/occupational-health-and-safety-day",
+        "urlid": "moldova/occupational-health-and-safety-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Day of Solidarity of Workers",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/workers-day",
+        "urlid": "moldova/workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Good Friday",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/moldova/orthodox-good-friday",
+        "urlid": "moldova/orthodox-good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Holy Saturday",
+        "description": "The Saturday before Easter Sunday is also known as Holy Saturday for many Orthodox churches worldwide.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/moldova/orthodox-holy-saturday",
+        "urlid": "moldova/orthodox-holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Sunday",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/moldova/orthodox-easter-sunday",
+        "urlid": "moldova/orthodox-easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Monday",
+        "description": "Orthodox Easter Monday is the day after the Orthodox Easter Sunday.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/moldova/orthodox-easter-monday",
+        "urlid": "moldova/orthodox-easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a national holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/victory-day",
+        "urlid": "moldova/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Europe Day",
+        "description": "Europe Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/europe-day",
+        "urlid": "moldova/europe-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day/Parents' Day",
+        "description": "Memorial Day/Parents' Day is a national holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-13",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/memorial-day",
+        "urlid": "moldova/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Family Day",
+        "description": "Family Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/family-day",
+        "urlid": "moldova/family-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bălți Day",
+        "description": "Bălți Day is a local holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-22",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 22
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/balti-day",
+        "urlid": "moldova/balti-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dniester Day",
+        "description": "Dniester Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/dniester-day",
+        "urlid": "moldova/dniester-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Children's Day",
+        "description": "International Children's Day is a national holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/international-childrens-day",
+        "urlid": "moldova/international-childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "World Environment Day",
+        "description": "World Environment Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-05",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/world-environment-day",
+        "urlid": "moldova/world-environment-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Moldova (Chișinău)",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victims of Fascism Day",
+        "description": "Victims of Fascism Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-22",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/victims-of-fascism-day",
+        "urlid": "moldova/victims-of-fascism-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Statehood Day",
+        "description": "Statehood Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-23",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/statehood-day",
+        "urlid": "moldova/statehood-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day Against Illicit Drug Consumption and Trafficking",
+        "description": "Day Against Illicit Drug Consumption and Trafficking is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-26",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/day-against-illicit-drug-consumption-and-trafficking",
+        "urlid": "moldova/day-against-illicit-drug-consumption-and-trafficking",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peoples Port Day",
+        "description": "Peoples Port Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-30",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/peoples-port-day",
+        "urlid": "moldova/peoples-port-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Competition Day",
+        "description": "Competition Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-06-30",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/competition-day",
+        "urlid": "moldova/competition-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Stephen the Great Day",
+        "description": "Stephen the Great Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-07-02",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/stephen-the-great-day",
+        "urlid": "moldova/stephen-the-great-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victims of Stalinism Day",
+        "description": "Victims of Stalinism Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-07-06",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/victims-of-stalinism-day",
+        "urlid": "moldova/victims-of-stalinism-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/constitution-day",
+        "urlid": "moldova/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-08-27",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/national-day",
+        "urlid": "moldova/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Language Day",
+        "description": "Language Day is a national holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-08-31",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/language-day",
+        "urlid": "moldova/language-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Moldova (Chișinău)",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Apple Festival",
+        "description": "National Apple Festival is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-09-28",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/national-apple-festival",
+        "urlid": "moldova/national-apple-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Apple Festival",
+        "description": "National Apple Festival is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-09-29",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/national-apple-festival-1",
+        "urlid": "moldova/national-apple-festival-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Wine Day",
+        "description": "Wine Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-10-05",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/wine-day",
+        "urlid": "moldova/wine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Wine Day",
+        "description": "Wine Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-10-06",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/wine-day",
+        "urlid": "moldova/wine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chișinău Day",
+        "description": "Chișinău Day is a local holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/chisinau-day",
+        "urlid": "moldova/chisinau-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Food Day",
+        "description": "National Food Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-10-16",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/national-food-day",
+        "urlid": "moldova/national-food-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/halloween",
+        "urlid": "moldova/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Cahul Day",
+        "description": "Cahul Day is a local holiday in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-11-21",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 21
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/cahul-day",
+        "urlid": "moldova/cahul-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Human Rights Day",
+        "description": "International Human Rights Day is a observance in Moldova",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-12-10",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/human-rights-day",
+        "urlid": "moldova/human-rights-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Moldova (Chișinău)",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/christmas-eve",
+        "urlid": "moldova/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/moldova/christmas-day",
+        "urlid": "moldova/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "md",
+          "name": "Moldova"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/moldova/new-year-eve",
+        "urlid": "moldova/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

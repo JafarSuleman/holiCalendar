@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/new-year-day",
+        "urlid": "bermuda/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/valentine-day",
+        "urlid": "bermuda/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-03-10T02:00:00-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 10,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Bermuda (Hamilton)",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-03-20T00:06:28-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 0,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ADT",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/good-friday",
+        "urlid": "bermuda/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/easter-sunday",
+        "urlid": "bermuda/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/mother-day",
+        "urlid": "bermuda/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bermuda Day",
+        "description": "Bermuda Day is a public holiday in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-05-24",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/bermuda-day",
+        "urlid": "bermuda/bermuda-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/father-day",
+        "urlid": "bermuda/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Heroes Day",
+        "description": "National Heroes Day is a public holiday in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/national-heroes-day",
+        "urlid": "bermuda/national-heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Bermuda (Hamilton)",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-06-20T17:50:59-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 17,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ADT",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a public holiday in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/emancipation-day",
+        "urlid": "bermuda/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mary Prince Day",
+        "description": "Mary Prince Day is a public holiday in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-08-02",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/somers-day",
+        "urlid": "bermuda/somers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/labour-day",
+        "urlid": "bermuda/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Bermuda (Hamilton)",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-09-22T09:43:33-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 9,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ADT",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/halloween",
+        "urlid": "bermuda/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-11-03T02:00:00-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 3,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "ADT",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Remembrance Day is a public holiday in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/remembrance-day",
+        "urlid": "bermuda/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Bermuda (Hamilton)",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/christmas-eve",
+        "urlid": "bermuda/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/christmas-day",
+        "urlid": "bermuda/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Bermuda",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/boxing-day",
+        "urlid": "bermuda/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "bm",
+          "name": "Bermuda"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bermuda/new-year-eve",
+        "urlid": "bermuda/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

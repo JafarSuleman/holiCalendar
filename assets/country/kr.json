@@ -1,0 +1,793 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/new-year-day",
+        "urlid": "south-korea/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Seollal Holiday",
+        "description": "Seollal Holiday is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-02-09",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/seollal-holiday-1",
+        "urlid": "south-korea/seollal-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Seollal",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/seollal-holiday-2",
+        "urlid": "south-korea/seollal-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Seollal Holiday",
+        "description": "Seollal Holiday is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/seollal-holiday-3",
+        "urlid": "south-korea/seollal-holiday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Seollal Holiday",
+        "description": "Seollal Holiday is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/seollal-holiday-4",
+        "urlid": "south-korea/seollal-holiday-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/valentines-day",
+        "urlid": "south-korea/valentines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Movement Day",
+        "description": "Independence Movement Day is a national holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/independence-movement-day",
+        "urlid": "south-korea/independence-movement-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in South Korea (Seoul)",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-03-20T12:06:28+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 12,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Arbor Day",
+        "description": "Arbor Day is a observance in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-04-05",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/arbor-day",
+        "urlid": "south-korea/arbor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/labor-day",
+        "urlid": "south-korea/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/childrens-day",
+        "urlid": "south-korea/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Children's Day",
+        "description": "Children's Day is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/childrens-day",
+        "urlid": "south-korea/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Parents' Day",
+        "description": "Parents' Day is a observance in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/parents-day",
+        "urlid": "south-korea/parents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha’s Birthday",
+        "description": "Buddha’s Birthday is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/buddha-birthday",
+        "urlid": "south-korea/buddha-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teacher's Day",
+        "description": "Teacher's Day is a observance in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/teachers-day",
+        "urlid": "south-korea/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day",
+        "description": "Memorial Day is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-06-06",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/memorial-day",
+        "urlid": "south-korea/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in South Korea (Seoul)",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-06-21T05:50:59+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 5,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-07-17",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/constitution-day",
+        "urlid": "south-korea/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a national holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/liberation-day",
+        "urlid": "south-korea/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chuseok Holiday",
+        "description": "Chuseok Holiday is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/mid-autumn-festival-day-1",
+        "urlid": "south-korea/mid-autumn-festival-day-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chuseok",
+        "description": "Chuseok is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/mid-autumn-festival-day-2",
+        "urlid": "south-korea/mid-autumn-festival-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chuseok Holiday",
+        "description": "Chuseok Holiday is a public holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-09-18",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/mid-autumn-festival-day-3",
+        "urlid": "south-korea/mid-autumn-festival-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in South Korea (Seoul)",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-09-22T21:43:33+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 21,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a observance in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/armed-forces-day",
+        "urlid": "south-korea/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Foundation Day",
+        "description": "National Foundation Day is a national holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/national-foundation-day",
+        "urlid": "south-korea/national-foundation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hangeul Proclamation Day",
+        "description": "Hangeul Proclamation Day is a national holiday in South Korea",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-10-09",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/hangeul-day",
+        "urlid": "south-korea/hangeul-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/halloween",
+        "urlid": "south-korea/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in South Korea (Seoul)",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-12-21T18:20:34+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 18,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/christmas-eve",
+        "urlid": "south-korea/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/christmas-day",
+        "urlid": "south-korea/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "kr",
+          "name": "South Korea"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-korea/new-year-eve",
+        "urlid": "south-korea/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

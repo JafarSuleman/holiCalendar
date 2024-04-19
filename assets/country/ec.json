@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/new-year-day",
+        "urlid": "ecuador/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival",
+        "description": "Carnival is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/carnival-monday",
+        "urlid": "ecuador/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/carnival-tuesday",
+        "urlid": "ecuador/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Ecuador (Quito)",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-03-19T22:06:28-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 22,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "ECT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/maundy-thursday",
+        "urlid": "ecuador/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/good-friday",
+        "urlid": "ecuador/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/holy-saturday",
+        "urlid": "ecuador/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/easter-sunday",
+        "urlid": "ecuador/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/labor-day",
+        "urlid": "ecuador/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/labor-day",
+        "urlid": "ecuador/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Battle of Pichincha",
+        "description": "The Battle of Pichincha is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-05-24",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/the-battle-of-pichincha",
+        "urlid": "ecuador/the-battle-of-pichincha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Ecuador (Quito)",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-06-20T15:50:59-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 15,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "ECT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Simón Bolívar's Birthday Memorial",
+        "description": "Simón Bolívar's Birthday Memorial is a observance in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-07-24",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/simon-bolivar-birthdays-memorial",
+        "urlid": "ecuador/simon-bolivar-birthdays-memorial",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence Day",
+        "description": "Independence Day is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-08-09",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/independece-day",
+        "urlid": "ecuador/independece-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-08-10",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/independece-day",
+        "urlid": "ecuador/independece-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Ecuador (Quito)",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-09-22T07:43:33-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 7,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "ECT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence of Guayaquil",
+        "description": "Independence of Guayaquil is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-10-09",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/independence-of-guayaquil",
+        "urlid": "ecuador/independence-of-guayaquil",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence of Guayaquil",
+        "description": "Independence of Guayaquil is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/independence-of-guayaquil",
+        "urlid": "ecuador/independence-of-guayaquil",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/all-souls-day",
+        "urlid": "ecuador/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/all-souls-day",
+        "urlid": "ecuador/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence of Cuenca",
+        "description": "Independence of Cuenca is a observance in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-11-03",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/independence-of-cuenca",
+        "urlid": "ecuador/independence-of-cuenca",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence of Cuenca",
+        "description": "Day off for Independence of Cuenca is a national holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/independence-of-cuenca",
+        "urlid": "ecuador/independence-of-cuenca",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Foundation of Quito",
+        "description": "Foundation of Quito is a local holiday in Ecuador",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-12-06",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/foundation-of-quito",
+        "urlid": "ecuador/foundation-of-quito",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Ecuador (Quito)",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-12-21T04:20:34-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 4,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "ECT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/christmas-day",
+        "urlid": "ecuador/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ec",
+          "name": "Ecuador"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ecuador/new-years-eve",
+        "urlid": "ecuador/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

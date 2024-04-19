@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/new-year",
+        "urlid": "malawi/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "John Chilembwe Day",
+        "description": "John Chilembwe Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/john-chilembwe-day",
+        "urlid": "malawi/john-chilembwe-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martyrs' Day",
+        "description": "Martyrs' Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-03-03",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/martyrs-day",
+        "urlid": "malawi/martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Martyrs' Day",
+        "description": "Martyrs' Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-03-04",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/martyrs-day",
+        "urlid": "malawi/martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malawi/ramadan-begins",
+        "urlid": "malawi/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Malawi (Lilongwe)",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/good-friday",
+        "urlid": "malawi/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/easter-saturday",
+        "urlid": "malawi/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/easter-monday",
+        "urlid": "malawi/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/eid-al-fitr",
+        "urlid": "malawi/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/may-day",
+        "urlid": "malawi/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kamuzu Day",
+        "description": "Kamuzu Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-05-14",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/kamuzu-day",
+        "urlid": "malawi/kamuzu-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Malawi (Lilongwe)",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-07-06",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/independence-day",
+        "urlid": "malawi/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence Day",
+        "description": "Independence Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/independence-day",
+        "urlid": "malawi/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Malawi (Lilongwe)",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-10-15",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/mothers-day",
+        "urlid": "malawi/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Malawi (Lilongwe)",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/christmas-day",
+        "urlid": "malawi/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Malawi",
+        "country": {
+          "id": "mw",
+          "name": "Malawi"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/malawi/boxing-day",
+        "urlid": "malawi/boxing-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

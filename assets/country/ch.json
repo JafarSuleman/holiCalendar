@@ -1,0 +1,3463 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/new-year-day",
+        "urlid": "switzerland/new-year-day",
+        "locations": "All",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Berchtold Day",
+        "description": "Berchtold Day is a public holiday in a number of Switzerland's cantons.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/berchtold-day",
+        "urlid": "switzerland/berchtold-day",
+        "locations": "15 states",
+        "states": [
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": "partly",
+            "iso": "ch-ag"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          }
+        ]
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/epiphany",
+        "urlid": "switzerland/epiphany",
+        "locations": "GR (partly), SZ, TI, UR",
+        "states": [
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": "partly",
+            "iso": "ch-gr"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          }
+        ]
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/valentine-day",
+        "urlid": "switzerland/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/republic-day",
+        "urlid": "switzerland/republic-day",
+        "locations": "NE",
+        "states": [
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          }
+        ]
+      },
+      {
+        "name": "Saint Joseph's Day",
+        "description": "St. Joseph's Day is a public holiday in the predominantly Catholic regions of Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/saint-joseph-day",
+        "urlid": "switzerland/saint-joseph-day",
+        "locations": "LU (partly), NW, SO (partly), SZ, TI, UR, VS",
+        "states": [
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": "partly",
+            "iso": "ch-lu"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": "partly",
+            "iso": "ch-so"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          }
+        ]
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Switzerland (Bern)",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/good-friday",
+        "urlid": "switzerland/good-friday",
+        "locations": "All except TI, VS",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/easter-day",
+        "urlid": "switzerland/easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/easter-monday",
+        "urlid": "switzerland/easter-monday",
+        "locations": "All except LU, NE",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Näfels Procession",
+        "description": "Näfels Procession is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-04-04",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/naefelser-fahrt",
+        "urlid": "switzerland/naefelser-fahrt",
+        "locations": "GL",
+        "states": [
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          }
+        ]
+      },
+      {
+        "name": "Sechseläuten",
+        "description": "Sechseläuten is an old spring festival that is celebrated each year in Zurich, Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-04-15",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/sechselaeuten",
+        "urlid": "switzerland/sechselaeuten",
+        "locations": "ZH",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          }
+        ]
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/may-day",
+        "urlid": "switzerland/may-day",
+        "locations": "BL, BS, JU, SH, ZH",
+        "states": [
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          }
+        ]
+      },
+      {
+        "name": "May Day (Half-Day)",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Half Day Holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/may-day",
+        "urlid": "switzerland/may-day",
+        "locations": "SO",
+        "states": [
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          }
+        ]
+      },
+      {
+        "name": "May Day (Half-Day)",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/may-day",
+        "urlid": "switzerland/may-day",
+        "locations": "TG, TI",
+        "states": [
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          }
+        ]
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/ascension-day",
+        "urlid": "switzerland/ascension-day",
+        "locations": "All",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/mothers-day",
+        "urlid": "switzerland/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pentecost",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/pentecost-sunday",
+        "urlid": "switzerland/pentecost-sunday",
+        "locations": "All",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Pentecost Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/pentecost-monday",
+        "urlid": "switzerland/pentecost-monday",
+        "locations": "All except NE",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a public holiday in a number of Switzerland's cantons.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/corpus-christi",
+        "urlid": "switzerland/corpus-christi",
+        "locations": "14 states",
+        "states": [
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          }
+        ]
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-06-02",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/fathers-day",
+        "urlid": "switzerland/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Switzerland (Bern)",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Jura Independence Day",
+        "description": "Jura Independence Day is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-06-23",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 23
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/jura-independence-day",
+        "urlid": "switzerland/jura-independence-day",
+        "locations": "JU",
+        "states": [
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "St. Peter and St. Paul",
+        "description": "St. Peter and St. Paul is a observance in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/peter-and-paul",
+        "urlid": "switzerland/peter-and-paul",
+        "locations": "TI",
+        "states": [
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          }
+        ]
+      },
+      {
+        "name": "Swiss National Day",
+        "description": "Switzerland's National Day falls on August 1.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/national-day",
+        "urlid": "switzerland/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/assumption-of-mary",
+        "urlid": "switzerland/assumption-of-mary",
+        "locations": "12 states",
+        "states": [
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": "partly",
+            "iso": "ch-ag"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": "partly",
+            "iso": "ch-fr"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          }
+        ]
+      },
+      {
+        "name": "Genevese Fast",
+        "description": "Genevese Fast is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-05",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 5
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/jeune-genevois",
+        "urlid": "switzerland/jeune-genevois",
+        "locations": "GE",
+        "states": [
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          }
+        ]
+      },
+      {
+        "name": "Knabenschiessen",
+        "description": "Knabenschiessen is a traditional shooting competition in Zurich, Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/knabenschiessen",
+        "urlid": "switzerland/knabenschiessen",
+        "locations": "ZH",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          }
+        ]
+      },
+      {
+        "name": "Knabenschiessen",
+        "description": "Knabenschiessen is a traditional shooting competition in Zurich, Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/knabenschiessen",
+        "urlid": "switzerland/knabenschiessen",
+        "locations": "ZH",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          }
+        ]
+      },
+      {
+        "name": "Knabenschiessen",
+        "description": "Knabenschiessen is a traditional shooting competition in Zurich, Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/knabenschiessen",
+        "urlid": "switzerland/knabenschiessen",
+        "locations": "ZH",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          }
+        ]
+      },
+      {
+        "name": "Swiss Federal Fast",
+        "description": "Swiss Federal Fast is a observance in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/federal-fast",
+        "urlid": "switzerland/federal-fast",
+        "locations": "All except GE",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "Federal Fast Monday",
+        "description": "Federal Fast Monday is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/federal-fast-monday",
+        "urlid": "switzerland/federal-fast-monday",
+        "locations": "VD, NE",
+        "states": [
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          }
+        ]
+      },
+      {
+        "name": "Mauritius Day",
+        "description": "Mauritius Day is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-22",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/mauritius-day",
+        "urlid": "switzerland/mauritius-day",
+        "locations": "AI (partly)",
+        "states": [
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": "partly",
+            "iso": "ch-ai"
+          }
+        ]
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Switzerland (Bern)",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Nicholas of Flüe",
+        "description": "St. Nicholas of Flüe is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-09-25",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 25
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/saint-nicholas-of-flue",
+        "urlid": "switzerland/saint-nicholas-of-flue",
+        "locations": "OW",
+        "states": [
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          }
+        ]
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "All Saints is a public holiday in some areas of Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/all-saints",
+        "urlid": "switzerland/all-saints",
+        "locations": "15 states",
+        "states": [
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": "partly",
+            "iso": "ch-fr"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          }
+        ]
+      },
+      {
+        "name": "Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/immaculate-conception",
+        "urlid": "switzerland/immaculate-conception",
+        "locations": "12 states",
+        "states": [
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": "partly",
+            "iso": "ch-fr"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": "partly",
+            "iso": "ch-gr"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          }
+        ]
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Switzerland (Bern)",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/christmas-eve",
+        "urlid": "switzerland/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/christmas-day",
+        "urlid": "switzerland/christmas-day",
+        "locations": "All",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 377,
+            "abbrev": "VD",
+            "name": "Vaud",
+            "exception": null,
+            "iso": "ch-vd"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          },
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          },
+          {
+            "id": 381,
+            "abbrev": "JU",
+            "name": "Jura",
+            "exception": null,
+            "iso": "ch-ju"
+          }
+        ]
+      },
+      {
+        "name": "St. Stephen's Day",
+        "description": "The Feast of Saint Stephen is a public holiday in large parts of Switzerland.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/st-stephen",
+        "urlid": "switzerland/st-stephen",
+        "locations": "All except VD, GE, JU",
+        "states": [
+          {
+            "id": 356,
+            "abbrev": "ZH",
+            "name": "Zurich",
+            "exception": null,
+            "iso": "ch-zh"
+          },
+          {
+            "id": 357,
+            "abbrev": "BE",
+            "name": "Bern",
+            "exception": null,
+            "iso": "ch-be"
+          },
+          {
+            "id": 358,
+            "abbrev": "LU",
+            "name": "Lucerne",
+            "exception": null,
+            "iso": "ch-lu"
+          },
+          {
+            "id": 359,
+            "abbrev": "UR",
+            "name": "Uri",
+            "exception": null,
+            "iso": "ch-ur"
+          },
+          {
+            "id": 360,
+            "abbrev": "SZ",
+            "name": "Schwyz",
+            "exception": null,
+            "iso": "ch-sz"
+          },
+          {
+            "id": 361,
+            "abbrev": "OW",
+            "name": "Obwalden",
+            "exception": null,
+            "iso": "ch-ow"
+          },
+          {
+            "id": 362,
+            "abbrev": "NW",
+            "name": "Nidwalden",
+            "exception": null,
+            "iso": "ch-nw"
+          },
+          {
+            "id": 363,
+            "abbrev": "GL",
+            "name": "Glarus",
+            "exception": null,
+            "iso": "ch-gl"
+          },
+          {
+            "id": 364,
+            "abbrev": "ZG",
+            "name": "Zug",
+            "exception": null,
+            "iso": "ch-zg"
+          },
+          {
+            "id": 365,
+            "abbrev": "FR",
+            "name": "Fribourg",
+            "exception": null,
+            "iso": "ch-fr"
+          },
+          {
+            "id": 366,
+            "abbrev": "SO",
+            "name": "Solothurn",
+            "exception": null,
+            "iso": "ch-so"
+          },
+          {
+            "id": 367,
+            "abbrev": "BS",
+            "name": "Basel-Stadt",
+            "exception": null,
+            "iso": "ch-bs"
+          },
+          {
+            "id": 368,
+            "abbrev": "BL",
+            "name": "Basel-Land",
+            "exception": null,
+            "iso": "ch-bl"
+          },
+          {
+            "id": 369,
+            "abbrev": "SH",
+            "name": "Schaffhausen",
+            "exception": null,
+            "iso": "ch-sh"
+          },
+          {
+            "id": 370,
+            "abbrev": "AR",
+            "name": "Appenzell Ausserrhoden",
+            "exception": null,
+            "iso": "ch-ar"
+          },
+          {
+            "id": 371,
+            "abbrev": "AI",
+            "name": "Appenzell Innerrhoden",
+            "exception": null,
+            "iso": "ch-ai"
+          },
+          {
+            "id": 372,
+            "abbrev": "SG",
+            "name": "St. Gallen",
+            "exception": null,
+            "iso": "ch-sg"
+          },
+          {
+            "id": 373,
+            "abbrev": "AG",
+            "name": "Aargau",
+            "exception": null,
+            "iso": "ch-ag"
+          },
+          {
+            "id": 374,
+            "abbrev": "GR",
+            "name": "Graubünden",
+            "exception": null,
+            "iso": "ch-gr"
+          },
+          {
+            "id": 375,
+            "abbrev": "TG",
+            "name": "Thurgau",
+            "exception": null,
+            "iso": "ch-tg"
+          },
+          {
+            "id": 376,
+            "abbrev": "TI",
+            "name": "Ticino",
+            "exception": null,
+            "iso": "ch-ti"
+          },
+          {
+            "id": 378,
+            "abbrev": "VS",
+            "name": "Valais",
+            "exception": null,
+            "iso": "ch-vs"
+          },
+          {
+            "id": 379,
+            "abbrev": "NE",
+            "name": "Neuchâtel",
+            "exception": null,
+            "iso": "ch-ne"
+          }
+        ]
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/new-year-eve",
+        "urlid": "switzerland/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Restoration Day",
+        "description": "Restoration Day is a common local holiday in Switzerland",
+        "country": {
+          "id": "ch",
+          "name": "Switzerland"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/switzerland/restoration-day",
+        "urlid": "switzerland/restoration-day",
+        "locations": "GE",
+        "states": [
+          {
+            "id": 380,
+            "abbrev": "GE",
+            "name": "Geneva",
+            "exception": null,
+            "iso": "ch-ge"
+          }
+        ]
+      }
+    ]
+  }
+}

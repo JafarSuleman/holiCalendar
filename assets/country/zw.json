@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/new-year",
+        "urlid": "zimbabwe/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Robert Gabriel Mugabe National Youth Day",
+        "description": "Robert Gabriel Mugabe National Youth Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-02-21",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/robert-mugabe-national-youth-day",
+        "urlid": "zimbabwe/robert-mugabe-national-youth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Zimbabwe (Harare)",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/good-friday",
+        "urlid": "zimbabwe/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/easter-saturday",
+        "urlid": "zimbabwe/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/easter",
+        "urlid": "zimbabwe/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/easter-monday",
+        "urlid": "zimbabwe/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-04-18",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/independence-day",
+        "urlid": "zimbabwe/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Workers' Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/may-day",
+        "urlid": "zimbabwe/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/mothers-day",
+        "urlid": "zimbabwe/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Africa Day",
+        "description": "Africa Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-05-25",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/africa-day",
+        "urlid": "zimbabwe/africa-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/fathers-day",
+        "urlid": "zimbabwe/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Zimbabwe (Harare)",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Heroes' Day",
+        "description": "Heroes' Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-08-12",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/heroes-day",
+        "urlid": "zimbabwe/heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Defence Forces Day",
+        "description": "Defence Forces Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-08-13",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/defence-forces-day",
+        "urlid": "zimbabwe/defence-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Zimbabwe (Harare)",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Zimbabwe (Harare)",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unity Day",
+        "description": "Unity Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-12-22",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/unity-day",
+        "urlid": "zimbabwe/unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Unity Day",
+        "description": "Unity Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-12-23",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/unity-day",
+        "urlid": "zimbabwe/unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/christmas-day",
+        "urlid": "zimbabwe/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Zimbabwe",
+        "country": {
+          "id": "zw",
+          "name": "Zimbabwe"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zimbabwe/second-day-of-christmas",
+        "urlid": "zimbabwe/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

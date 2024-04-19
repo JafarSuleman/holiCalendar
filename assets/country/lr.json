@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/new-year",
+        "urlid": "liberia/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pioneers Day",
+        "description": "Pioneers Day is a observance in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/liberia/pioneers-day",
+        "urlid": "liberia/pioneers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Pioneers Day",
+        "description": "Pioneers Day is a observance in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-01-08",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/liberia/pioneers-day",
+        "urlid": "liberia/pioneers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/armed-forces-day",
+        "urlid": "liberia/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Armed Forces Day",
+        "description": "Armed Forces Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/armed-forces-day",
+        "urlid": "liberia/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Decoration Day",
+        "description": "Decoration Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-03-13",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/decoration-day",
+        "urlid": "liberia/decoration-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "J. J. Roberts Birthday",
+        "description": "J. J. Roberts Birthday is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-03-15",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/jj-roberts-birthday",
+        "urlid": "liberia/jj-roberts-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Liberia (Monrovia)",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-03-20T03:06:28+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 3,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fast and Prayer Day",
+        "description": "Fast and Prayer Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/fast-prayer-day",
+        "urlid": "liberia/fast-prayer-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Unification Day",
+        "description": "National Unification Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-05-14",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/national-unification-day",
+        "urlid": "liberia/national-unification-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Liberia (Monrovia)",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-06-20T20:50:59+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 20,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-07-26",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/independence-day",
+        "urlid": "liberia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-08-24",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/flag-day",
+        "urlid": "liberia/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Liberia (Monrovia)",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-09-22T12:43:33+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 12,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thanksgiving",
+        "description": "Thanksgiving is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-11-07",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/thanksgiving",
+        "urlid": "liberia/thanksgiving",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "William Tubmans Birthday",
+        "description": "William Tubmans Birthday is a public holiday in Liberia",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-11-29",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/william-tubmans-birthday",
+        "urlid": "liberia/william-tubmans-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Liberia (Monrovia)",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-12-21T09:20:34+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 9,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "lr",
+          "name": "Liberia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/liberia/christmas-day",
+        "urlid": "liberia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,704 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/new-year-day",
+        "urlid": "el-salvador/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Signing of the Peace Accords",
+        "description": "Signing of the Peace Accords is a observance in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-01-16",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/signing-of-the-peace-accords",
+        "urlid": "el-salvador/signing-of-the-peace-accords",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Women's Day",
+        "description": "Women's Day is a observance in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/woman-day",
+        "urlid": "el-salvador/woman-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in El Salvador (San Salvador)",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-19T21:06:28-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 21,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/palm-sunday",
+        "urlid": "el-salvador/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/maundy-thursday",
+        "urlid": "el-salvador/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/good-friday",
+        "urlid": "el-salvador/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/holy-saturday",
+        "urlid": "el-salvador/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/easter-sunday",
+        "urlid": "el-salvador/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/labor-day",
+        "urlid": "el-salvador/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Cross Day",
+        "description": "Cross Day is a observance in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/cross-day",
+        "urlid": "el-salvador/cross-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Soldiers' Day",
+        "description": "Soldiers' Day is a observance in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-05-07",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/soldiers-day",
+        "urlid": "el-salvador/soldiers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/mothers-day",
+        "urlid": "el-salvador/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/father-day",
+        "urlid": "el-salvador/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in El Salvador (San Salvador)",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-06-20T14:50:59-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 14,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teachers' Day",
+        "description": "Teachers' Day is a season in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-06-22",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 22
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/teachers-day",
+        "urlid": "el-salvador/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "San Salvador Day 1 (S. Salvador only)",
+        "description": "",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-08-03",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 3
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/celebrations-of-san-salvador4",
+        "urlid": "el-salvador/celebrations-of-san-salvador4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "San Salvador Day 2 (S. Salvador only)",
+        "description": "",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/celebrations-of-san-salvador5",
+        "urlid": "el-salvador/celebrations-of-san-salvador5",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Celebrations of San Salvador",
+        "description": "Celebrations of San Salvador is a national holiday in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-08-06",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/celebrations-of-san-salvador6",
+        "urlid": "el-salvador/celebrations-of-san-salvador6",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/independence-day",
+        "urlid": "el-salvador/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in El Salvador (San Salvador)",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-09-22T06:43:33-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 6,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in El Salvador",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/childrens-day",
+        "urlid": "el-salvador/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/all-saints-day",
+        "urlid": "el-salvador/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in El Salvador (San Salvador)",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-12-21T03:20:34-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 3,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/christmas-eve",
+        "urlid": "el-salvador/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/christmas-day",
+        "urlid": "el-salvador/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "sv",
+          "name": "El Salvador"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/el-salvador/new-year-eve",
+        "urlid": "el-salvador/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

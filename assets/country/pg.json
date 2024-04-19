@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/new-year",
+        "urlid": "papua-new-guinea/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Papua New Guinea (Port Moresby)",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-03-20T13:06:28+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 13,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "PGT",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/good-friday",
+        "urlid": "papua-new-guinea/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/easter-saturday",
+        "urlid": "papua-new-guinea/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/easter",
+        "urlid": "papua-new-guinea/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/easter-monday",
+        "urlid": "papua-new-guinea/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Queen Elizabeth II's Birthday",
+        "description": "The Queen's birthday, also known as the Queen's Official Birthday, is celebrated in many Commonwealth countries around the world. It is a public holiday in countries such as Australia, New Zealand, and Gibraltar, although on different dates.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/queens-birthday",
+        "urlid": "papua-new-guinea/queens-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Papua New Guinea (Port Moresby)",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-06-21T06:50:59+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 6,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "PGT",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Remembrance Day",
+        "description": "National Remembrance Day is a public holiday in Papua New Guinea",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-07-23",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/national-remembrance-day",
+        "urlid": "papua-new-guinea/national-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of Repentance",
+        "description": "National Day of Repentance is a public holiday in Papua New Guinea",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/national-day-of-repentance",
+        "urlid": "papua-new-guinea/national-day-of-repentance",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Papua New Guinea",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/independence-day",
+        "urlid": "papua-new-guinea/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Papua New Guinea (Port Moresby)",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-09-22T22:43:33+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 22,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "PGT",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Papua New Guinea (Port Moresby)",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-12-21T19:20:34+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 19,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "PGT",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/christmas-day",
+        "urlid": "papua-new-guinea/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Papua New Guinea",
+        "country": {
+          "id": "pg",
+          "name": "Papua New Guinea"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/papua-new-guinea/second-day-of-christmas",
+        "urlid": "papua-new-guinea/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

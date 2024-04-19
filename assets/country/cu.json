@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a national holiday in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/liberation-day",
+        "urlid": "cuba/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a national holiday in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/new-year-holiday",
+        "urlid": "cuba/new-year-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/cuba/the-three-wise-men-day",
+        "urlid": "cuba/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "José Martí's Birthday Memorial",
+        "description": "José Martí's Birthday Memorial is a observance in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-01-28",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/cuba/jose-martis-birthday-memorial",
+        "urlid": "cuba/jose-martis-birthday-memorial",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-03-10T00:00:00-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 10,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "CST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Cuba (Havana)",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "CDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/cuba/palm-sunday",
+        "urlid": "cuba/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/cuba/maundy-thursday",
+        "urlid": "cuba/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/good-friday",
+        "urlid": "cuba/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/labor-day",
+        "urlid": "cuba/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/cuba/mothers-day",
+        "urlid": "cuba/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a observance in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/cuba/independence-day",
+        "urlid": "cuba/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Cuba (Havana)",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "CDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Anniversary",
+        "description": "Revolution Anniversary is a national holiday in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-07-25",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/revolution-aniversary",
+        "urlid": "cuba/revolution-aniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Rebellion",
+        "description": "Day of the Rebellion is a national holiday in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-07-26",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/day-of-the-rebellion",
+        "urlid": "cuba/day-of-the-rebellion",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Anniversary Celebration",
+        "description": "Revolution Anniversary Celebration is a national holiday in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-07-27",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/revolution-aniversary-celebration",
+        "urlid": "cuba/revolution-aniversary-celebration",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Cuba (Havana)",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "CDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Beginning of the War of Independence",
+        "description": "Beginning of the War of Independence is a national holiday in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-10-10",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/beginning-of-the-independence-war",
+        "urlid": "cuba/beginning-of-the-independence-war",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Cuba",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-11-03T01:00:00-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 3,
+            "hour": 1,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "CDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Cuba (Havana)",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-12-21T04:20:34-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 4,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "CST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/christmas-day",
+        "urlid": "cuba/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "cu",
+          "name": "Cuba"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/cuba/new-years-eve",
+        "urlid": "cuba/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

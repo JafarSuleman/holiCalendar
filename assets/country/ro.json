@@ -1,0 +1,921 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day (Anul Nou) and the following day, on January 1 and 2 respectively, are annual holidays in Romania.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/new-year-day",
+        "urlid": "romania/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after New Year's Day",
+        "description": "Both New Year’s Day (Anul Nou) and the following day, on January 1 and 2 respectively, are annual holidays in Romania.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/new-year-day-2",
+        "urlid": "romania/new-year-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/epiphany",
+        "urlid": "romania/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Synaxis of St. John the Baptist",
+        "description": "Synaxis of St. John the Baptist is a national holiday and Orthodox holiday in Romania",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/synaxis-of-st-john-the-baptist",
+        "urlid": "romania/synaxis-of-st-john-the-baptist",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unification Day",
+        "description": "Unification Day celebrates the political union between Wallachia and Moldavia, which is deemed as the foundation of modern Romania.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-01-24",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/unification-day",
+        "urlid": "romania/unification-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constantin Brancusi Day",
+        "description": "Constantin Brancusi Day is a observance in Romania",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-02-19",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/constantin-brancusi-day",
+        "urlid": "romania/constantin-brancusi-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dragobete",
+        "description": "Dragobete is a folk holiday in Romania with ancient origins that centers on love and the return of spring.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-02-24",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/dragobete",
+        "urlid": "romania/dragobete",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mărțișor",
+        "description": "Mărțișor in Romania celebrates the start of spring. The name stems from the word March, which is “martie” in Romanian.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/martisor",
+        "urlid": "romania/martisor",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "Many people in Romania celebrate Women’s Day on March 8.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/women-day",
+        "urlid": "romania/women-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Romania (Bucharest)",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day (Ziua muncii) is a national public holiday in Romania on May 1 each year.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/labor-day",
+        "urlid": "romania/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Good Friday",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/good-friday",
+        "urlid": "romania/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Day",
+        "description": "Easter (Paștele) is both a religious and a national holiday in Romania. The Easter date is based on the Orthodox Christian Church’s calendar.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/easter-sunday",
+        "urlid": "romania/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Many Romanians celebrate Mother’s Day (Ziua Mamei) on the first Sunday of May.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/mother-day",
+        "urlid": "romania/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Monday",
+        "description": "The Day after Easter (Paștele) is both a religious and a national holiday in Romania. The Easter date is based on the Orthodox Christian Church’s calendar.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/easter-monday",
+        "urlid": "romania/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Monarchy Day",
+        "description": "Monarchy Day is a observance in Romania",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/monarchy-day",
+        "urlid": "romania/monarchy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Independence Day",
+        "description": "National Independence Day is a observance in Romania",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/national-independence-day",
+        "urlid": "romania/national-independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Many Romanians celebrate Father’s Day (Ziua Tatălui) on the second Sunday of May.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/father-day",
+        "urlid": "romania/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children’s Day (Ziua Copilului) is annually celebrated on June 1 in Romania.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/children-day",
+        "urlid": "romania/children-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Ascension Day",
+        "description": "Ascension Day (Înălțarea) is an annual observance in Romania to commemorate the Christian belief of Jesus Christ’s ascension into heaven.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-06-13",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/ascension",
+        "urlid": "romania/ascension",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Romania (Bucharest)",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Pentecost",
+        "description": "Many Christians in Romania celebrate the Pentecost (Rusalii or Rusaliile) public holiday, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-06-23",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/pentecost-sunday",
+        "urlid": "romania/pentecost-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Pentecost Monday",
+        "description": "Many Christians celebrate the Whit Monday (Rusalii or Rusaliile) public holiday in Romania.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/romania/pentecost-monday",
+        "urlid": "romania/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Romania’s Flag Day (Ziua Tricolorului) is an annual observance on June 26.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-06-26",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/flag-day",
+        "urlid": "romania/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Anthem Day",
+        "description": "Romania’s Anthem Day (Ziua Imnului Național) is an annual observance on July 29.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/national-anthem-day",
+        "urlid": "romania/national-anthem-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Mary's Day",
+        "description": "The feast day of the Assumption of Mary is a national holiday in Romania on August 15 every year.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/st-mary-day",
+        "urlid": "romania/st-mary-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Romania (Bucharest)",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Some places in Romania, including in parts of Transylvania, have special Halloween events inspired by the Dracula theme on October 31.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/halloween",
+        "urlid": "romania/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Andrew's Day",
+        "description": "St Andrew’s Day (Ziua Sfântului Andrei) is a national holiday in Romania on November 30 every year.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-11-30",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/st-andrew-day",
+        "urlid": "romania/st-andrew-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day in Romania, also called Unification Day, is an annual public holiday to remember when the country’s provinces became united on December 1, 1918.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-01",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/ziua-nationala",
+        "urlid": "romania/ziua-nationala",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Romania’s Constitution Day is observed on December 8 every year.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/constitution-day",
+        "urlid": "romania/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Romania (Bucharest)",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve, or the day before Christmas Day, falls on December 24 every year in Romania.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/christmas-eve",
+        "urlid": "romania/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is a Christian holiday to celebrate Jesus Christ’s birth in Romania and falls on December 25 every year.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/christmas-day",
+        "urlid": "romania/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second day of Christmas",
+        "description": "The second day of Christmas falls on December 26 and is part of a two-day Christian holiday in Romania to celebrate Jesus Christ’s birth.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/romania/boxing-day",
+        "urlid": "romania/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "Many Romanians celebrate New Year’s Eve (Revelion) on December 31, the last day of the year in the Gregorian calendar.",
+        "country": {
+          "id": "ro",
+          "name": "Romania"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/romania/new-year-eve",
+        "urlid": "romania/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

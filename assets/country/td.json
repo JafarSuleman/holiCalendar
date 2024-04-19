@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/new-year",
+        "urlid": "chad/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Chad",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/international-womens-day",
+        "urlid": "chad/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/chad/ramadan-begins",
+        "urlid": "chad/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Chad (N'Djamena)",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/easter-monday",
+        "urlid": "chad/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/eid-al-fitr",
+        "urlid": "chad/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/may-day",
+        "urlid": "chad/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/chad/mothers-day",
+        "urlid": "chad/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/chad/fathers-day",
+        "urlid": "chad/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/eid-al-adha",
+        "urlid": "chad/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Chad (N'Djamena)",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-06-20T21:50:59+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 21,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Chad",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-08-11",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/independence-day",
+        "urlid": "chad/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day observed",
+        "description": "Independence Day is a public holiday in Chad",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-08-12",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/independence-day",
+        "urlid": "chad/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/prophet-birthday",
+        "urlid": "chad/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Chad (N'Djamena)",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-09-22T13:43:33+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 13,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/all-saints-day",
+        "urlid": "chad/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Proclamation of the Republic",
+        "description": "Proclamation of the Republic is a public holiday in Chad",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-11-28",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/proclamation-of-the-republic",
+        "urlid": "chad/proclamation-of-the-republic",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Freedom and Democracy Day",
+        "description": "Freedom and Democracy Day is a public holiday in Chad",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-12-01",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/freedom-and-democracy-day",
+        "urlid": "chad/freedom-and-democracy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Freedom and Democracy Day observed",
+        "description": "Freedom and Democracy Day is a public holiday in Chad",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-12-02",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/freedom-and-democracy-day",
+        "urlid": "chad/freedom-and-democracy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Chad (N'Djamena)",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "td",
+          "name": "Chad"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/chad/christmas-day",
+        "urlid": "chad/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

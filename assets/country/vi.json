@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/new-year",
+        "urlid": "united-states-virgin-islands/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Three Kings Day",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/three-kings-day",
+        "urlid": "united-states-virgin-islands/three-kings-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martin Luther King Jr. Day",
+        "description": "Martin Luther King Jr. Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/marting-luther-king-jr-day",
+        "urlid": "united-states-virgin-islands/marting-luther-king-jr-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "President's Day",
+        "description": "President's Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-02-19",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/presidents-day",
+        "urlid": "united-states-virgin-islands/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in US Virgin Islands (Charlotte Amalie)",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/holy-thursday",
+        "urlid": "united-states-virgin-islands/holy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/good-friday",
+        "urlid": "united-states-virgin-islands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/easter",
+        "urlid": "united-states-virgin-islands/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Transfer Day",
+        "description": "Transfer Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/transfer-day",
+        "urlid": "united-states-virgin-islands/transfer-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/easter-monday",
+        "urlid": "united-states-virgin-islands/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "April Fool's Day",
+        "description": "April Fool's Day is a observance in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/april-fools-day",
+        "urlid": "united-states-virgin-islands/april-fools-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/mothers-day",
+        "urlid": "united-states-virgin-islands/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day",
+        "description": "Memorial Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-05-27",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/memorial-day",
+        "urlid": "united-states-virgin-islands/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/fathers-day",
+        "urlid": "united-states-virgin-islands/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Juneteenth",
+        "description": "Juneteenth is a observance in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/juneteenth",
+        "urlid": "united-states-virgin-islands/juneteenth",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in US Virgin Islands (Charlotte Amalie)",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-07-03",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/emancipation-day",
+        "urlid": "united-states-virgin-islands/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "American Independence Day",
+        "description": "American Independence Day is a observance in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/american-independence-day",
+        "urlid": "united-states-virgin-islands/american-independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hurricane Supplication Day",
+        "description": "Hurricane Supplication Day is a observance in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/hurricane-supplication-day",
+        "urlid": "united-states-virgin-islands/hurricane-supplication-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/labor-day",
+        "urlid": "united-states-virgin-islands/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in US Virgin Islands (Charlotte Amalie)",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Puerto Rico Friendship Day (Columbus Day)",
+        "description": "Puerto Rico Friendship Day (Columbus Day) is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/virgin-islands-puerto-rico-friendship-day",
+        "urlid": "united-states-virgin-islands/virgin-islands-puerto-rico-friendship-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hurricane Thanksgiving",
+        "description": "Hurricane Thanksgiving is a observance in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-10-25",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/hurricane-thanksgiving",
+        "urlid": "united-states-virgin-islands/hurricane-thanksgiving",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberty Day",
+        "description": "Liberty Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/liberty-day",
+        "urlid": "united-states-virgin-islands/liberty-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Veterans Day",
+        "description": "Veterans Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/veterans-day",
+        "urlid": "united-states-virgin-islands/veterans-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thanksgiving Day",
+        "description": "Thanksgiving Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-11-28",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/thanksgiving-day",
+        "urlid": "united-states-virgin-islands/thanksgiving-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in US Virgin Islands (Charlotte Amalie)",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/christmas-day",
+        "urlid": "united-states-virgin-islands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Second Day",
+        "description": "Christmas Second Day is a public holiday in US Virgin Islands",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/second-day-of-christmas",
+        "urlid": "united-states-virgin-islands/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "vi",
+          "name": "US Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/united-states-virgin-islands/new-years-eve",
+        "urlid": "united-states-virgin-islands/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

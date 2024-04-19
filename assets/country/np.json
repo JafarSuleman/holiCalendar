@@ -1,0 +1,1153 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Prithvi Jayanti",
+        "description": "Prithvi Jayanti is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-01-11",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/prithvi-jayanti",
+        "urlid": "nepal/prithvi-jayanti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of Mourning",
+        "description": "National Day of Mourning is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-01-16",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/national-day-of-mourning",
+        "urlid": "nepal/national-day-of-mourning",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Harvet Festival",
+        "description": "Harvet Festival",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal//maghe-sankranti",
+        "urlid": "nepal//maghe-sankranti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Basant Panchami",
+        "description": "Basant Panchami is a academic holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-01-26",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 26
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Academic Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/basant-panchami",
+        "urlid": "nepal/basant-panchami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sonam Losar (Tamang New Year)",
+        "description": "Sonam Losar (Tamang New Year) is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/sonam-losar",
+        "urlid": "nepal/sonam-losar",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "People's War Day",
+        "description": "People's War Day is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/peoples-war-day",
+        "urlid": "nepal/peoples-war-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-02-18",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/maha-shivarati",
+        "urlid": "nepal/maha-shivarati",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Democracy Day",
+        "description": "National Democracy Day is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-02-19",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/national-democracy-day",
+        "urlid": "nepal/national-democracy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nari Dibas",
+        "description": "International Women Day",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/nari-dibas",
+        "urlid": "nepal/nari-dibas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/maha-shivarati",
+        "urlid": "nepal/maha-shivarati",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nari Dibas",
+        "description": "Nari Dibas is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/nari-dibas",
+        "urlid": "nepal/nari-dibas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Nepal (Kathmandu)",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-03-20T03:09:20+05:45",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 3,
+            "minute": 9,
+            "second": 20
+          },
+          "timezone": {
+            "offset": "+05:45",
+            "zoneabb": "NPT",
+            "zoneoffset": 20700,
+            "zonedst": 0,
+            "zonetotaloffset": 20700
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Godhe Yatra",
+        "description": "Godhe Yatra is a local holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-04-8",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 8
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/godhe-yatra",
+        "urlid": "nepal/godhe-yatra",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramjan Edul Fikra",
+        "description": "Ramjan Edul Fikra is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/ramjan-edul-fikra",
+        "urlid": "nepal/ramjan-edul-fikra",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nepali New Year",
+        "description": "Nepali New Year is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/nepali-new-year",
+        "urlid": "nepal/nepali-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Majdoor Divas",
+        "description": "Majdoor Divas is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/majdoor-divas",
+        "urlid": "nepal/majdoor-divas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha Jayanti",
+        "description": "Buddha Jayanti is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/buddha-jayanti",
+        "urlid": "nepal/buddha-jayanti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ganatantra Diwas (Republic Day)",
+        "description": "Ganatantra Diwas (Republic Day) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-05-29",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/ganatantra-diwas",
+        "urlid": "nepal/ganatantra-diwas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Nepal (Kathmandu)",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-06-20T20:42:49+05:45",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 20,
+            "minute": 42,
+            "second": 49
+          },
+          "timezone": {
+            "offset": "+05:45",
+            "zoneabb": "NPT",
+            "zoneoffset": 20700,
+            "zonedst": 0,
+            "zonetotaloffset": 20700
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Edul Aajaha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/edul-aajaha",
+        "urlid": "nepal/edul-aajaha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Gai Jatra",
+        "description": "Gai Jatra is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-08-20",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/gai-jatra",
+        "urlid": "nepal/gai-jatra",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Gaura Parba",
+        "description": "Gaura Parba is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/gaura-parba",
+        "urlid": "nepal/gaura-parba",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Janai Purnima",
+        "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-08-29",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/janai-purnima",
+        "urlid": "nepal/janai-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shree Krishna Janamashtami",
+        "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/shree-krishna-janamashtami",
+        "urlid": "nepal/shree-krishna-janamashtami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Mourning Day",
+        "description": "National Mourning Day is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-09-13",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/national-mourning-day",
+        "urlid": "nepal/national-mourning-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hartalika Teej",
+        "description": "Hartalika Teej is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-09-6",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 6
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/hartalika-teej",
+        "urlid": "nepal/hartalika-teej",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-09-19",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/constitution-day",
+        "urlid": "nepal/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Nepal (Kathmandu)",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-09-22T12:35:01+05:45",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 12,
+            "minute": 35,
+            "second": 1
+          },
+          "timezone": {
+            "offset": "+05:45",
+            "zoneabb": "NPT",
+            "zoneoffset": 20700,
+            "zonedst": 0,
+            "zonetotaloffset": 20700
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Indra Jatra",
+        "description": "Indra Jatra is a local holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/indra-jatra",
+        "urlid": "nepal/indra-jatra",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ghatasthapana",
+        "description": "Ghatasthapana is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/ghatasthapana",
+        "urlid": "nepal/ghatasthapana",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Phulpati (Dashain)",
+        "description": "Phulpati (Dashain) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-10-10",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/phulpati-dashain",
+        "urlid": "nepal/phulpati-dashain",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Astami (Dashain)",
+        "description": "Astami (Dashain) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/astami-dashain",
+        "urlid": "nepal/astami-dashain",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nawami (Dashain)",
+        "description": "Nawami (Dashain) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/nawami-dashain",
+        "urlid": "nepal/nawami-dashain",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dashami (Dashain)",
+        "description": "Dashami (Dashain) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-10-13",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/dashami-dashain",
+        "urlid": "nepal/dashami-dashain",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ekadashi (Dashain)",
+        "description": "Ekadashi (Dashain) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/ekadashi-dashain",
+        "urlid": "nepal/ekadashi-dashain",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Phalgunanda Jayanti",
+        "description": "Phalgunanda Jayanti is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/phalgunanda-jayanti",
+        "urlid": "nepal/phalgunanda-jayanti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Laxmi Puja (Tihar)",
+        "description": "Laxmi Puja (Tihar) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/laxmi-pujan-tihar",
+        "urlid": "nepal/laxmi-pujan-tihar",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Gobhardan Pujan (Tihar)",
+        "description": "Gobhardan Pujan (Tihar) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/gobhardan-pujan-tihar",
+        "urlid": "nepal/gobhardan-pujan-tihar",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bhai Tika (Tihar)",
+        "description": "Bhai Tika (Tihar) is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-11-03",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/bhai-tika-tihar",
+        "urlid": "nepal/bhai-tika-tihar",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chhat Parwa",
+        "description": "Chhat Parwa is a public holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-11-07",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/chhat-parwa",
+        "urlid": "nepal/chhat-parwa",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Guru Nanak Jayanti",
+        "description": "Guru Nanak Jayanti is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/guru-nanak-jayanti",
+        "urlid": "nepal/guru-nanak-jayanti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Day of Disabled Persons",
+        "description": "International Day of Disabled Persons is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-12-03",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 3
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/international-day-of-disabled-persons",
+        "urlid": "nepal/international-day-of-disabled-persons",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Nepal (Kathmandu)",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-12-21T09:12:21+05:45",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 9,
+            "minute": 12,
+            "second": 21
+          },
+          "timezone": {
+            "offset": "+05:45",
+            "zoneabb": "NPT",
+            "zoneoffset": 20700,
+            "zonedst": 0,
+            "zonetotaloffset": 20700
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/christmas-day",
+        "urlid": "nepal/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Udhauli Parva",
+        "description": "Udhauli Parva is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-12-15",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 15
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/udhauli-parva",
+        "urlid": "nepal/udhauli-parva",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tamu Lhosar",
+        "description": "Tamu Lhosar is a optional holiday in Nepal",
+        "country": {
+          "id": "np",
+          "name": "Nepal"
+        },
+        "date": {
+          "iso": "2024-12-30",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 30
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nepal/tamu-lhosar",
+        "urlid": "nepal/tamu-lhosar",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

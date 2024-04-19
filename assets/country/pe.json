@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/new-year-day",
+        "urlid": "peru/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Three Wise Men Day",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/the-three-wise-men-day",
+        "urlid": "peru/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Peru (Lima)",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-03-19T22:06:28-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 22,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "PET",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/peru/maundy-thursday",
+        "urlid": "peru/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/peru/good-friday",
+        "urlid": "peru/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/peru/easter-sunday",
+        "urlid": "peru/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/labor-day",
+        "urlid": "peru/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/mothers-day",
+        "urlid": "peru/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Arica",
+        "description": "Battle of Arica is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-07",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/battle-of-arica",
+        "urlid": "peru/battle-of-arica",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a observance in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-07",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/flag-day",
+        "urlid": "peru/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/fathers-day",
+        "urlid": "peru/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Peru (Lima)",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-20T15:50:59-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 15,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "PET",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Farmer Day",
+        "description": "Farmer Day is a observance in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/farmer-day",
+        "urlid": "peru/farmer-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Inti Raymi Day",
+        "description": "Inti Raymi Day is a observance in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/inti-raymi-day",
+        "urlid": "peru/inti-raymi-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Peter and St Paul",
+        "description": "St Peter and St Paul is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/saint-peter-and-saint-paul",
+        "urlid": "peru/saint-peter-and-saint-paul",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peruvian Air Force Day",
+        "description": "Peruvian Air Force Day is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-07-23",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/peruvian-air-force-day",
+        "urlid": "peru/peruvian-air-force-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-07-28",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/independence-day",
+        "urlid": "peru/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day (day 2)",
+        "description": "Independence Day (day 2) is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/independence-day",
+        "urlid": "peru/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Junín",
+        "description": "Battle of Junín is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-08-06",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/battle-of-junin",
+        "urlid": "peru/battle-of-junin",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Santa Rosa De Lima",
+        "description": "Santa Rosa De Lima is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-08-30",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/santa-rosa-de-lima",
+        "urlid": "peru/santa-rosa-de-lima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Peru (Lima)",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-09-22T07:43:33-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 7,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "PET",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a observance in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-09-24",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/armed-forces-day",
+        "urlid": "peru/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Angamos",
+        "description": "Battle of Angamos is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-10-08",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/battle-of-angamos",
+        "urlid": "peru/battle-of-angamos",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/all-saints-day",
+        "urlid": "peru/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/all-souls",
+        "urlid": "peru/all-souls",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/immaculate-conception",
+        "urlid": "peru/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Ayacucho",
+        "description": "Battle of Ayacucho is a national holiday in Peru",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/peru/battle-of-ayacucho",
+        "urlid": "peru/battle-of-ayacucho",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Peru (Lima)",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-12-21T04:20:34-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 4,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "PET",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/peru/christmas-eve",
+        "urlid": "peru/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/peru/christmas-day",
+        "urlid": "peru/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "pe",
+          "name": "Peru"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/peru/new-year-eve",
+        "urlid": "peru/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

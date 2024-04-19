@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/new-year",
+        "urlid": "maldives/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/ramadan-begins",
+        "urlid": "maldives/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Maldives (Male)",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-03-20T08:06:28+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 8,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "MVT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fithr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-fitr",
+        "urlid": "maldives/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fithr Holiday",
+        "description": "Eid-ul-Fithr Holiday is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-fitr-day-2",
+        "urlid": "maldives/eid-al-fitr-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fithr Holiday",
+        "description": "Eid-ul-Fithr Holiday is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-fitr-day-3",
+        "urlid": "maldives/eid-al-fitr-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/may-day",
+        "urlid": "maldives/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hajj Day",
+        "description": "Hajj Day is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/hajj-day",
+        "urlid": "maldives/hajj-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul Al'haa",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-adha",
+        "urlid": "maldives/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul Al'haa Holiday",
+        "description": "Eid-ul Al'haa Holiday is a bank and government holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Bank and government holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-adha-1",
+        "urlid": "maldives/eid-al-adha-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul Al'haa Holiday",
+        "description": "Eid-ul Al'haa Holiday is a bank and government holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Bank and government holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-adha-2",
+        "urlid": "maldives/eid-al-adha-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul Al'haa Holiday",
+        "description": "Eid-ul Al'haa Holiday is a bank and government holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-06-20",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Bank and government holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/eid-al-adha-3",
+        "urlid": "maldives/eid-al-adha-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Maldives (Male)",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-06-21T01:50:59+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 1,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "MVT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram/Islamic New Year",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/muharram-new-year",
+        "urlid": "maldives/muharram-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-07-26",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/independence-day",
+        "urlid": "maldives/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day Holiday",
+        "description": "Independence Day Holiday is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-07-27",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/independence-day-holiday",
+        "urlid": "maldives/independence-day-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-09-05",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/national-day",
+        "urlid": "maldives/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Milad un Nabi (Mawlid)",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/prophet-birthday",
+        "urlid": "maldives/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Maldives (Male)",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-09-22T17:43:33+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 17,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "MVT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Day Maldives Embraced Islam",
+        "description": "The Day Maldives Embraced Islam is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-10-05",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/maldives-embraced-islam",
+        "urlid": "maldives/maldives-embraced-islam",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-11-03",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/victory-day",
+        "urlid": "maldives/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a public holiday in Maldives",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/maldives/republic-day",
+        "urlid": "maldives/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Maldives (Male)",
+        "country": {
+          "id": "mv",
+          "name": "Maldives"
+        },
+        "date": {
+          "iso": "2024-12-21T14:20:34+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 14,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "MVT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

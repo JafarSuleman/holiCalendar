@@ -1,0 +1,817 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/new-year",
+        "urlid": "mongolia/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-01-13",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/constitution-day",
+        "urlid": "mongolia/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tsagaan Sar",
+        "description": "Tsagaan Sar is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/tsagaan-sar",
+        "urlid": "mongolia/tsagaan-sar",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tsagaan Sar Holiday",
+        "description": "Tsagaan Sar Holiday is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/tsagaan-sar-2",
+        "urlid": "mongolia/tsagaan-sar-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tsagaan Sar Holiday",
+        "description": "Tsagaan Sar Holiday is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/tsagaan-sar-3",
+        "urlid": "mongolia/tsagaan-sar-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/valentines-day",
+        "urlid": "mongolia/valentines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Patriots' Day",
+        "description": "Patriots' Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/patriots-day",
+        "urlid": "mongolia/patriots-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/international-womens-day",
+        "urlid": "mongolia/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Soldiers' Day",
+        "description": "Soldiers' Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-03-18",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/soldiers-day",
+        "urlid": "mongolia/soldiers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Mongolia (Ulaanbaatar)",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-03-20T11:06:28+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 11,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "ULAT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Health Day",
+        "description": "Health Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/health-day",
+        "urlid": "mongolia/health-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Intellectual Property Day",
+        "description": "Intellectual Property Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-04-26",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/intellectual-property-day",
+        "urlid": "mongolia/intellectual-property-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Family Day",
+        "description": "Family Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/family-day",
+        "urlid": "mongolia/family-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Great Buddha Day",
+        "description": "Great Buddha Day is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/great-buddha-day",
+        "urlid": "mongolia/great-buddha-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/childrens-day",
+        "urlid": "mongolia/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Mongolia (Ulaanbaatar)",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-06-21T04:50:59+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 4,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "ULAT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Political Flag Day",
+        "description": "Political Flag Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-07-10",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/political-flag-day",
+        "urlid": "mongolia/political-flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Naadam (National Day)",
+        "description": "Naadam (National Day) is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-07-11",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/naadam-holiday-1",
+        "urlid": "mongolia/naadam-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Naadam Holiday (National Day Holiday)",
+        "description": "Naadam Holiday (National Day Holiday) is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-07-12",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/naadam-holiday-2",
+        "urlid": "mongolia/naadam-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Naadam Holiday (National Day Holiday)",
+        "description": "Naadam Holiday (National Day Holiday) is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-07-13",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/naadam-holiday-3",
+        "urlid": "mongolia/naadam-holiday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Naadam Holiday (National Day Holiday)",
+        "description": "Naadam Holiday (National Day Holiday) is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-07-14",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/naadam-holiday-4",
+        "urlid": "mongolia/naadam-holiday-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Naadam Holiday (National Day Holiday)",
+        "description": "Naadam Holiday (National Day Holiday) is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-07-15",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/naadam-holiday-5",
+        "urlid": "mongolia/naadam-holiday-5",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Youth's Day",
+        "description": "Youth's Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-08-25",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/youths-day",
+        "urlid": "mongolia/youths-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Repression Victims' Day",
+        "description": "Repression Victims' Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-09-10",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/repression-victims-day",
+        "urlid": "mongolia/repression-victims-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Mongolia (Ulaanbaatar)",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-09-22T20:43:33+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 20,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "ULAT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Elders' Day",
+        "description": "Elders' Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/elders-day",
+        "urlid": "mongolia/elders-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Capital City Day",
+        "description": "Capital City Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-10-29",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/capital-city-day",
+        "urlid": "mongolia/capital-city-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Genghis Khan Day",
+        "description": "Genghis Khan Day is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-11-16",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/genghis-khan-day",
+        "urlid": "mongolia/genghis-khan-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic's Day",
+        "description": "Republic's Day is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-11-26",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/republics-day",
+        "urlid": "mongolia/republics-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Human Rights Day",
+        "description": "Human Rights Day is a observance in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-12-10",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/human-rights-day",
+        "urlid": "mongolia/human-rights-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Mongolia (Ulaanbaatar)",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "ULAT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Mongolia",
+        "country": {
+          "id": "mn",
+          "name": "Mongolia"
+        },
+        "date": {
+          "iso": "2024-12-29",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mongolia/independence-day",
+        "urlid": "mongolia/independence-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

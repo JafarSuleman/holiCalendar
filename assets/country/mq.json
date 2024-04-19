@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/new-year",
+        "urlid": "martinique/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Monday",
+        "description": "Carnival / Shrove Monday is a observance in Martinique",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/carnival-monday",
+        "urlid": "martinique/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Tuesday / Pancake Day",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/carnival-tuesday",
+        "urlid": "martinique/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/ash-wednesday",
+        "urlid": "martinique/ash-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Laetare Sunday",
+        "description": "Laetare Sunday is a observance in Martinique",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-03-10",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/laetare-sunday",
+        "urlid": "martinique/laetare-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Martinique (Fort-de-France)",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/good-friday",
+        "urlid": "martinique/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/easter-sunday",
+        "urlid": "martinique/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/easter-monday",
+        "urlid": "martinique/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/may-day",
+        "urlid": "martinique/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Martinique",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/victory-day",
+        "urlid": "martinique/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/ascension",
+        "urlid": "martinique/ascension",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/pentecost",
+        "urlid": "martinique/pentecost",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/pentecost-monday",
+        "urlid": "martinique/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Abolition Day",
+        "description": "Abolition Day is a public holiday in Martinique",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-05-22",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/abolition-day",
+        "urlid": "martinique/abolition-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Martinique (Fort-de-France)",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bastille Day",
+        "description": "Bastille Day is a public holiday in Martinique",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-07-14",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/bastille-day",
+        "urlid": "martinique/bastille-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/assumption-of-mary",
+        "urlid": "martinique/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Martinique (Fort-de-France)",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/all-saints-eve",
+        "urlid": "martinique/all-saints-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Armistice Day is a public holiday in Martinique",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/armistice-day",
+        "urlid": "martinique/armistice-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Martinique (Fort-de-France)",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/martinique/christmas-day",
+        "urlid": "martinique/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "mq",
+          "name": "Martinique"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/martinique/new-year-eve",
+        "urlid": "martinique/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

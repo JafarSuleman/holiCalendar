@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/new-year",
+        "urlid": "guernsey/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Guernsey (St. Peter Port)",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-03-20T03:06:28+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 3,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/good-friday",
+        "urlid": "guernsey/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-03-31T01:00:00+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 1,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/easter-monday",
+        "urlid": "guernsey/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/may-day",
+        "urlid": "guernsey/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day (except Alderney and Sark)",
+        "description": "Liberation Day (except Alderney and Sark) is a common local holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/liberation-day",
+        "urlid": "guernsey/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day (only Sark)",
+        "description": "Liberation Day (only Sark) is a common local holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/liberation-day-sark",
+        "urlid": "guernsey/liberation-day-sark",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Spring Bank Holiday",
+        "description": "Spring Bank Holiday is a public holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-05-27",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/spring-bank-holiday",
+        "urlid": "guernsey/spring-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Guernsey (St. Peter Port)",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-06-20T21:50:59+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 21,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "BST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Summer Bank Holiday (only Alderney)",
+        "description": "Summer Bank Holiday (only Alderney) is a common local holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/summer-bank-holiday-alderney",
+        "urlid": "guernsey/summer-bank-holiday-alderney",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Summer Bank Holiday (except Alderney)",
+        "description": "Summer Bank Holiday (except Alderney) is a common local holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/summer-bank-holiday",
+        "urlid": "guernsey/summer-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Guernsey (St. Peter Port)",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-09-22T13:43:33+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 13,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "BST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-10-27T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "BST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Homecoming Day (only Alderney)",
+        "description": "Homecoming Day (only Alderney) is a common local holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-12-15",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 15
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/homecoming-day",
+        "urlid": "guernsey/homecoming-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Guernsey (St. Peter Port)",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-12-21T09:20:34+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 9,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/christmas-day",
+        "urlid": "guernsey/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Guernsey",
+        "country": {
+          "id": "gg",
+          "name": "Guernsey"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/guernsey/second-day-of-christmas",
+        "urlid": "guernsey/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

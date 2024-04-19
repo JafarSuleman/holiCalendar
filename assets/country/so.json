@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/new-year",
+        "urlid": "somalia/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Isra and Mi'raj",
+        "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-02-07",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 7
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/isra-miraj",
+        "urlid": "somalia/isra-miraj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/somalia/ramadan-begins",
+        "urlid": "somalia/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Somalia (Mogadishu)",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/eid-al-fitr",
+        "urlid": "somalia/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Holiday",
+        "description": "Eid al-Fitr Holiday is a common local holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/eid-al-fitr-holiday",
+        "urlid": "somalia/eid-al-fitr-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/may-day",
+        "urlid": "somalia/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Restoration of Somaliland Sovereignty",
+        "description": "Restoration of Somaliland Sovereignty is a common local holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-05-18",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 18
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/restoration-somaliland-sovereignty",
+        "urlid": "somalia/restoration-somaliland-sovereignty",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Restoration of Somaliland Sovereignty Holiday",
+        "description": "Restoration of Somaliland Sovereignty Holiday is a common local holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/restoration-somaliland-sovereignty-2",
+        "urlid": "somalia/restoration-somaliland-sovereignty-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/eid-al-adha",
+        "urlid": "somalia/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a common local holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/eid-al-adha-holiday",
+        "urlid": "somalia/eid-al-adha-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Somalia (Mogadishu)",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-06-26",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/independence-british-somaliland",
+        "urlid": "somalia/independence-british-somaliland",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a common local holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/independence-day",
+        "urlid": "somalia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/muharram-new-year",
+        "urlid": "somalia/muharram-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashura",
+        "description": "Ashura is a public holiday in Somalia",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-07-17",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/ashura",
+        "urlid": "somalia/ashura",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/somalia/prophet-birthday",
+        "urlid": "somalia/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Somalia (Mogadishu)",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Somalia (Mogadishu)",
+        "country": {
+          "id": "so",
+          "name": "Somalia"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

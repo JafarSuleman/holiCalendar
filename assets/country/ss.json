@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/new-year",
+        "urlid": "south-sudan/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peace Agreement Day",
+        "description": "Peace Agreement Day is a public holiday in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-01-09",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/peace-agreement-day",
+        "urlid": "south-sudan/peace-agreement-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/valentines-day",
+        "urlid": "south-sudan/valentines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/international-womens-day",
+        "urlid": "south-sudan/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in South Sudan (Juba)",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/easter",
+        "urlid": "south-sudan/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/eid-al-fitr",
+        "urlid": "south-sudan/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/may-day",
+        "urlid": "south-sudan/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "SPLA Day",
+        "description": "SPLA Day is a public holiday in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-05-16",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/spla-day",
+        "urlid": "south-sudan/spla-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/fathers-day",
+        "urlid": "south-sudan/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/eid-al-adha",
+        "urlid": "south-sudan/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in South Sudan (Juba)",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/mothers-day",
+        "urlid": "south-sudan/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-07-09",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/independence-day",
+        "urlid": "south-sudan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martyrs Day",
+        "description": "Martyrs Day is a public holiday in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-07-30",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/martyrs-day",
+        "urlid": "south-sudan/martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in South Sudan (Juba)",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Grandparents' Day",
+        "description": "Grandparents' Day is a observance in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-11-10",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/grandparents-day",
+        "urlid": "south-sudan/grandparents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in South Sudan (Juba)",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/christmas-day",
+        "urlid": "south-sudan/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a observance in South Sudan",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-12-28",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/republic-day",
+        "urlid": "south-sudan/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ss",
+          "name": "South Sudan"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/south-sudan/new-years-eve",
+        "urlid": "south-sudan/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1180 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "January 1 is a day off for most people in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday",
+          "Flag day"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/new-year-day",
+        "urlid": "norway/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Princess Ingrid Alexandra's Day",
+        "description": "Princess Ingrid Alexandra of Norway's birthday is a flag day, when the Norwegian flag is flown on all flag poles.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-01-21",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 21
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/ingrid-alexandra-day",
+        "urlid": "norway/ingrid-alexandra-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saami National Day",
+        "description": "The Saami National Day is publicly celebrated in Norway by flying the Norwegian and Saami flags.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-02-06",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 6
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/the-saami-people-day",
+        "urlid": "norway/the-saami-people-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother's Day is on the second Sunday in February in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/mothers-day",
+        "urlid": "norway/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival",
+        "description": "For Carnival, Norwegians traditionally serve wheat buns filled with whipped cream.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/carnival",
+        "urlid": "norway/carnival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/valentines-day",
+        "urlid": "norway/valentines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King Harald V's Day",
+        "description": "King Harald V of Norway's birthday is a flag day.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-02-21",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 21
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/harald-v-day",
+        "urlid": "norway/harald-v-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Norway (Oslo)",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is the Sunday before Easter Sunday and commemorates Jesus' arrival in Jerusalem.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/palm-sunday",
+        "urlid": "norway/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday commemorates Jesus Christ’s last supper with his disciples.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/maundy-thursday",
+        "urlid": "norway/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday commemorates Jesus Christ’s Passion, crucifixion, and death.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/good-friday",
+        "urlid": "norway/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is also known as Easter Saturday, and is the day before Easter Sunday.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/easter-saturday",
+        "urlid": "norway/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday is a day off for most in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday",
+          "Flag day"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/easter-day",
+        "urlid": "norway/easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday in Norway is the last day of the Easter holiday.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/easter-monday",
+        "urlid": "norway/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day or May Day on May 1 is a public holiday day in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday",
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/labor-day",
+        "urlid": "norway/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Liberation",
+        "description": "Liberation Day in Norway marks the end of the German occupation during the second World War.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance",
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/liberation-day",
+        "urlid": "norway/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/ascension-day",
+        "urlid": "norway/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "17 May Constitution Day (1814)",
+        "description": "May 17 is the Constitution Day (1814) in Norway and a day of celebration.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-17",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday",
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/constitution-day",
+        "urlid": "norway/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Saturday",
+        "description": "Whit Saturday is not a public holiday in Norway, but shops close earlier than normal.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-18",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/pentecost-eve",
+        "urlid": "norway/pentecost-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Whit Sunday or Pentecost is a public holiday in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday",
+          "Flag day"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/whit-sunday",
+        "urlid": "norway/whit-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday is a public holiday in Norway, making the Pentecost weekend a long weekend.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/whit-monday",
+        "urlid": "norway/whit-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dissolution of Union With Sweden (1905)",
+        "description": "Dissolution of Union With Sweden (1905) is a flag day in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-06-07",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/end-of-union",
+        "urlid": "norway/end-of-union",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Norway (Oslo)",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Midsummer Eve",
+        "description": "Traditionally, people celebrate Midsummer's Eve by gathering around a large bonfire.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-06-23",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/midsummer-eve",
+        "urlid": "norway/midsummer-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. John's Day",
+        "description": "",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/feast-of-st-john",
+        "urlid": "norway/feast-of-st-john",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Queen Sonja's Day",
+        "description": "H.M. Queen Sonja of Norway's birthday is a flag day, when the Norwegian flag is flown on all flag poles.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/sonja-day",
+        "urlid": "norway/sonja-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Crown Prince Haakon's Day",
+        "description": "July 20 is H.K.H. Crown Prince Haakon birthday and a flag day in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-07-20",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 20
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/haakon-magnus-day",
+        "urlid": "norway/haakon-magnus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Olaf's Day",
+        "description": "St. Olaf's Day is a flag day in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/st-olaf-day",
+        "urlid": "norway/st-olaf-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Crown Princess Mette-Marit's Day",
+        "description": "August 19 is Crown Princess Mette Marit 's birthday is a flag day in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "Flag day"
+        ],
+        "primary_type": "Flag day",
+        "canonical_url": "https://calendarific.com/holiday/norway/mette-marit-day",
+        "urlid": "norway/mette-marit-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Norway (Oslo)",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "United Nations Day",
+        "description": "The UN Day is on October 24 and is mainly marked in schools and kindergartens in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-10-24",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/united-nations-day",
+        "urlid": "norway/united-nations-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Repentance Day",
+        "description": "Repentance Day is a observance in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-10-27",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/repentance-day",
+        "urlid": "norway/repentance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "On Halloween, more and more Norwegian kids dress up in costumes to go trick or treating.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/halloween",
+        "urlid": "norway/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "All Saints' Day is a observance in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-11-03",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/all-saints-day",
+        "urlid": "norway/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-11-10",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/fathers-day",
+        "urlid": "norway/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Advent Sunday",
+        "description": "",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-01",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/first-advent",
+        "urlid": "norway/first-advent",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Advent Sunday",
+        "description": "Second Advent Sunday is a observance in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/second-advent",
+        "urlid": "norway/second-advent",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Third Advent Sunday",
+        "description": "Third Advent Sunday is a observance in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-15",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/third-advent",
+        "urlid": "norway/third-advent",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Norway (Oslo)",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fourth Advent Sunday",
+        "description": "Fourth Advent Sunday is a observance in Norway",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-22",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/fourth-advent",
+        "urlid": "norway/fourth-advent",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Norwegians exchange gifts and get together for the main Christmas celebrations on December 24.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank Holiday / Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/christmas-eve",
+        "urlid": "norway/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Flag day"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/christmas-day",
+        "urlid": "norway/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day on December 26 is a public holiday in Norway.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/norway/boxing-day",
+        "urlid": "norway/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "no",
+          "name": "Norway"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/norway/new-year-eve",
+        "urlid": "norway/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/new-year-day",
+        "urlid": "singapore/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thaipusam",
+        "description": "Thaipusam is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-01-25",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/thaipusam",
+        "urlid": "singapore/thaipusam",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year's Day",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/lunar-new-year-day",
+        "urlid": "singapore/lunar-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Day of Lunar New Year",
+        "description": "Second Day of Lunar New Year is a national holiday in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/second-day-of-lunar-new-year",
+        "urlid": "singapore/second-day-of-lunar-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Lunar New Year's Day",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/lunar-new-year-day",
+        "urlid": "singapore/lunar-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/sg/valentine-day",
+        "urlid": "sg/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Total Defense Day",
+        "description": "Total Defense Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-02-15",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/total-defence-day",
+        "urlid": "singapore/total-defence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/international-womens-day",
+        "urlid": "singapore/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/ramadan-begins",
+        "urlid": "singapore/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Singapore (Singapore)",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-03-20T11:06:28+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 11,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "SGT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/good-friday",
+        "urlid": "singapore/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/easter-saturday",
+        "urlid": "singapore/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/easter-sunday",
+        "urlid": "singapore/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "April Fool's Day",
+        "description": "April Fool's Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/april-fools-day",
+        "urlid": "singapore/april-fools-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hari Raya Puasa",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/hari-raya-puasa",
+        "urlid": "singapore/hari-raya-puasa",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/labour-day",
+        "urlid": "singapore/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/mothers-day",
+        "urlid": "singapore/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Museum Day",
+        "description": "International Museum Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-05-18",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/international-museum-day",
+        "urlid": "singapore/international-museum-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Vesak Day",
+        "description": "Vesak Day is a national holiday in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-05-22",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/vesak-day",
+        "urlid": "singapore/vesak-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/fathers-day",
+        "urlid": "singapore/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hari Raya Haji",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/hari-raya-haji",
+        "urlid": "singapore/hari-raya-haji",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Singapore (Singapore)",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-06-21T04:50:59+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 4,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "SGT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Singapore Armed Forces Day",
+        "description": "Singapore Armed Forces Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/singapore-armed-forces-day",
+        "urlid": "singapore/singapore-armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Racial Harmony Day",
+        "description": "Racial Harmony Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-07-21",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/racial-harmony-day",
+        "urlid": "singapore/racial-harmony-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a national holiday in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-08-09",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/national-day",
+        "urlid": "singapore/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teachers' Day",
+        "description": "Teachers' Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-09-06",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/teachers-day",
+        "urlid": "singapore/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Singapore (Singapore)",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-09-22T20:43:33+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 20,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "SGT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Singapore",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-10-04",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/childrens-day",
+        "urlid": "singapore/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Diwali/Deepavali",
+        "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/diwali",
+        "urlid": "singapore/diwali",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Singapore (Singapore)",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "SGT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/christmas-eve",
+        "urlid": "singapore/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/singapore/christmas-day",
+        "urlid": "singapore/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "sg",
+          "name": "Singapore"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/singapore/new-year-eve",
+        "urlid": "singapore/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

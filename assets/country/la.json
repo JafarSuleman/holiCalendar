@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/new-year",
+        "urlid": "laos/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day (Women Only)",
+        "description": "International Women's Day (Women Only) is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/international-womens-day",
+        "urlid": "laos/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Laos (Vientiane)",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-03-20T10:06:28+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 10,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lao New Year",
+        "description": "Lao New Year is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/lao-new-year",
+        "urlid": "laos/lao-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lao New Year Holiday",
+        "description": "Lao New Year Holiday is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-04-14",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/lao-new-year-holiday-1",
+        "urlid": "laos/lao-new-year-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lao New Year Holiday",
+        "description": "Lao New Year Holiday is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-04-15",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/lao-new-year-holiday-2",
+        "urlid": "laos/lao-new-year-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/may-day",
+        "urlid": "laos/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/laos/childrens-day",
+        "urlid": "laos/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Laos (Vientiane)",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-06-21T03:50:59+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 3,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lao Women Union's Day",
+        "description": "Lao Women Union's Day is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-07-20",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/lao-womens-union-day",
+        "urlid": "laos/lao-womens-union-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lao Women Union's Day observed",
+        "description": "Lao Women Union's Day is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-07-22",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/lao-womens-union-day",
+        "urlid": "laos/lao-womens-union-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Laos (Vientiane)",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-09-22T19:43:33+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 19,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boat Racing Festival",
+        "description": "Boat Racing Festival is a local holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-10-24",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 24
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/boat-racing-festival",
+        "urlid": "laos/boat-racing-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Laos",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-12-02",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/laos/national-day",
+        "urlid": "laos/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Laos (Vientiane)",
+        "country": {
+          "id": "la",
+          "name": "Laos"
+        },
+        "date": {
+          "iso": "2024-12-21T16:20:34+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 16,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

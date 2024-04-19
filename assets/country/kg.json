@@ -1,0 +1,603 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/new-year",
+        "urlid": "kyrgyzstan/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/orthodox-christmas",
+        "urlid": "kyrgyzstan/orthodox-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-01-08",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/orthodox-christmas",
+        "urlid": "kyrgyzstan/orthodox-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Defender of the Fatherland Day",
+        "description": "Defender of the Fatherland Day is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-02-23",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/defender-of-the-fatherland-day",
+        "urlid": "kyrgyzstan/defender-of-the-fatherland-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/international-womens-day",
+        "urlid": "kyrgyzstan/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/ramadan-begins",
+        "urlid": "kyrgyzstan/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Kyrgyzstan (Bishkek)",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-03-20T09:06:28+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 9,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "KGT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Holiday \"Nooruz\"",
+        "description": "National Holiday \"Nooruz\" is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/national-holiday-nooruz",
+        "urlid": "kyrgyzstan/national-holiday-nooruz",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "April People's Revolution Day",
+        "description": "April People's Revolution Day is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/april-peoples-revolution-day",
+        "urlid": "kyrgyzstan/april-peoples-revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for April People's Revolution Day",
+        "description": "April People's Revolution Day is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-04-08",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/april-peoples-revolution-day",
+        "urlid": "kyrgyzstan/april-peoples-revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orozo Ait",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/orozo-ait",
+        "urlid": "kyrgyzstan/orozo-ait",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/may-day",
+        "urlid": "kyrgyzstan/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day of the Kyrgyz Republic",
+        "description": "Constitution Day of the Kyrgyz Republic is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/constitution-day",
+        "urlid": "kyrgyzstan/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Constitution Day of the Kyrgyz Republic",
+        "description": "Constitution Day of the Kyrgyz Republic is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/constitution-day",
+        "urlid": "kyrgyzstan/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/victory-day",
+        "urlid": "kyrgyzstan/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kurman Ait",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/kurman-ait",
+        "urlid": "kyrgyzstan/kurman-ait",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Kyrgyzstan (Bishkek)",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-06-21T02:50:59+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 2,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "KGT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day of the Kyrgyz Republic",
+        "description": "Independence Day of the Kyrgyz Republic is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-08-31",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/independence-day",
+        "urlid": "kyrgyzstan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence Day of the Kyrgyz Republic",
+        "description": "Independence Day of the Kyrgyz Republic is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/independence-day",
+        "urlid": "kyrgyzstan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Kyrgyzstan (Bishkek)",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-09-22T18:43:33+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 18,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "KGT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Days of History and Memory of Ancestors",
+        "description": "Days of History and Memory of Ancestors is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-11-07",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/revolution-day",
+        "urlid": "kyrgyzstan/revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Days of History and Memory of Ancestors Holiday",
+        "description": "Days of History and Memory of Ancestors Holiday is a public holiday in Kyrgyzstan",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-11-08",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kyrgyzstan/days-of-history-holiday-2",
+        "urlid": "kyrgyzstan/days-of-history-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Kyrgyzstan (Bishkek)",
+        "country": {
+          "id": "kg",
+          "name": "Kyrgyzstan"
+        },
+        "date": {
+          "iso": "2024-12-21T15:20:34+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 15,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "KGT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

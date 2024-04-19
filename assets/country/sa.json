@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Founding Day",
+        "description": "Founding Day is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-02-22",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/founding-day",
+        "urlid": "saudi-arabia/founding-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a observance in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/flag-day",
+        "urlid": "saudi-arabia/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan begins",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/ramadan-begins",
+        "urlid": "saudi-arabia/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Saudi Arabia (Riyadh)",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-fitr",
+        "urlid": "saudi-arabia/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Holiday",
+        "description": "Eid al-Fitr Holiday is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-fitr-holiday-2",
+        "urlid": "saudi-arabia/eid-al-fitr-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Holiday",
+        "description": "Eid al-Fitr Holiday is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-fitr-holiday-3",
+        "urlid": "saudi-arabia/eid-al-fitr-holiday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Holiday",
+        "description": "Eid al-Fitr Holiday is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-fitr-holiday-4",
+        "urlid": "saudi-arabia/eid-al-fitr-holiday-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Arafat Day",
+        "description": "Arafat Day is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-06-15",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/arafat-day",
+        "urlid": "saudi-arabia/arafat-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-adha",
+        "urlid": "saudi-arabia/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-adha-holiday",
+        "urlid": "saudi-arabia/eid-al-adha-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/eid-al-adha-holiday-1",
+        "urlid": "saudi-arabia/eid-al-adha-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Saudi Arabia (Riyadh)",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram (Muslim New Year)",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/islamic-new-year",
+        "urlid": "saudi-arabia/islamic-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Saudi Arabia (Riyadh)",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saudi National Day",
+        "description": "Saudi National Day is a national holiday in Saudi Arabia",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-09-23",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/saudi-arabia/national-day",
+        "urlid": "saudi-arabia/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Saudi Arabia (Riyadh)",
+        "country": {
+          "id": "sa",
+          "name": "Saudi Arabia"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

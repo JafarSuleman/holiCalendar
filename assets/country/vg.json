@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/new-year",
+        "urlid": "british-virgin-islands/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lavity Stoutt's Birthday",
+        "description": "Lavity Stoutt's Birthday is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-04",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/lavity-stoutts-birthday",
+        "urlid": "british-virgin-islands/lavity-stoutts-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lavity Stoutt's Birthday",
+        "description": "Lavity Stoutt's Birthday is a observance in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-07",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/lavity-stoutts-birthday",
+        "urlid": "british-virgin-islands/lavity-stoutts-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in British Virgin Islands (Road Town)",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/good-friday",
+        "urlid": "british-virgin-islands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/easter-monday",
+        "urlid": "british-virgin-islands/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/pentecost-monday",
+        "urlid": "british-virgin-islands/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sovereign's Birthday",
+        "description": "Sovereign's Birthday is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-06-14",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/sovereigns-birthday",
+        "urlid": "british-virgin-islands/sovereigns-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in British Virgin Islands (Road Town)",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Virgin Islands Day",
+        "description": "Virgin Islands Day is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/virgin-islands-day",
+        "urlid": "british-virgin-islands/virgin-islands-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Monday",
+        "description": "Emancipation Monday is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/festival-monday",
+        "urlid": "british-virgin-islands/festival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Tuesday",
+        "description": "Emancipation Tuesday is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-08-06",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/festival-tuesday",
+        "urlid": "british-virgin-islands/festival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Wednesday",
+        "description": "Emancipation Wednesday is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-08-07",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/festival-wednesday",
+        "urlid": "british-virgin-islands/festival-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in British Virgin Islands (Road Town)",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Heroes and Forefathers Day",
+        "description": "Heroes and Forefathers Day is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-10-21",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/heroes-and-forefathers-day",
+        "urlid": "british-virgin-islands/heroes-and-forefathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Ursula's Day",
+        "description": "Saint Ursula's Day is a observance in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-10-21",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/saint-ursulas-day",
+        "urlid": "british-virgin-islands/saint-ursulas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Great March of 1949 and Restoration Day",
+        "description": "The Great March of 1949 and Restoration Day is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-11-25",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/the-great-march-of-1949-and-the-restoration",
+        "urlid": "british-virgin-islands/the-great-march-of-1949-and-the-restoration",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in British Virgin Islands (Road Town)",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/christmas-day",
+        "urlid": "british-virgin-islands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in British Virgin Islands",
+        "country": {
+          "id": "vg",
+          "name": "British Virgin Islands"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/british-virgin-islands/second-day-of-christmas",
+        "urlid": "british-virgin-islands/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

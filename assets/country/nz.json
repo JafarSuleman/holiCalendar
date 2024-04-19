@@ -1,0 +1,1128 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is a public holiday in New Zealand on January 1 each year.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/new-year-day",
+        "urlid": "new-zealand/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after New Year's Day",
+        "description": "January 2 is a public holiday known as the Day after New Year’s Day in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/day-after-new-years-day",
+        "urlid": "new-zealand/day-after-new-years-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Wellington Anniversary Day",
+        "description": "Wellington Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-01-22",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 22
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/wellington-anniversary-day",
+        "urlid": "new-zealand/wellington-anniversary-day",
+        "locations": "WGN, MWT (partly)",
+        "states": [
+          {
+            "id": 752,
+            "abbrev": "WGN",
+            "name": "Wellington",
+            "exception": null,
+            "iso": "nz-wgn"
+          },
+          {
+            "id": 751,
+            "abbrev": "MWT",
+            "name": "Manawatu-Whanganui",
+            "exception": "partly",
+            "iso": "nz-mwt"
+          }
+        ]
+      },
+      {
+        "name": "Northland Anniversary Day",
+        "description": "Northland Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-01-29",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 29
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/northland-anniversary-day",
+        "urlid": "new-zealand/northland-anniversary-day",
+        "locations": "NTL",
+        "states": [
+          {
+            "id": 744,
+            "abbrev": "NTL",
+            "name": "Northland",
+            "exception": null,
+            "iso": "nz-ntl"
+          }
+        ]
+      },
+      {
+        "name": "Auckland Anniversary Day",
+        "description": "Auckland Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-01-29",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 29
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/auckland-anniversary-day",
+        "urlid": "new-zealand/auckland-anniversary-day",
+        "locations": "AUK, WKO, BOP, GIS, MWT (partly), HKB (partly)",
+        "states": [
+          {
+            "id": 745,
+            "abbrev": "AUK",
+            "name": "Auckland",
+            "exception": null,
+            "iso": "nz-auk"
+          },
+          {
+            "id": 746,
+            "abbrev": "WKO",
+            "name": "Waikato",
+            "exception": null,
+            "iso": "nz-wko"
+          },
+          {
+            "id": 747,
+            "abbrev": "BOP",
+            "name": "Bay of Plenty",
+            "exception": null,
+            "iso": "nz-bop"
+          },
+          {
+            "id": 748,
+            "abbrev": "GIS",
+            "name": "Gisborne",
+            "exception": null,
+            "iso": "nz-gis"
+          },
+          {
+            "id": 751,
+            "abbrev": "MWT",
+            "name": "Manawatu-Whanganui",
+            "exception": "partly",
+            "iso": "nz-mwt"
+          },
+          {
+            "id": 749,
+            "abbrev": "HKB",
+            "name": "Hawke's Bay",
+            "exception": "partly",
+            "iso": "nz-hkb"
+          }
+        ]
+      },
+      {
+        "name": "Nelson Anniversary Day",
+        "description": "Nelson Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-01-29",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 29
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/nelson-anniversary-day",
+        "urlid": "new-zealand/nelson-anniversary-day",
+        "locations": "NSN, TAS, WTC (partly), CAN (partly)",
+        "states": [
+          {
+            "id": 754,
+            "abbrev": "NSN",
+            "name": "Nelson",
+            "exception": null,
+            "iso": "nz-nsn"
+          },
+          {
+            "id": 753,
+            "abbrev": "TAS",
+            "name": "Tasman",
+            "exception": null,
+            "iso": "nz-tas"
+          },
+          {
+            "id": 756,
+            "abbrev": "WTC",
+            "name": "West Coast",
+            "exception": "partly",
+            "iso": "nz-wtc"
+          },
+          {
+            "id": 757,
+            "abbrev": "CAN",
+            "name": "Canterbury",
+            "exception": "partly",
+            "iso": "nz-can"
+          }
+        ]
+      },
+      {
+        "name": "Waitangi Day",
+        "description": "On February 6 every year, New Zealanders celebrate Waitangi Day, a national holiday to commemorate the Treaty of Waitangi, New Zealand’s founding document.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-02-06",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/waitangi-day",
+        "urlid": "new-zealand/waitangi-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/valentine-day",
+        "urlid": "new-zealand/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Taranaki Anniversary Day",
+        "description": "Taranaki Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/taranaki-anniversary-day",
+        "urlid": "new-zealand/taranaki-anniversary-day",
+        "locations": "TKI",
+        "states": [
+          {
+            "id": 750,
+            "abbrev": "TKI",
+            "name": "Taranaki",
+            "exception": null,
+            "iso": "nz-tki"
+          }
+        ]
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in New Zealand (Wellington)",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-03-20T16:06:28+13:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 16,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+13:00",
+            "zoneabb": "NZDT",
+            "zoneoffset": 43200,
+            "zonedst": 3600,
+            "zonetotaloffset": 46800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Otago Anniversary Day",
+        "description": "Otago Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/otago-anniversary-day",
+        "urlid": "new-zealand/otago-anniversary-day",
+        "locations": "OTA",
+        "states": [
+          {
+            "id": 758,
+            "abbrev": "OTA",
+            "name": "Otago",
+            "exception": null,
+            "iso": "nz-ota"
+          }
+        ]
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is two days before Easter Sunday and is a public holiday in New Zealand.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/good-friday",
+        "urlid": "new-zealand/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/holy-saturday",
+        "urlid": "new-zealand/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/easter-sunday",
+        "urlid": "new-zealand/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday and is a public holiday in New Zealand.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/easter-monday",
+        "urlid": "new-zealand/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "April Fools",
+        "description": "April Fools is a observance in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/april-fools",
+        "urlid": "new-zealand/april-fools",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Southland Anniversary Day",
+        "description": "Southland Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-04-02",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/southland-anniversary-day",
+        "urlid": "new-zealand/southland-anniversary-day",
+        "locations": "STL",
+        "states": [
+          {
+            "id": 759,
+            "abbrev": "STL",
+            "name": "Southland",
+            "exception": null,
+            "iso": "nz-stl"
+          }
+        ]
+      },
+      {
+        "name": "ANZAC Day",
+        "description": "Many New Zealanders observe the Anzac Day public holiday on April 25 each year.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-04-25",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/anzac-day",
+        "urlid": "new-zealand/anzac-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/mother-day",
+        "urlid": "new-zealand/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Birthday",
+        "description": "The King’s birthday is an annual public holiday in New Zealand on the first Monday of June.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/kings-birthday",
+        "urlid": "new-zealand/kings-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in New Zealand (Wellington)",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-06-21T08:50:59+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 8,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "NZST",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Matariki",
+        "description": "Matariki is a national holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-06-28",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/matariki",
+        "urlid": "new-zealand/matariki",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father's Day is celebrated on the first Sunday of September in New Zealand.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-09-01",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/father-day",
+        "urlid": "new-zealand/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in New Zealand (Wellington)",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-09-23T00:43:33+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 0,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "NZST",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "South Canterbury Anniversary Day",
+        "description": "South Canterbury Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-09-23",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/south-canterbury-anniversary-day",
+        "urlid": "new-zealand/south-canterbury-anniversary-day",
+        "locations": "CAN (partly)",
+        "states": [
+          {
+            "id": 757,
+            "abbrev": "CAN",
+            "name": "Canterbury",
+            "exception": "partly",
+            "iso": "nz-can"
+          }
+        ]
+      },
+      {
+        "name": "Hawke's Bay Anniversary Day",
+        "description": "Hawke's Bay Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-10-25",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 25
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/hawkes-bay-anniversary-day",
+        "urlid": "new-zealand/hawkes-bay-anniversary-day",
+        "locations": "HKB (partly)",
+        "states": [
+          {
+            "id": 749,
+            "abbrev": "HKB",
+            "name": "Hawke's Bay",
+            "exception": "partly",
+            "iso": "nz-hkb"
+          }
+        ]
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labour Day is a nationwide public holiday in New Zealand on the fourth Monday in October each year.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-10-28",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/labour-day",
+        "urlid": "new-zealand/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/halloween",
+        "urlid": "new-zealand/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Marlborough Anniversary Day",
+        "description": "Marlborough Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/marlborough-anniversary-day",
+        "urlid": "new-zealand/marlborough-anniversary-day",
+        "locations": "MBH",
+        "states": [
+          {
+            "id": 755,
+            "abbrev": "MBH",
+            "name": "Marlborough",
+            "exception": null,
+            "iso": "nz-mbh"
+          }
+        ]
+      },
+      {
+        "name": "Guy Fawkes Night",
+        "description": "Guy Fawkes Night is a observance in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-11-05",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/guy-fawkes-night",
+        "urlid": "new-zealand/guy-fawkes-night",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Canterbury Anniversary Day",
+        "description": "Canterbury Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/canterbury-anniversary-day",
+        "urlid": "new-zealand/canterbury-anniversary-day",
+        "locations": "CAN (partly)",
+        "states": [
+          {
+            "id": 757,
+            "abbrev": "CAN",
+            "name": "Canterbury",
+            "exception": "partly",
+            "iso": "nz-can"
+          }
+        ]
+      },
+      {
+        "name": "Chatham Islands Anniversary Day",
+        "description": "Chatham Islands Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-02",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/chatham-islands-anniversary-day",
+        "urlid": "new-zealand/chatham-islands-anniversary-day",
+        "locations": "CIT",
+        "states": [
+          {
+            "id": 417,
+            "abbrev": "CIT",
+            "name": "Chatham Islands",
+            "exception": null,
+            "iso": "nz-cit"
+          }
+        ]
+      },
+      {
+        "name": "Westland Anniversary Day",
+        "description": "Westland Anniversary Day is a local holiday in New Zealand",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-02",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/westland-anniversary-day",
+        "urlid": "new-zealand/westland-anniversary-day",
+        "locations": "WTC (partly)",
+        "states": [
+          {
+            "id": 756,
+            "abbrev": "WTC",
+            "name": "West Coast",
+            "exception": "partly",
+            "iso": "nz-wtc"
+          }
+        ]
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in New Zealand (Wellington)",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-21T22:20:34+13:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 22,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+13:00",
+            "zoneabb": "NZDT",
+            "zoneoffset": 43200,
+            "zonedst": 3600,
+            "zonetotaloffset": 46800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/christmas-eve",
+        "urlid": "new-zealand/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is a public holiday in New Zealand on December 25 each year.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/christmas-day",
+        "urlid": "new-zealand/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day, annually observed on December 26, is a public holiday in New Zealand.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/boxing-day",
+        "urlid": "new-zealand/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "nz",
+          "name": "New Zealand"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/new-zealand/new-year-eve",
+        "urlid": "new-zealand/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

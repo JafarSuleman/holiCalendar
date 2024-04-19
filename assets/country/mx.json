@@ -1,0 +1,1137 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day, on January 1, is the first day of the year.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/new-year-day",
+        "urlid": "mexico/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Holy Kings",
+        "description": "The Day of the Holy Kings is a Christian celebration when children in Mexico receive gifts from the three wise men.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/holy-kings",
+        "urlid": "mexico/holy-kings",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Candlemas",
+        "description": "Candlemas is also known as the Feast of Presentation of the Lord. It is on February 2 every year.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-02-02",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/candlemas",
+        "urlid": "mexico/candlemas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Mexico’s Constitution Day is celebrated on the first Monday in February to commemorate the Constitution of 1917.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-02-05",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/memorial-day",
+        "urlid": "mexico/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "Valentine’s Day in Mexico is not just for romance – it is also a time to show an appreciation for friends.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/valentine-day",
+        "urlid": "mexico/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ash Wednesday",
+        "description": "Catholics in Mexico observe Ash Wednesday, which is the start of the Lenten fast that lasts for 40 days (excluding Sundays).",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/mexico/ash-wednesday",
+        "urlid": "mexico/ash-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Mexico’s Flag Day celebrates the national flag, which features vertical stripes of red, white and green with the national coat of arms in the middle of the white stripe.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-02-24",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/flag-day",
+        "urlid": "mexico/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Oil Expropriation Day",
+        "description": "Oil Expropriation Day serves as a national reminder of when Mexican president Lázaro Cárdenas proclaimed the expropriation of all mineral and oil reserves in Mexico.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-18",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/oil-expropriation",
+        "urlid": "mexico/oil-expropriation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Benito Juárez's Birthday Memorial",
+        "description": "Benito Juárez Day (Natalicio de Benito Juárez) is a national holiday in Mexico to honor the birthday of one the country’s greatest presidents.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-18",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/benito-juarez",
+        "urlid": "mexico/benito-juarez",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Mexico (Mexico City)",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-19T21:06:28-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 21,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Benito Juárez's Birthday Memorial",
+        "description": "Benito Juárez Day (Natalicio de Benito Juárez) is a national holiday in Mexico to honor the birthday of one the country’s greatest presidents.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/benito-juarez",
+        "urlid": "mexico/benito-juarez",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Christians in Mexico celebrate Palm Sunday, which honors Jesus Christ’s triumphal entry into Jerusalem.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/mexico/palm-sunday",
+        "urlid": "mexico/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Mexicans observe Maundy Thursday as part of Holy Week (Semana Santa), which commemorates Jesus’ last moments of life, his death, and resurrection.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/maundy-thursday",
+        "urlid": "mexico/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Mexicans observe Good Friday as the day Jesus died on the cross about 2000 years ago.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/good-friday",
+        "urlid": "mexico/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Mexicans observe Holy Saturday as part of Holy Week (Semana Santa), which commemorates Jesus’ last moments of life, his death, and resurrection.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/holy-saturday",
+        "urlid": "mexico/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday is one of the most festive occasions of the year in Mexico – it celebrates Jesus Christ’s resurrection.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/mexico/easter",
+        "urlid": "mexico/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children’s Day is a Mexican observance that honors and appreciates children.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-04-30",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/children-day",
+        "urlid": "mexico/children-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Mexico’s Labor Day is celebrated as a day off work and school on the first day of May.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/labor-day",
+        "urlid": "mexico/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Puebla (Cinco de Mayo)",
+        "description": "Cinco de Mayo is an annual government and school holiday dedicated to the Mexican army’s victory of the Battle of Puebla.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/cinco-de-mayo",
+        "urlid": "mexico/cinco-de-mayo",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Churches in Mexico commemorate the story of Jesus rising to heaven on Ascension Day.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/ascension-day",
+        "urlid": "mexico/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Many Mexicans celebrate Mothers’ Day as a festive family event in which mothers are given cards, flowers, and presents.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/mother-day",
+        "urlid": "mexico/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teacher's Day",
+        "description": "Teachers’ Appreciation Day is a festive event to honor teachers and other education workers in Mexico.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/teacher-day",
+        "urlid": "mexico/teacher-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Whitsunday is a Christian holiday commemorating the story of the Holy Spirit descending on Jesus’ disciples. It is also known as Pentecost.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/pentecost",
+        "urlid": "mexico/pentecost",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Churches throughout Mexico celebrate the Holy Eucharist, or the communion of bread and wine, during Corpus Christi.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/corpus-christi",
+        "urlid": "mexico/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Fathers and father figures receive cards, chocolates, and other presents on Fathers’ Day in Mexico.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/father-day",
+        "urlid": "mexico/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Mexico (Mexico City)",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-06-20T14:50:59-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 14,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "General Election Day",
+        "description": "Mexico’s general election is held across the country on the first Sunday of July every sixth year.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/election-day",
+        "urlid": "mexico/election-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "Catholic churches in Mexico celebrate the Assumption of Mary to honor the belief of the Virgin Mary’s departure from earth to heaven.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/assumption-day",
+        "urlid": "mexico/assumption-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shout of Dolores",
+        "description": "The day of the Cry of Dolores is an important event leading up to Mexico’s Independence Day celebrations.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/grito-de-dolores",
+        "urlid": "mexico/grito-de-dolores",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Mexico’s Independence Day is a nationwide public holiday to celebrate the country’s freedom from Spanish rule.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/independence-day",
+        "urlid": "mexico/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Mexico (Mexico City)",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-09-22T06:43:33-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 6,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Inauguration day",
+        "description": "Mexico’s presidential inauguration day is a national holiday, in which a new president is inaugurated on December every 6 years.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/change-of-federal-government",
+        "urlid": "mexico/change-of-federal-government",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Race",
+        "description": "Columbus Day is celebrated in Mexico in honor of an Italian explorer who came to the Americas during the 15th century.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/columbus-day",
+        "urlid": "mexico/columbus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is celebrated in Mexico on the last day of October, the day before All Saints’ Day.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/halloween",
+        "urlid": "mexico/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "All Saints’ Day is a religious observance in Mexico on November 1 to remember all the saints in the Catholic Church.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/all-saints-day",
+        "urlid": "mexico/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day, popularly known as the Day of the Dead, is a bank holiday in Mexico to remember deceased relatives and friends on November 2.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/all-souls-day",
+        "urlid": "mexico/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Day Memorial",
+        "description": "Revolution Day is held on the third Monday in November to commemorate the start of the Mexican revolution to overthrow the Porfirio Diaz dictatorship in 1910.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-11-18",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/revolution-day",
+        "urlid": "mexico/revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christ the King Day",
+        "description": "Christ the King Day is a Christian observance that recognizes Jesus’ power and authority in the Christian church.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-11-24",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/christ-the-king-day",
+        "urlid": "mexico/christ-the-king-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "Catholics in Mexico observe the Feast of the Immaculate Conception to honor the idea that the Virgin Mary’s conception was pure and faultless.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/immaculate-conception",
+        "urlid": "mexico/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Virgin of Guadalupe",
+        "description": "One of the most celebrated days in the Mexican calendar is the Day of Our Lady Guadalupe, which commemorates the belief that Jesus’ mother appeared in Mexico in 1531.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-12",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 12
+          }
+        },
+        "type": [
+          "Christian",
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/mexico/day-of-virgin-guadalupe",
+        "urlid": "mexico/day-of-virgin-guadalupe",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Mexico (Mexico City)",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-21T03:20:34-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 3,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Most Mexicans celebrate Christmas Eve on December 24 by attending church masses, visiting family and friends, and enjoying special Christmas dinners.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/mexico/christmas-eve",
+        "urlid": "mexico/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is a public holiday across Mexico to celebrate the birth of Jesus Christ.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/mexico/christmas-day",
+        "urlid": "mexico/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Holy Innocents",
+        "description": "The Catholic Church in Mexico observes the Day of the Holy Innocents in memory of when male babies in Bethlehem were executed by Herod’s orders.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-28",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/day-of-the-holy-innocents",
+        "urlid": "mexico/day-of-the-holy-innocents",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve, on December 31, is the last day of the year.",
+        "country": {
+          "id": "mx",
+          "name": "Mexico"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mexico/new-year-eve",
+        "urlid": "mexico/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

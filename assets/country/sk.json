@@ -1,0 +1,1106 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/republic-day",
+        "urlid": "slovakia/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/epiphany",
+        "urlid": "slovakia/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Slovakia (Bratislava)",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Struggle for Human Rights Day",
+        "description": "Struggle for Human Rights Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/struggle-for-human-rights-day",
+        "urlid": "slovakia/struggle-for-human-rights-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/good-friday",
+        "urlid": "slovakia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/easter-day",
+        "urlid": "slovakia/easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/easter-monday",
+        "urlid": "slovakia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unfairly Prosecuted Persons Day",
+        "description": "Unfairly Prosecuted Persons Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/unfairly-prosecuted-persons-day",
+        "urlid": "slovakia/unfairly-prosecuted-persons-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/labor-day",
+        "urlid": "slovakia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Accession to the European Union Day",
+        "description": "Accession to the European Union Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/accession-to-european-union-day",
+        "urlid": "slovakia/accession-to-european-union-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Death Anniversary of M. R. Štefánik",
+        "description": "Death Anniversary of M. R. Štefánik is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/anniversary-of-the-decease-of-mr-stefanika",
+        "urlid": "slovakia/anniversary-of-the-decease-of-mr-stefanika",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Victory Over Fascism",
+        "description": "Day of Victory Over Fascism is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/end-of-world-war-ii",
+        "urlid": "slovakia/end-of-world-war-ii",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/mothers-day",
+        "urlid": "slovakia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the Memorandum of the Slovak Nation",
+        "description": "Anniversary of the Memorandum of the Slovak Nation is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-06-07",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/anniversary-of-the-memorandum-of-the-slovak-nation",
+        "urlid": "slovakia/anniversary-of-the-memorandum-of-the-slovak-nation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/fathers-day",
+        "urlid": "slovakia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Slovakia (Bratislava)",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Departure of the Soviet Army from Czechoslovakia",
+        "description": "Day of the Departure of the Soviet Army from Czechoslovakia is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/day-of-departure-of-soviet-army-from-czechoslovakia",
+        "urlid": "slovakia/day-of-departure-of-soviet-army-from-czechoslovakia",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day for the Victims of the Communist Regime",
+        "description": "Remembrance Day for the Victims of the Communist Regime is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/remembrance-day-for-victims-of-communist-regime",
+        "urlid": "slovakia/remembrance-day-for-victims-of-communist-regime",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Cyril & St. Methodius Day",
+        "description": "St. Cyril & St. Methodius Day is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/st-cyril-st-methodius-day",
+        "urlid": "slovakia/st-cyril-st-methodius-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Foreign Slovaks Day",
+        "description": "Foreign Slovaks Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/foreign-slovaks-day",
+        "urlid": "slovakia/foreign-slovaks-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the Declaration of Sovereignty of the Slovak Republic",
+        "description": "Anniversary of the Declaration of Sovereignty of the Slovak Republic is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-07-17",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/independence-day",
+        "urlid": "slovakia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Matice Slovenska Day",
+        "description": "Matice Slovenska Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-08-04",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/matice-slovenskej-day",
+        "urlid": "slovakia/matice-slovenskej-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Victims of Mining Disasters",
+        "description": "Day of the Victims of Mining Disasters is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-08-10",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/day-of-victims-of-mining-disasters",
+        "urlid": "slovakia/day-of-victims-of-mining-disasters",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Victims of the Occupation of Czechoslovakia",
+        "description": "Day of the Victims of the Occupation of Czechoslovakia is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-08-21",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/day-of-czechoslovakia-occupation-victims",
+        "urlid": "slovakia/day-of-czechoslovakia-occupation-victims",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Uprising Day",
+        "description": "National Uprising Day is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-08-29",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/national-uprising-day",
+        "urlid": "slovakia/national-uprising-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-09-01",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/constitution-day",
+        "urlid": "slovakia/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Victims of Holocaust and of racial violence",
+        "description": "Day of the Victims of Holocaust and of racial violence is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/the-victims-of-holocaust-and-of-racial-violence-day",
+        "urlid": "slovakia/the-victims-of-holocaust-and-of-racial-violence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Our Lady of Sorrows",
+        "description": "Day of Our Lady of Sorrows is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/the-day-of-the-virgin-mary-of-the-seven-sorrows",
+        "urlid": "slovakia/the-day-of-the-virgin-mary-of-the-seven-sorrows",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Foundation of the Slovak National Council Day",
+        "description": "Foundation of the Slovak National Council Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-09-19",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/the-first-public-appearance-of-the-slovak-national-council-day",
+        "urlid": "slovakia/the-first-public-appearance-of-the-slovak-national-council-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Slovakia (Bratislava)",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Heroes of the Carpathian-Duklian Operation",
+        "description": "Day of the Heroes of the Carpathian-Duklian Operation is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-06",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/dukla-pass-victims-day",
+        "urlid": "slovakia/dukla-pass-victims-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Samizdat Day",
+        "description": "Samizdat Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/samizdat-day",
+        "urlid": "slovakia/samizdat-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Černová Tragedy Day",
+        "description": "Černová Tragedy Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-27",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/cernova-tragedy-day",
+        "urlid": "slovakia/cernova-tragedy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Establishment of the Independent Czecho-Slovak State",
+        "description": "Establishment of the Independent Czecho-Slovak State is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-28",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/the-establishment-of-an-independent-czecho-slovak-state-day",
+        "urlid": "slovakia/the-establishment-of-an-independent-czecho-slovak-state-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth of Ľudovíta Štúr",
+        "description": "Birth of Ľudovíta Štúr is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-29",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/birth-of-ludovit-stur-day",
+        "urlid": "slovakia/birth-of-ludovit-stur-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the Declaration of the Slovak Nation",
+        "description": "Anniversary of the Declaration of the Slovak Nation is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-30",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/anniversary-of-the-declaration-of-the-slovak-nation",
+        "urlid": "slovakia/anniversary-of-the-declaration-of-the-slovak-nation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Reformation Day",
+        "description": "Reformation Day is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/reformation-day",
+        "urlid": "slovakia/reformation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/all-saints-day",
+        "urlid": "slovakia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fight for Freedom and Democracy Day",
+        "description": "Fight for Freedom and Democracy Day is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-11-17",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/freedom-and-democracy-day",
+        "urlid": "slovakia/freedom-and-democracy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Slovakia (Bratislava)",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/christmas-eve",
+        "urlid": "slovakia/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/christmas-day",
+        "urlid": "slovakia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Stephen's Day",
+        "description": "St. Stephen's Day is a national holiday in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/st-stephens-dayh",
+        "urlid": "slovakia/st-stephens-dayh",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Declaration of Slovakia as an Independent Ecclesiastic Province",
+        "description": "Day of the Declaration of Slovakia as an Independent Ecclesiastic Province is a observance in Slovakia",
+        "country": {
+          "id": "sk",
+          "name": "Slovakia"
+        },
+        "date": {
+          "iso": "2024-12-30",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovakia/the-declaration-of-slovakia-as-an-independent-ecclesiastic-province-day",
+        "urlid": "slovakia/the-declaration-of-slovakia-as-an-independent-ecclesiastic-province-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

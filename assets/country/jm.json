@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/new-year-day",
+        "urlid": "jamaica/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/ash-wednesday",
+        "urlid": "jamaica/ash-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/valentine-day",
+        "urlid": "jamaica/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Jamaica (Kingston)",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-03-19T22:06:28-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 22,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "EST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/good-friday",
+        "urlid": "jamaica/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/easter-sunday",
+        "urlid": "jamaica/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/easter-monday",
+        "urlid": "jamaica/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/mother-day",
+        "urlid": "jamaica/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/labour-day",
+        "urlid": "jamaica/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/father-day",
+        "urlid": "jamaica/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Jamaica (Kingston)",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-06-20T15:50:59-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 15,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "EST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a public holiday in Jamaica",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/emancipation-day",
+        "urlid": "jamaica/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Jamaica",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-08-06",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/independence-day",
+        "urlid": "jamaica/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Jamaica (Kingston)",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-09-22T07:43:33-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 7,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "EST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Heroes' Day",
+        "description": "National Heroes' Day is a public holiday in Jamaica",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-10-21",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/national-heroes-day",
+        "urlid": "jamaica/national-heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Jamaica (Kingston)",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-12-21T04:20:34-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 4,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "EST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/christmas-eve",
+        "urlid": "jamaica/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/christmas-day",
+        "urlid": "jamaica/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Jamaica",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/boxing-day",
+        "urlid": "jamaica/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "jm",
+          "name": "Jamaica"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/jamaica/new-year-eve",
+        "urlid": "jamaica/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

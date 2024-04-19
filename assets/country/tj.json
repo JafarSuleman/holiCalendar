@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/new-year",
+        "urlid": "tajikistan/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/international-womens-day",
+        "urlid": "tajikistan/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Tajikistan (Dushanbe)",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-03-20T08:06:28+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 8,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TJT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navruz Celebration",
+        "description": "Navruz Celebration is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/navruz-1",
+        "urlid": "tajikistan/navruz-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navruz Celebration",
+        "description": "Navruz Celebration is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-03-22",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/navruz-2",
+        "urlid": "tajikistan/navruz-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navruz Celebration",
+        "description": "Navruz Celebration is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-03-23",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/navruz-3",
+        "urlid": "tajikistan/navruz-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navruz Celebration",
+        "description": "Navruz Celebration is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/navruz-4",
+        "urlid": "tajikistan/navruz-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid ul Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/eid-al-fitr",
+        "urlid": "tajikistan/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/may-day",
+        "urlid": "tajikistan/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/victory-day",
+        "urlid": "tajikistan/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/eid-al-adha",
+        "urlid": "tajikistan/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Tajikistan (Dushanbe)",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-06-21T01:50:59+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 1,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TJT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of National Unity",
+        "description": "Day of National Unity is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-06-27",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/day-of-national-unity",
+        "urlid": "tajikistan/day-of-national-unity",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/independence-day",
+        "urlid": "tajikistan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Tajikistan (Dushanbe)",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-09-22T17:43:33+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 17,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TJT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Tajikistan",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-11-06",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tajikistan/constitution-day",
+        "urlid": "tajikistan/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Tajikistan (Dushanbe)",
+        "country": {
+          "id": "tj",
+          "name": "Tajikistan"
+        },
+        "date": {
+          "iso": "2024-12-21T14:20:34+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 14,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "TJT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/new-year",
+        "urlid": "marshall-islands/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Remembrance Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-03-01",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/remembrance-day",
+        "urlid": "marshall-islands/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Marshall Islands (Majuro)",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-03-20T15:06:28+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 15,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "+12",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/good-friday",
+        "urlid": "marshall-islands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/constitution-day",
+        "urlid": "marshall-islands/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Marshall Islands (Majuro)",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-06-21T08:50:59+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 8,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "+12",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fishermen's Day",
+        "description": "Fishermen's Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/fishermens-holiday",
+        "urlid": "marshall-islands/fishermens-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-09-06",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/labor-day",
+        "urlid": "marshall-islands/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Marshall Islands (Majuro)",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-09-23T00:43:33+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 0,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "+12",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Manit Day",
+        "description": "Manit Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-09-27",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/manit-day",
+        "urlid": "marshall-islands/manit-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "President's Day",
+        "description": "President's Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-11-17",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/presidents-day",
+        "urlid": "marshall-islands/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for President's Day",
+        "description": "President's Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-11-18",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/presidents-day",
+        "urlid": "marshall-islands/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Gospel Day",
+        "description": "Gospel Day is a public holiday in Marshall Islands",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-12-06",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/gospel-day",
+        "urlid": "marshall-islands/gospel-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Marshall Islands (Majuro)",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-12-21T21:20:34+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 21,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "+12",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/christmas-day",
+        "urlid": "marshall-islands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "mh",
+          "name": "Marshall Islands"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/marshall-islands/new-years-eve",
+        "urlid": "marshall-islands/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

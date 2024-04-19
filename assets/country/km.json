@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/new-year",
+        "urlid": "comores/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Isra and Mi'raj",
+        "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-02-07",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/isra-miraj",
+        "urlid": "comores/isra-miraj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/comores/ramadan-begins",
+        "urlid": "comores/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Cheikh Al Maarouf Day",
+        "description": "Cheikh Al Maarouf Day is a public holiday in Comoros",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-03-18",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/cheikh-al-maarouf-day",
+        "urlid": "comores/cheikh-al-maarouf-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Comoros (Moroni)",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/eid-al-fitr",
+        "urlid": "comores/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Holiday",
+        "description": "Eid al-Fitr Holiday is a public holiday in Comoros",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/eid-al-fitr-1",
+        "urlid": "comores/eid-al-fitr-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Holiday",
+        "description": "Eid al-Fitr Holiday is a public holiday in Comoros",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/eid-al-fitr-2",
+        "urlid": "comores/eid-al-fitr-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/may-day",
+        "urlid": "comores/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/eid-al-adha",
+        "urlid": "comores/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/eid-al-adha-1",
+        "urlid": "comores/eid-al-adha-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Comoros (Moroni)",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Comoros",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-07-06",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/national-day",
+        "urlid": "comores/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/muharram",
+        "urlid": "comores/muharram",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/prophet-birthday",
+        "urlid": "comores/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Comoros (Moroni)",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maore Day",
+        "description": "Maore Day is a public holiday in Comoros",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-11-12",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/comores/maore-day",
+        "urlid": "comores/maore-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Comoros (Moroni)",
+        "country": {
+          "id": "km",
+          "name": "Comoros"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

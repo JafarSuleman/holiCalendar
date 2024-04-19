@@ -1,0 +1,793 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Coptic Christmas Day",
+        "description": "Coptic Christmas Day is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/coptic-christmas-day",
+        "urlid": "egypt/coptic-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Day January 25",
+        "description": "Revolution Day January 25 is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-01-25",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/revolution-day-january-25",
+        "urlid": "egypt/revolution-day-january-25",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-03-12",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/ramadan-begins",
+        "urlid": "egypt/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Egypt (Cairo)",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid el Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/eid-al-fitr",
+        "urlid": "egypt/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid el Fitr Holiday",
+        "description": "Eid el Fitr Holiday is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/eid-al-fitr-2",
+        "urlid": "egypt/eid-al-fitr-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid el Fitr Holiday",
+        "description": "Eid el Fitr Holiday is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/eid-al-fitr-3",
+        "urlid": "egypt/eid-al-fitr-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sinai Liberation Day",
+        "description": "Sinai Liberation Day is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-04-25",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/sinai-liberation-day",
+        "urlid": "egypt/sinai-liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/labor-day",
+        "urlid": "egypt/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Coptic Good Friday",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/coptic-good-friday",
+        "urlid": "egypt/coptic-good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Coptic Holy Saturday",
+        "description": "The Saturday before Easter Sunday is also known as Holy Saturday for many Orthodox churches worldwide.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/orthodox-holy-saturday",
+        "urlid": "egypt/orthodox-holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Coptic Easter Sunday",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/coptic-easter-day",
+        "urlid": "egypt/coptic-easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Spring Festival",
+        "description": "Orthodox Easter Monday is the day after the Orthodox Easter Sunday.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/spring-festival",
+        "urlid": "egypt/spring-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Arafat Day",
+        "description": "Arafat Day is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/arafat-day",
+        "urlid": "egypt/arafat-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/eid-al-adha",
+        "urlid": "egypt/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/eid-al-adha-4",
+        "urlid": "egypt/eid-al-adha-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/eid-al-adha-5",
+        "urlid": "egypt/eid-al-adha-5",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Egypt (Cairo)",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June 30 Revolution",
+        "description": "June 30 Revolution is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-06-30",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/june-30-uprising",
+        "urlid": "egypt/june-30-uprising",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for June 30 Revolution",
+        "description": "June 30 Revolution is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/june-30-uprising",
+        "urlid": "egypt/june-30-uprising",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/muharram",
+        "urlid": "egypt/muharram",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashura",
+        "description": "Ashura is a observance in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-07-17",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/ashura",
+        "urlid": "egypt/ashura",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Day July 23",
+        "description": "Revolution Day July 23 is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-07-23",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/revolution-day-july-23",
+        "urlid": "egypt/revolution-day-july-23",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Revolution Day July 23",
+        "description": "Revolution Day July 23 is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-07-25",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/revolution-day-july-23",
+        "urlid": "egypt/revolution-day-july-23",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flooding of the Nile",
+        "description": "Flooding of the Nile is a observance in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/flooding-of-nile",
+        "urlid": "egypt/flooding-of-nile",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nayrouz",
+        "description": "Nayrouz is a observance in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-09-11",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/egypt/coptic-new-year",
+        "urlid": "egypt/coptic-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Prophet Mohamed's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/prophet-birthday",
+        "urlid": "egypt/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Egypt (Cairo)",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-10-06",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/armed-forces-day",
+        "urlid": "egypt/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Armed Forces Day",
+        "description": "Armed Forces Day is a national holiday in Egypt",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-10-10",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/egypt/armed-forces-day",
+        "urlid": "egypt/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Egypt (Cairo)",
+        "country": {
+          "id": "eg",
+          "name": "Egypt"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

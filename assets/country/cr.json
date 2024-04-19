@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/new-year-day",
+        "urlid": "costa-rica/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Joseph's Day",
+        "description": "Saint Joseph's Day is a observance in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/saint-josheps-day",
+        "urlid": "costa-rica/saint-josheps-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Costa Rica (San Jose)",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-03-19T21:06:28-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 21,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/maundy-thursday",
+        "urlid": "costa-rica/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/good-friday",
+        "urlid": "costa-rica/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Rivas",
+        "description": "Battle of Rivas is a observance in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/battle-of-rivas",
+        "urlid": "costa-rica/battle-of-rivas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Rivas",
+        "description": "Battle of Rivas is a national holiday in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-04-15",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/battle-of-rivas",
+        "urlid": "costa-rica/battle-of-rivas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/labor-day",
+        "urlid": "costa-rica/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/fathers-day",
+        "urlid": "costa-rica/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Costa Rica (San Jose)",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-06-20T14:50:59-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 14,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Annexation of Guanacaste",
+        "description": "Annexation of Guanacaste is a observance in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-07-25",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/annexation-of-guanacaste",
+        "urlid": "costa-rica/annexation-of-guanacaste",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Annexation of Guanacaste",
+        "description": "Annexation of Guanacaste is a national holiday in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/annexation-of-guanacaste",
+        "urlid": "costa-rica/annexation-of-guanacaste",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Our Lady of Los Ángeles",
+        "description": "Our Lady of Los Ángeles is a non compulsory payment holiday in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-08-02",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Non Compulsory Payment Holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/our-lady-of-los-angeles",
+        "urlid": "costa-rica/our-lady-of-los-angeles",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/mother-day",
+        "urlid": "costa-rica/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/mother-day",
+        "urlid": "costa-rica/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Parks Day",
+        "description": "National Parks Day is a observance in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-08-24",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/national-parks-day",
+        "urlid": "costa-rica/national-parks-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/childrens-day",
+        "urlid": "costa-rica/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/independence-day",
+        "urlid": "costa-rica/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Costa Rica (San Jose)",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-09-22T06:43:33-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 6,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/all-souls-day",
+        "urlid": "costa-rica/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teacher's Day",
+        "description": "Teacher's Day is a observance in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-11-22",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/teachers-day",
+        "urlid": "costa-rica/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Abolition of the Army",
+        "description": "Day of Abolition of the Army is a non compulsory payment holiday in Costa Rica",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-12-01",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Non Compulsory Payment Holiday",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/day-of-abolition-of-the-army",
+        "urlid": "costa-rica/day-of-abolition-of-the-army",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/immaculate-conception",
+        "urlid": "costa-rica/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Costa Rica (San Jose)",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-12-21T03:20:34-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 3,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/christmas-day",
+        "urlid": "costa-rica/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "cr",
+          "name": "Costa Rica"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/costa-rica/new-years-eve",
+        "urlid": "costa-rica/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

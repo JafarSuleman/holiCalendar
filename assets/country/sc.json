@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/new-year",
+        "urlid": "seychelles/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year holiday",
+        "description": "New Year holiday is a public holiday in Seychelles",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/new-year-holiday",
+        "urlid": "seychelles/new-year-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Seychelles (Victoria)",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-03-20T07:06:28+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 7,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "SCT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/good-friday",
+        "urlid": "seychelles/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/easter-saturday",
+        "urlid": "seychelles/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/easter",
+        "urlid": "seychelles/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/easter-monday",
+        "urlid": "seychelles/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/may-day",
+        "urlid": "seychelles/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/corpus-christi",
+        "urlid": "seychelles/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Seychelles",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/constitution-day",
+        "urlid": "seychelles/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Seychelles (Victoria)",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-06-21T00:50:59+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 0,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "SCT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Seychelles",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/national-day",
+        "urlid": "seychelles/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/assumption-of-mary",
+        "urlid": "seychelles/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Seychelles (Victoria)",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-09-22T16:43:33+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 16,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "SCT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/all-saints-eve",
+        "urlid": "seychelles/all-saints-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/immaculate-conception",
+        "urlid": "seychelles/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/immaculate-conception",
+        "urlid": "seychelles/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Seychelles (Victoria)",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-12-21T13:20:34+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 13,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "SCT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "sc",
+          "name": "Seychelles"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/seychelles/christmas-day",
+        "urlid": "seychelles/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

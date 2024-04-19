@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/new-year",
+        "urlid": "saint-vincent-and-the-grenadines/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Heroes Day",
+        "description": "National Heroes Day is a public holiday in Saint Vincent and Grenadines",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-03-14",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/national-heroes-day",
+        "urlid": "saint-vincent-and-the-grenadines/national-heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Saint Vincent and Grenadines (Kingstown)",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/good-friday",
+        "urlid": "saint-vincent-and-the-grenadines/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/easter-monday",
+        "urlid": "saint-vincent-and-the-grenadines/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Workers Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/may-day",
+        "urlid": "saint-vincent-and-the-grenadines/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/pentecost-monday",
+        "urlid": "saint-vincent-and-the-grenadines/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Saint Vincent and Grenadines (Kingstown)",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival Monday",
+        "description": "Carnival Monday is a public holiday in Saint Vincent and Grenadines",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/carnival-monday",
+        "urlid": "saint-vincent-and-the-grenadines/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival Tuesday",
+        "description": "Carnival Tuesday is a public holiday in Saint Vincent and Grenadines",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-07-02",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/carnival-tuesday",
+        "urlid": "saint-vincent-and-the-grenadines/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a public holiday in Saint Vincent and Grenadines",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/emancipation-day",
+        "urlid": "saint-vincent-and-the-grenadines/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Saint Vincent and Grenadines (Kingstown)",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Saint Vincent and Grenadines",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-10-27",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/independence-day",
+        "urlid": "saint-vincent-and-the-grenadines/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Saint Vincent and Grenadines (Kingstown)",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/christmas-day",
+        "urlid": "saint-vincent-and-the-grenadines/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Saint Vincent and Grenadines",
+        "country": {
+          "id": "vc",
+          "name": "Saint Vincent and the Grenadines"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/saint-vincent-and-the-grenadines/second-day-of-christmas",
+        "urlid": "saint-vincent-and-the-grenadines/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

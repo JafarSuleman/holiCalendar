@@ -1,0 +1,655 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/new-year-day",
+        "urlid": "georgia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's (Day 2)",
+        "description": "New Year's (Day 2) is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/new-year-day",
+        "urlid": "georgia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/christmas-day",
+        "urlid": "georgia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Epiphany",
+        "description": "Orthodox Epiphany is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-01-19",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/orthodox-epiphany",
+        "urlid": "georgia/orthodox-epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/georgia/valentine-day",
+        "urlid": "georgia/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-03-03",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/mother-day",
+        "urlid": "georgia/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/womens-day",
+        "urlid": "georgia/womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Georgia (Tbilisi)",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-03-20T07:06:28+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 7,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "GET",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz",
+        "description": "Nowruz is a observance in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/georgia/nowruz",
+        "urlid": "georgia/nowruz",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Restoration Day",
+        "description": "Independence Restoration Day is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/independence-restoration-day",
+        "urlid": "georgia/independence-restoration-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Good Friday",
+        "description": "Millions of Orthodox Christians around the world annually observe Good Friday to commemorate the events leading up to Jesus Christ's crucifixion.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/orthodox-good-friday",
+        "urlid": "georgia/orthodox-good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Holy Saturday",
+        "description": "The Saturday before Easter Sunday is also known as Holy Saturday for many Orthodox churches worldwide.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/orthodox-holy-saturday",
+        "urlid": "georgia/orthodox-holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Sunday",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/orthodox-easter-day",
+        "urlid": "georgia/orthodox-easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Monday",
+        "description": "Orthodox Easter Monday is the day after the Orthodox Easter Sunday.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/orthodox-easter-monday",
+        "urlid": "georgia/orthodox-easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/victory-day",
+        "urlid": "georgia/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Andrew's Day",
+        "description": "St Andrew's Day is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/st-andrew-day",
+        "urlid": "georgia/st-andrew-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/independence-day",
+        "urlid": "georgia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/georgia/father-day",
+        "urlid": "georgia/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Georgia (Tbilisi)",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-06-21T00:50:59+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 0,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "GET",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-08-28",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/assumption-mary-day",
+        "urlid": "georgia/assumption-mary-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Georgia (Tbilisi)",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-09-22T16:43:33+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 16,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "GET",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Svetitskhovloba",
+        "description": "Svetitskhovloba is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/svetitskhovloba",
+        "urlid": "georgia/svetitskhovloba",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St George's Day",
+        "description": "St George's Day is a public holiday in Georgia",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-11-23",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/georgia/st-george-day",
+        "urlid": "georgia/st-george-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Georgia (Tbilisi)",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-12-21T13:20:34+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 13,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "GET",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ge",
+          "name": "Georgia"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/georgia/new-year-eve",
+        "urlid": "georgia/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

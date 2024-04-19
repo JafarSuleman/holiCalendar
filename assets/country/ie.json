@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year's Day is the first day of the year. It is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/new-year-day",
+        "urlid": "ireland/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Brigid’s Day",
+        "description": "St. Brigid’s Day is a observance in Ireland",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-02-01",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ireland/st-brigid-day",
+        "urlid": "ireland/st-brigid-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Brigid’s Day",
+        "description": "St. Brigid’s Day is a national holiday in Ireland",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-02-05",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/st-brigid-day",
+        "urlid": "ireland/st-brigid-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-03-10",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ie/mothers-day",
+        "urlid": "ie/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Patrick's Day",
+        "description": "St Patrick’s Day is the feast day of Ireland's patron saint. It is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-03-17",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/st-patrick-day",
+        "urlid": "ireland/st-patrick-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Ireland (Dublin)",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-03-20T03:06:28+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 3,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is an occasion for Christians to commemorate Jesus Christ's crucifixion. It is a day of rest and Christian worship in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ireland/good-friday",
+        "urlid": "ireland/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter",
+        "description": "Easter Sunday is an occasion for Christians to celebrate Jesus' resurrection, which occurred after his crucifixion according to Christian belief.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ireland/easter",
+        "urlid": "ireland/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday. It is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/easter-monday",
+        "urlid": "ireland/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "The first Monday of May is a public holiday in Ireland. It does not have an official name but is often referred to as May Day or Labour Day.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/may-day",
+        "urlid": "ireland/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Bank Holiday",
+        "description": "The June Holiday is a public holiday in the Republic of Ireland on the first Monday of June.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/june-bank-holiday",
+        "urlid": "ireland/june-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father’s Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ie/fathers-day",
+        "urlid": "ie/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Ireland (Dublin)",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-06-20T21:50:59+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 21,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "IST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "August Bank Holiday",
+        "description": "The first Monday of August is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/august-bank-holiday",
+        "urlid": "ireland/august-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Ireland (Dublin)",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-09-22T13:43:33+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 13,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "IST",
+            "zoneoffset": 0,
+            "zonedst": 3600,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "October Bank Holiday",
+        "description": "The last Monday of October is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-10-28",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/october-bank-holiday",
+        "urlid": "ireland/october-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Ireland (Dublin)",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-12-21T09:20:34+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 9,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day in the Republic of Ireland. It also marks the start of the Christmas festive period.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ireland/christmas-eve",
+        "urlid": "ireland/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is an occasion for Christians to celebrate the Jesus Christ's birth. It is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/christmas-day",
+        "urlid": "ireland/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Stephen's Day",
+        "description": "St Stephen's Day commemorates the life of St Stephen, an early Christian martyr. It is a public holiday in the Republic of Ireland.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/ireland/st-stephen-day",
+        "urlid": "ireland/st-stephen-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year's Eve is the last day of the year in the Gregorian calendar. It serves as an occasion for parties and celebrations.",
+        "country": {
+          "id": "ie",
+          "name": "Ireland"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/ireland/new-year-eve",
+        "urlid": "ireland/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

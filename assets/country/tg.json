@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/new-year",
+        "urlid": "togo/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a observance in Togo",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-01-13",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 13
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/togo/liberation-day",
+        "urlid": "togo/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Togo (Lomé)",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-03-20T03:06:28+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 3,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/easter-monday",
+        "urlid": "togo/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/eid-al-fitr",
+        "urlid": "togo/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Togo",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-04-27",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/independence-day",
+        "urlid": "togo/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/may-day",
+        "urlid": "togo/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/ascension-day",
+        "urlid": "togo/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/pentecost-monday",
+        "urlid": "togo/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tabaski",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/eid-al-adha",
+        "urlid": "togo/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Togo (Lomé)",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-06-20T20:50:59+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 20,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Martyrs",
+        "description": "Day of the Martyrs is a public holiday in Togo",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/day-of-the-martyrs",
+        "urlid": "togo/day-of-the-martyrs",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/assumption-of-mary",
+        "urlid": "togo/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/togo/prophet-birthday",
+        "urlid": "togo/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Togo (Lomé)",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-09-22T12:43:33+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 12,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the Failed Attack on Lomé",
+        "description": "Anniversary of the Failed Attack on Lomé is a observance in Togo",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-09-24",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/togo/anniversary-failed-attack-on-lome",
+        "urlid": "togo/anniversary-failed-attack-on-lome",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/all-saints-day",
+        "urlid": "togo/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Togo (Lomé)",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-12-21T09:20:34+00:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 9,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+00:00",
+            "zoneabb": "GMT",
+            "zoneoffset": 0,
+            "zonedst": 0,
+            "zonetotaloffset": 0
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "tg",
+          "name": "Togo"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/togo/christmas-day",
+        "urlid": "togo/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

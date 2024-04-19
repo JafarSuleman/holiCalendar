@@ -1,0 +1,561 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/new-year-day",
+        "urlid": "malta/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saint Paul's Shipwreck",
+        "description": "Feast of Saint Paul's Shipwreck is a public holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/feast-saint-paul-shipwreck",
+        "urlid": "malta/feast-saint-paul-shipwreck",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saint Joseph",
+        "description": "Feast of Saint Joseph is a public holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/feast-saint-joseph",
+        "urlid": "malta/feast-saint-joseph",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/good-friday",
+        "urlid": "malta/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Freedom Day",
+        "description": "Freedom Day is a national holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/freedom-day",
+        "urlid": "malta/freedom-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/easter-sunday",
+        "urlid": "malta/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/easter-monday",
+        "urlid": "malta/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bank Holiday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/easter-monday-bank-holiday",
+        "urlid": "malta/easter-monday-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day/May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/labour-day",
+        "urlid": "malta/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/mothers-day",
+        "urlid": "malta/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sette Giugno",
+        "description": "Sette Giugno is a national holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-06-07",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/sette-giugno",
+        "urlid": "malta/sette-giugno",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/fathers-day",
+        "urlid": "malta/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saints Peter and Paul",
+        "description": "Feast of Saints Peter and Paul is a public holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/feast-saints-peter-and-paul",
+        "urlid": "malta/feast-saints-peter-and-paul",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Feast of Mary's Assumption",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/mary-assumption-feast",
+        "urlid": "malta/mary-assumption-feast",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Feast of Our Lady of Victories",
+        "description": "The Feast of Our Lady of Victories is a national holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/our-lady-of-victories-feast",
+        "urlid": "malta/our-lady-of-victories-feast",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-09-21",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/independence-day",
+        "urlid": "malta/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/immaculate-conception",
+        "urlid": "malta/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a national holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-13",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/republic-day",
+        "urlid": "malta/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/christmas-eve",
+        "urlid": "malta/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/christmas-day",
+        "urlid": "malta/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a observance in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/boxing-day",
+        "urlid": "malta/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bank Holiday",
+        "description": "Bank Holiday is a bank holiday in Malta",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/malta/boxing-day-bank-holiday",
+        "urlid": "malta/boxing-day-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "mt",
+          "name": "Malta"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/malta/new-year-eve",
+        "urlid": "malta/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

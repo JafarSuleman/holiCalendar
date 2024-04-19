@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/new-year-day",
+        "urlid": "estonia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/epiphany",
+        "urlid": "estonia/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of Tartu Peace Treaty",
+        "description": "Anniversary of Tartu Peace Treaty is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-02-02",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/tartu-peace-treaty-anniversary",
+        "urlid": "estonia/tartu-peace-treaty-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-02-24",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/independence-day",
+        "urlid": "estonia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother Tongue Day",
+        "description": "Mother Tongue Day is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-03-14",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/mother-tongue-day",
+        "urlid": "estonia/mother-tongue-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Estonia (Tallinn)",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/good-friday",
+        "urlid": "estonia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/easter-sunday",
+        "urlid": "estonia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/labor-day",
+        "urlid": "estonia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/mothers-day",
+        "urlid": "estonia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pentecost",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/pentecost-sunday",
+        "urlid": "estonia/pentecost-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-06-04",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/flag-day",
+        "urlid": "estonia/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Mourning",
+        "description": "Day of Mourning is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-06-14",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/day-of-mourning",
+        "urlid": "estonia/day-of-mourning",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Estonia (Tallinn)",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a national holiday in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-06-23",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/victory-day",
+        "urlid": "estonia/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Midsummer Day",
+        "description": "Midsummer Day is a national holiday in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/midsummer-day",
+        "urlid": "estonia/midsummer-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Restoration Day",
+        "description": "Independence Restoration Day is a national holiday in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-08-20",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/independence-restoration-day",
+        "urlid": "estonia/independence-restoration-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Remembrance for Victims of Communism and Nazism",
+        "description": "Day of Remembrance for Victims of Communism and Nazism is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-08-23",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/remembrance-day",
+        "urlid": "estonia/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Grandparents' Day",
+        "description": "Grandparents' Day is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/grandparents-day",
+        "urlid": "estonia/grandparents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Resistance Day",
+        "description": "Resistance Day is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-09-22",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/resistance-day",
+        "urlid": "estonia/resistance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Estonia (Tallinn)",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 7200,
+            "zonedst": 3600,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Finno-Ugric Day",
+        "description": "Finno-Ugric Day is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-10-19",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/finno-ugric-day",
+        "urlid": "estonia/finno-ugric-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Soul's Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/all-souls-day",
+        "urlid": "estonia/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-11-10",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/fathers-day",
+        "urlid": "estonia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Declaration of Sovereignty",
+        "description": "Day of Declaration of Sovereignty is a observance in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-11-16",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/estonia/day-of-declaration-of-sovereignty",
+        "urlid": "estonia/day-of-declaration-of-sovereignty",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Estonia (Tallinn)",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "EET",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/christmas-eve",
+        "urlid": "estonia/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/christmas-day",
+        "urlid": "estonia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a national holiday in Estonia",
+        "country": {
+          "id": "ee",
+          "name": "Estonia"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/estonia/boxing-day",
+        "urlid": "estonia/boxing-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

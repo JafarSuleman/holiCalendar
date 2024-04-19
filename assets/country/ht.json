@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day/Independence Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/new-year-day",
+        "urlid": "haiti/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Heroes’ Day/Ancestors’ Day",
+        "description": "Heroes’ Day/Ancestors’ Day is a national/legal holiday in Haiti",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/heroes-day",
+        "urlid": "haiti/heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival/Shrove Tuesday",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/shrove-tuesday",
+        "urlid": "haiti/shrove-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/carnival-wednesday",
+        "urlid": "haiti/carnival-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/haiti/valentine-day",
+        "urlid": "haiti/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Haiti (Port-au-Prince)",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "EDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/good-friday",
+        "urlid": "haiti/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/haiti/easter-day",
+        "urlid": "haiti/easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Agriculture and Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/labor-day",
+        "urlid": "haiti/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day/University Day",
+        "description": "Flag Day/University Day is a national/legal holiday in Haiti",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-05-18",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/flag-and-university-day",
+        "urlid": "haiti/flag-and-university-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/mother-day",
+        "urlid": "haiti/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/corpus-christi",
+        "urlid": "haiti/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Haiti (Port-au-Prince)",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "EDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-06-30",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/haiti/father-day",
+        "urlid": "haiti/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/assumption",
+        "urlid": "haiti/assumption",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Haiti (Port-au-Prince)",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "EDT",
+            "zoneoffset": -18000,
+            "zonedst": 3600,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dessalines Day",
+        "description": "Dessalines Day is a national/legal holiday in Haiti",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-10-17",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/dessalines-day",
+        "urlid": "haiti/dessalines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/all-saints-day",
+        "urlid": "haiti/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/all-souls-day",
+        "urlid": "haiti/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Vertières Day",
+        "description": "Vertières Day is a national/legal holiday in Haiti",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-11-18",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/vertieres-day",
+        "urlid": "haiti/vertieres-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Haiti (Port-au-Prince)",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-12-21T04:20:34-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 4,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "EST",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/haiti/christmas-eve",
+        "urlid": "haiti/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National/Legal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/haiti/christmas-day",
+        "urlid": "haiti/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ht",
+          "name": "Haiti"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/haiti/new-year-eve",
+        "urlid": "haiti/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

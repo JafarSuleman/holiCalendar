@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/new-year-day",
+        "urlid": "slovenia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year holiday",
+        "description": "New Year holiday is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/new-year-day-2",
+        "urlid": "slovenia/new-year-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Prešeren Day",
+        "description": "Prešeren Day is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-02-08",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/preseren-day",
+        "urlid": "slovenia/preseren-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Slovenia (Ljubljana)",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/mothers-day",
+        "urlid": "slovenia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/easter-sunday",
+        "urlid": "slovenia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/easter-monday",
+        "urlid": "slovenia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Uprising Against Occupation",
+        "description": "Day of Uprising Against Occupation is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-04-27",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/occupation-uprising",
+        "urlid": "slovenia/occupation-uprising",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/labor-day",
+        "urlid": "slovenia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day holiday",
+        "description": "Labour Day holiday is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-05-02",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/labor-day-may-2",
+        "urlid": "slovenia/labor-day-may-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/pentecost-sunday",
+        "urlid": "slovenia/pentecost-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Primož Trubar Day",
+        "description": "Primož Trubar Day is a observance in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-06-08",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/primoz-trubar-day",
+        "urlid": "slovenia/primoz-trubar-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/fathers-day",
+        "urlid": "slovenia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Slovenia (Ljubljana)",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Statehood Day",
+        "description": "Statehood Day is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-06-25",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/statehood-day",
+        "urlid": "slovenia/statehood-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/assumption",
+        "urlid": "slovenia/assumption",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Slovenians in Prekmurje Incorporated into the Mother Nation Day",
+        "description": "Slovenians in Prekmurje Incorporated into the Mother Nation Day is a observance in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-08-17",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/mother-nation-day",
+        "urlid": "slovenia/mother-nation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Restoration of Primorska to the Motherland Day",
+        "description": "Restoration of Primorska to the Motherland Day is a observance in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/motherland-day",
+        "urlid": "slovenia/motherland-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Slovenia (Ljubljana)",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Slovenian Sports Day",
+        "description": "Slovenian Sports Day is a observance in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-09-23",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/slovenian-sports-day",
+        "urlid": "slovenia/slovenian-sports-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sovereignty Day",
+        "description": "Sovereignty Day is a observance in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-10-25",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/souvereignty-day",
+        "urlid": "slovenia/souvereignty-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Reformation Day",
+        "description": "Reformation Day is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/reformation-day",
+        "urlid": "slovenia/reformation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/all-saints-day",
+        "urlid": "slovenia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Rudolf Maister Day",
+        "description": "Rudolf Maister Day is a observance in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-11-23",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/rudolf-maister-day",
+        "urlid": "slovenia/rudolf-maister-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Slovenia (Ljubljana)",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/christmas-day",
+        "urlid": "slovenia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence and Unity Day",
+        "description": "Independence and Unity Day is a national holiday in Slovenia",
+        "country": {
+          "id": "si",
+          "name": "Slovenia"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/slovenia/independence-and-unity-day",
+        "urlid": "slovenia/independence-and-unity-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

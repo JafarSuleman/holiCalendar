@@ -1,0 +1,651 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/new-year-day",
+        "urlid": "tanzania/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Zanzibar Revolution Day",
+        "description": "Zanzibar Revolution Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-01-12",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/zanzibar-revolution-day",
+        "urlid": "tanzania/zanzibar-revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/ramadan-begins",
+        "urlid": "tanzania/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Tanzania (Dar es Salaam)",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/good-friday",
+        "urlid": "tanzania/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/easter-sunday",
+        "urlid": "tanzania/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/easter-monday",
+        "urlid": "tanzania/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Karume Day",
+        "description": "Karume Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/karume-day",
+        "urlid": "tanzania/karume-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid el Fitri",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/eid-el-fitri",
+        "urlid": "tanzania/eid-el-fitri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid el Fitri Holiday",
+        "description": "Eid el Fitri Holiday is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/eid-el-fitri-holiday",
+        "urlid": "tanzania/eid-el-fitri-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Union Day",
+        "description": "Union Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-04-26",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/union-day",
+        "urlid": "tanzania/union-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Worker's Day",
+        "description": "Worker's Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/workers-day",
+        "urlid": "tanzania/workers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/mothers-day",
+        "urlid": "tanzania/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/eid-el-hajj",
+        "urlid": "tanzania/eid-el-hajj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Tanzania (Dar es Salaam)",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saba Saba",
+        "description": "Saba Saba is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/international-trade-fair",
+        "urlid": "tanzania/international-trade-fair",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Farmers' Day",
+        "description": "Farmers' Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-08-08",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/peasant-day",
+        "urlid": "tanzania/peasant-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maulid",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/maulid-day",
+        "urlid": "tanzania/maulid-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Tanzania (Dar es Salaam)",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mwalimu Nyerere Day",
+        "description": "Mwalimu Nyerere Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/mwalimu-nyerere-day",
+        "urlid": "tanzania/mwalimu-nyerere-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/independence-day",
+        "urlid": "tanzania/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Tanzania (Dar es Salaam)",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EAT",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/christmas-eve",
+        "urlid": "tanzania/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/christmas-day",
+        "urlid": "tanzania/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Tanzania",
+        "country": {
+          "id": "tz",
+          "name": "Tanzania"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tanzania/boxing-day",
+        "urlid": "tanzania/boxing-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/new-year",
+        "urlid": "north-korea/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Seollal",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/lunar-new-years-day",
+        "urlid": "north-korea/lunar-new-years-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth date of Kim Jong Il",
+        "description": "Birth date of Kim Jong Il is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-02-16",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/birth-date-kim-jong-il",
+        "urlid": "north-korea/birth-date-kim-jong-il",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/international-womens-day",
+        "urlid": "north-korea/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in North Korea (Pyongyang)",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-03-20T12:06:28+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 12,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth Date of Kim Il Sung",
+        "description": "Birth Date of Kim Il Sung is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-04-15",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/birth-date-kim-il-sung",
+        "urlid": "north-korea/birth-date-kim-il-sung",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chosun People's Army Foundation Day",
+        "description": "Chosun People's Army Foundation Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-04-25",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/chosun-peoples-army-foundation-day",
+        "urlid": "north-korea/chosun-peoples-army-foundation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/may-day",
+        "urlid": "north-korea/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chosun Children's Union Foundation Day",
+        "description": "Chosun Children's Union Foundation Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-06-06",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/chosun-childrens-union-foundation-day",
+        "urlid": "north-korea/chosun-childrens-union-foundation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in North Korea (Pyongyang)",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-06-21T05:50:59+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 5,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Victory in the Fatherland Liberation War",
+        "description": "Day of Victory in the Fatherland Liberation War is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-07-27",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/day-of-victory",
+        "urlid": "north-korea/day-of-victory",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/liberation-day",
+        "urlid": "north-korea/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Songun",
+        "description": "Day of Songun is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-08-25",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/day-of-songun",
+        "urlid": "north-korea/day-of-songun",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/national-day",
+        "urlid": "north-korea/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chuseok Harvest Festival",
+        "description": "Chuseok Harvest Festival is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/chuseok-harvest-festival",
+        "urlid": "north-korea/chuseok-harvest-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in North Korea (Pyongyang)",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-09-22T21:43:33+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 21,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Party Foundation Day",
+        "description": "Party Foundation Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-10-10",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/party-foundation-day",
+        "urlid": "north-korea/party-foundation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother's Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-11-16",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/mothers-day",
+        "urlid": "north-korea/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in North Korea (Pyongyang)",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-12-21T18:20:34+09:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 18,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+09:00",
+            "zoneabb": "KST",
+            "zoneoffset": 32400,
+            "zonedst": 0,
+            "zonetotaloffset": 32400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in North Korea",
+        "country": {
+          "id": "kp",
+          "name": "North Korea"
+        },
+        "date": {
+          "iso": "2024-12-27",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/north-korea/constitution-day",
+        "urlid": "north-korea/constitution-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

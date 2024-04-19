@@ -1,0 +1,1057 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/new-year-day",
+        "urlid": "austria/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/epiphany",
+        "urlid": "austria/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Joseph's Day",
+        "description": "Saint Joseph's Day is a state holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "State holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/saint-joseph-day",
+        "urlid": "austria/saint-joseph-day",
+        "locations": "Carinthia, Styria, Tyrol, Vorarlberg",
+        "states": [
+          {
+            "id": 452,
+            "abbrev": null,
+            "name": "Carinthia",
+            "exception": null,
+            "iso": "at-2"
+          },
+          {
+            "id": 456,
+            "abbrev": null,
+            "name": "Styria",
+            "exception": null,
+            "iso": "at-6"
+          },
+          {
+            "id": 457,
+            "abbrev": null,
+            "name": "Tyrol",
+            "exception": null,
+            "iso": "at-7"
+          },
+          {
+            "id": 458,
+            "abbrev": null,
+            "name": "Vorarlberg",
+            "exception": null,
+            "iso": "at-8"
+          }
+        ]
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Austria (Vienna)",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/palm-sunday",
+        "urlid": "austria/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/good-friday",
+        "urlid": "austria/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/easter-sunday",
+        "urlid": "austria/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time starts",
+        "description": "Daylight Saving Time starts in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-03-31T02:00:00+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31,
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/easter-monday",
+        "urlid": "austria/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/labor-day",
+        "urlid": "austria/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Florian's Day",
+        "description": "Saint Florian's Day is a state holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "State holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/saint-florian-day",
+        "urlid": "austria/saint-florian-day",
+        "locations": "Upper Austria",
+        "states": [
+          {
+            "id": 454,
+            "abbrev": null,
+            "name": "Upper Austria",
+            "exception": null,
+            "iso": "at-4"
+          }
+        ]
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/ascension",
+        "urlid": "austria/ascension",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/mothers-day",
+        "urlid": "austria/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Many Christians all over the world annually observe Pentecost, also known as Whitsunday or Whit Sunday.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/pentecost-sunday",
+        "urlid": "austria/pentecost-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/pentecost-monday",
+        "urlid": "austria/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/corpus-christi",
+        "urlid": "austria/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-06-09",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/fathers-day",
+        "urlid": "austria/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Austria (Vienna)",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/assumption-of-mary",
+        "urlid": "austria/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "European Heritage Days",
+        "description": "European Heritage Days is a observance in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-09-22",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/european-heritage-days",
+        "urlid": "austria/european-heritage-days",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Austria (Vienna)",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Rupert's Day",
+        "description": "Saint Rupert's Day is a state holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-09-24",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 24
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "State holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/saint-rupert-day",
+        "urlid": "austria/saint-rupert-day",
+        "locations": "Salzburg",
+        "states": [
+          {
+            "id": 455,
+            "abbrev": null,
+            "name": "Salzburg",
+            "exception": null,
+            "iso": "at-5"
+          }
+        ]
+      },
+      {
+        "name": "Plebiscite Day",
+        "description": "Plebiscite Day is a state holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-10-10",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "State holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/plebiscite-day",
+        "urlid": "austria/plebiscite-day",
+        "locations": "Carinthia",
+        "states": [
+          {
+            "id": 452,
+            "abbrev": null,
+            "name": "Carinthia",
+            "exception": null,
+            "iso": "at-2"
+          }
+        ]
+      },
+      {
+        "name": "Yom Kippur",
+        "description": "Yom Kippur (Day of Atonement) is an important Jewish holiday that centers on the themes of atonement and repentance.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/yom-kippur",
+        "urlid": "austria/yom-kippur",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day on October 26 is a public holiday in Austria.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-10-26",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/national-day",
+        "urlid": "austria/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Daylight Saving Time ends",
+        "description": "Daylight Saving Time ends in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-10-27T03:00:00+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 27,
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Clock change/Daylight Saving Time"
+        ],
+        "primary_type": "Clock change/Daylight Saving Time",
+        "canonical_url": "https://calendarific.com/holiday/",
+        "urlid": null,
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Reformation Day",
+        "description": "Reformation Day is a observance in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/reformation-day",
+        "urlid": "austria/reformation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/all-saints",
+        "urlid": "austria/all-saints",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/all-souls",
+        "urlid": "austria/all-souls",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Martin's Day",
+        "description": "Saint Martin's Day is a state holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "State holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/martin-day",
+        "urlid": "austria/martin-day",
+        "locations": "Burgenland",
+        "states": [
+          {
+            "id": 451,
+            "abbrev": null,
+            "name": "Burgenland",
+            "exception": null,
+            "iso": "at-1"
+          }
+        ]
+      },
+      {
+        "name": "Saint Leopold's Day",
+        "description": "Saint Leopold's Day is a state holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "State holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/leopold-day",
+        "urlid": "austria/leopold-day",
+        "locations": "Lower Austria, Vienna",
+        "states": [
+          {
+            "id": 453,
+            "abbrev": null,
+            "name": "Lower Austria",
+            "exception": null,
+            "iso": "at-3"
+          },
+          {
+            "id": 459,
+            "abbrev": null,
+            "name": "Vienna",
+            "exception": null,
+            "iso": "at-9"
+          }
+        ]
+      },
+      {
+        "name": "First Advent Sunday",
+        "description": "The first Sunday of Advent marks the beginning of the Christian year.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-01",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/advent",
+        "urlid": "austria/advent",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/immaculate-conception",
+        "urlid": "austria/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Austria (Vienna)",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Half-day holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/christmas-eve",
+        "urlid": "austria/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/christmas-day",
+        "urlid": "austria/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Stephen's Day",
+        "description": "St. Stephen's Day is a national holiday in Austria",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/austria/st-stephen-day",
+        "urlid": "austria/st-stephen-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "at",
+          "name": "Austria"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/austria/new-year-eve",
+        "urlid": "austria/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/new-year",
+        "urlid": "tuvalu/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Commonwealth Day",
+        "description": "Commonwealth Day is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/commonwealth-day",
+        "urlid": "tuvalu/commonwealth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Tuvalu (Funafuti)",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-03-20T15:06:28+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 15,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "TVT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/good-friday",
+        "urlid": "tuvalu/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/holy-saturday",
+        "urlid": "tuvalu/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/easter",
+        "urlid": "tuvalu/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/easter-monday",
+        "urlid": "tuvalu/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Gospel Day",
+        "description": "Gospel Day is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-05-13",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/gospel-day",
+        "urlid": "tuvalu/gospel-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the Birthday of the Sovereign",
+        "description": "The Queen's birthday, also known as the Queen's Official Birthday, is celebrated in many Commonwealth countries around the world. It is a public holiday in countries such as Australia, New Zealand, and Gibraltar, although on different dates.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-06-08",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/queens-birthday",
+        "urlid": "tuvalu/queens-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Tuvalu (Funafuti)",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-06-21T08:50:59+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 8,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "TVT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Children's Day",
+        "description": "National Children's Day is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/national-childrens-day",
+        "urlid": "tuvalu/national-childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Tuvalu (Funafuti)",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-09-23T00:43:33+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 0,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "TVT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tuvalu Day",
+        "description": "Tuvalu Day is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/tuvalu-day-1",
+        "urlid": "tuvalu/tuvalu-day-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tuvalu Day Holiday",
+        "description": "Tuvalu Day Holiday is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-10-02",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/tuvalu-day-2",
+        "urlid": "tuvalu/tuvalu-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Heir to the Throne's Birthday",
+        "description": "Heir to the Throne's Birthday is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/heir-to-the-thrones-birthday",
+        "urlid": "tuvalu/heir-to-the-thrones-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Tuvalu (Funafuti)",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-12-21T21:20:34+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 21,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "TVT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/christmas-day",
+        "urlid": "tuvalu/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Tuvalu",
+        "country": {
+          "id": "tv",
+          "name": "Tuvalu"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tuvalu/second-day-of-christmas",
+        "urlid": "tuvalu/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

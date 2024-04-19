@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day, on January 1, is the first day of the year and a public holiday in Poland.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/new-year-day",
+        "urlid": "poland/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany, also known as the Procession of the Three Kings, is annually celebrated as a public holiday in Poland on January 6.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/epiphany",
+        "urlid": "poland/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "Valentine’s Day (Walentynki) is one of the most romantic days of the year celebrated in many countries including Poland on February 14.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/valentine-day",
+        "urlid": "poland/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Poland (Warsaw)",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is observed in many churches in Poland to remember Jesus Christ’s death on the cross.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/good-friday",
+        "urlid": "poland/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday, which is the day before Easter Sunday, is observed in many parts of Poland.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/holy-saturday",
+        "urlid": "poland/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday is a public holiday in Poland to celebrate Jesus Christ’s resurrection.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/easter-sunday",
+        "urlid": "poland/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday, the day after Easter Sunday, is a public holiday in Poland. Both days celebrate Jesus Christ’s resurrection from the dead.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/easter-monday",
+        "urlid": "poland/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day (Święto Pracy), also known as May 1 (1 Maja), is a national public holiday in Poland every year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/labor-day",
+        "urlid": "poland/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Flag",
+        "description": "Day of the Flag is a observance in Poland",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-05-02",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/flag-day",
+        "urlid": "poland/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is an annual public holiday in Poland on May 3.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-05-03",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/constitution-day",
+        "urlid": "poland/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Whit Sunday, also known as Pentecost or the Descent of the Holy Spirit (Zeslanie Ducha Swietego) is an annual public holiday in Poland 7 weeks after Easter Sunday.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/pentecost-sunday",
+        "urlid": "poland/pentecost-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day is celebrated in Poland on May 26 each year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/mother-day",
+        "urlid": "poland/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is an annual public holiday in Poland on the Thursday of the ninth week after Easter.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/corpus-christi",
+        "urlid": "poland/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Poland",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/childrens-day",
+        "urlid": "poland/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Poland (Warsaw)",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day (Dzień Ojca) is celebrated in Poland on June 23 every year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-06-23",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/father-day",
+        "urlid": "poland/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Day of Assumption, also known as the Miracle upon the Vistula, is a national holiday in Poland on August 15 each year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/assumption-of-mary",
+        "urlid": "poland/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Poland (Warsaw)",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "All Saints’ Day is a public holiday in Poland on November 1 each year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/all-saints-day",
+        "urlid": "poland/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "National Independence Day is an annual public holiday in Poland on November 11 to commemorate the country’s independence in 1918.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/independence-day",
+        "urlid": "poland/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Poland (Warsaw)",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is celebrated as a festive occasion in Poland on December 24.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/christmas-eve",
+        "urlid": "poland/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is a public holiday in Poland on December 25 each year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/1st-day-of-christmas",
+        "urlid": "poland/1st-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Day of Christmas",
+        "description": "Boxing Day, also known as St Stephen’s Day or Holy Szczepan, is a public holiday in Poland on December 26 each year.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/poland/2nd-day-of-christmas",
+        "urlid": "poland/2nd-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of the Victorious Greater Poland Uprising",
+        "description": "National Day of the Victorious Greater Poland Uprising is a observance in Poland",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-12-27",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/national-day-of-the-victorious-greater-poland-uprising",
+        "urlid": "poland/national-day-of-the-victorious-greater-poland-uprising",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "Many people in Poland celebrate New Year’s Eve, which is the last day of the year in the Gregorian calendar, on December 31.",
+        "country": {
+          "id": "pl",
+          "name": "Poland"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/poland/new-year-eve",
+        "urlid": "poland/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/new-year-day",
+        "urlid": "iraq/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Army Day",
+        "description": "Army Day is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/army-day",
+        "urlid": "iraq/army-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Rebellion Anniversary",
+        "description": "Rebellion Anniversary is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-05",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 5
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/rebellion-anniversary",
+        "urlid": "iraq/rebellion-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of Tolerance and Coexistence",
+        "description": "National Day of Tolerance and Coexistence is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-06",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/day-of-tolerance-and-coexistence",
+        "urlid": "iraq/day-of-tolerance-and-coexistence",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of Signing of the March 11, 1970 Agreement",
+        "description": "Anniversary of Signing of the March 11, 1970 Agreement is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/march-agreement-anniversary",
+        "urlid": "iraq/march-agreement-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/iraq/ramadan-begins",
+        "urlid": "iraq/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth Anniversary of the Immortal Barzani",
+        "description": "Birth Anniversary of the Immortal Barzani is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-14",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 14
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/barzani-birth-anniversary",
+        "urlid": "iraq/barzani-birth-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Iraq (Baghdad)",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz",
+        "description": "Nowruz is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/nowruz",
+        "urlid": "iraq/nowruz",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz Holiday",
+        "description": "Nowruz Holiday is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-22",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 22
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/nowruz-holiday",
+        "urlid": "iraq/nowruz-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz Holiday",
+        "description": "Nowruz Holiday is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-03-23",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 23
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/nowruz-holiday-2",
+        "urlid": "iraq/nowruz-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Yazidi New Year",
+        "description": "Yazidi New Year is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-04-03",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 3
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/yazidi-new-year",
+        "urlid": "iraq/yazidi-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Baghdad Liberation Day",
+        "description": "Baghdad Liberation Day is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/baghdad-liberation-day",
+        "urlid": "iraq/baghdad-liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fall of the Defunct Dictatorial Regime and the Liberation of Iraq Day",
+        "description": "Fall of the Defunct Dictatorial Regime and the Liberation of Iraq Day is a regional holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Regional holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/liberation-day",
+        "urlid": "iraq/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-fitr",
+        "urlid": "iraq/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr holiday",
+        "description": "Eid al-Fitr holiday is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-fitr-1",
+        "urlid": "iraq/eid-al-fitr-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr holiday",
+        "description": "Eid al-Fitr holiday is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-fitr-2",
+        "urlid": "iraq/eid-al-fitr-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/labor-day",
+        "urlid": "iraq/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-adha",
+        "urlid": "iraq/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha holiday",
+        "description": "Eid al-Adha holiday is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-adha-holiday",
+        "urlid": "iraq/eid-al-adha-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha holiday",
+        "description": "Eid al-Adha holiday is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-adha-holiday-1",
+        "urlid": "iraq/eid-al-adha-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha holiday",
+        "description": "Eid al-Adha holiday is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/eid-al-adha-holiday-2",
+        "urlid": "iraq/eid-al-adha-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Iraq (Baghdad)",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Islamic New Year",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/islamic-new-year",
+        "urlid": "iraq/islamic-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-07-14",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/republic-day",
+        "urlid": "iraq/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashura",
+        "description": "Ashura is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-07-16",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/ashura",
+        "urlid": "iraq/ashura",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/prophet-birthday",
+        "urlid": "iraq/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Iraq (Baghdad)",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Iraqi Independence Day",
+        "description": "Iraqi Independence Day is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/independence-day",
+        "urlid": "iraq/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of Victory over ISIS",
+        "description": "Anniversary of Victory over ISIS is a national holiday in Iraq",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-12-10",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/victory-over-isis-day",
+        "urlid": "iraq/victory-over-isis-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Iraq (Baghdad)",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/iraq/christmas-day",
+        "urlid": "iraq/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "iq",
+          "name": "Iraq"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/iraq/new-year-eve",
+        "urlid": "iraq/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

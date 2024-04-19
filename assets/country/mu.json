@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/new-year",
+        "urlid": "mauritius/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year (Day 2)",
+        "description": "New Year (Day 2) is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/new-year-2",
+        "urlid": "mauritius/new-year-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thaipoosam Cavadee",
+        "description": "Thaipoosam Cavadee is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-01-25",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/thaipoosam-cavadee",
+        "urlid": "mauritius/thaipoosam-cavadee",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Abolition of Slavery",
+        "description": "Abolition of Slavery is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-02-01",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/abolition-of-slavery",
+        "urlid": "mauritius/abolition-of-slavery",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chinese Spring Festival",
+        "description": "Chinese Spring Festival is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/chinese-spring-festival",
+        "urlid": "mauritius/chinese-spring-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maha Shivaratree",
+        "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/maha-shivaratree",
+        "urlid": "mauritius/maha-shivaratree",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/ramadan-begins",
+        "urlid": "mauritius/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-03-12",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/national-day",
+        "urlid": "mauritius/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Mauritius (Port Louis)",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-03-20T07:06:28+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 7,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "MUT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holi",
+        "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/hindu-holi",
+        "urlid": "mauritius/hindu-holi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ougadi",
+        "description": "Ougadi is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/ougadi",
+        "urlid": "mauritius/ougadi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/eid-al-fitr",
+        "urlid": "mauritius/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/may-day",
+        "urlid": "mauritius/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/mothers-day",
+        "urlid": "mauritius/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/fathers-day",
+        "urlid": "mauritius/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Mauritius (Port Louis)",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-06-21T00:50:59+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 0,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "MUT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/assumption-of-mary",
+        "urlid": "mauritius/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Raksha Bandhan",
+        "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/hindu-raksha-bandhan",
+        "urlid": "mauritius/hindu-raksha-bandhan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Janmashtami",
+        "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/hindu-janmashtami",
+        "urlid": "mauritius/hindu-janmashtami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "description": "Ganesh Chaturthi is the great Ganesha festival that celebrates the birthday of Lord Ganesha during the Hindu Month of Bhadra, which usually falls between mid-August and mid-September. It is also known as Vinayaka Chaturthi and can last up to 10 days.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-09-08",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/ganesh-chaturthi",
+        "urlid": "mauritius/ganesh-chaturthi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Mauritius (Port Louis)",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-09-22T16:43:33+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 16,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "MUT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dussehra",
+        "description": "Dussehra is a Hindu holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-10-13",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 13
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/hindu-dussera",
+        "urlid": "mauritius/hindu-dussera",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Divali",
+        "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/divali",
+        "urlid": "mauritius/divali",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Arrival of Indentured Labourers",
+        "description": "Arrival of Indentured Labourers is a public holiday in Mauritius",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/arrival-of-indentured-labourers",
+        "urlid": "mauritius/arrival-of-indentured-labourers",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Mauritius (Port Louis)",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-12-21T13:20:34+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 13,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "MUT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mu",
+          "name": "Mauritius"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mauritius/christmas-day",
+        "urlid": "mauritius/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Isra and Mi'raj",
+        "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-02-07",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/yemen/isra-miraj",
+        "urlid": "yemen/isra-miraj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/yemen/ramadan-begins",
+        "urlid": "yemen/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Yemen (Sana)",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr holiday",
+        "description": "Eid al-Fitr holiday is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-04-08",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-fitr-third-day",
+        "urlid": "yemen/eid-al-fitr-third-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr Eve",
+        "description": "Eid al-Fitr Eve is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-fitr-eve",
+        "urlid": "yemen/eid-al-fitr-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-fitr-first-day",
+        "urlid": "yemen/eid-al-fitr-first-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr holiday",
+        "description": "Eid al-Fitr holiday is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-fitr-second-day",
+        "urlid": "yemen/eid-al-fitr-second-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/may-day",
+        "urlid": "yemen/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unity Day",
+        "description": "Unity Day is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-05-22",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/unity-day",
+        "urlid": "yemen/unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Eve",
+        "description": "Eid al-Adha Eve is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-adha-eve",
+        "urlid": "yemen/eid-al-adha-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-adha-first-day",
+        "urlid": "yemen/eid-al-adha-first-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha holiday",
+        "description": "Eid al-Adha holiday is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-adha-second-day",
+        "urlid": "yemen/eid-al-adha-second-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha holiday",
+        "description": "Eid al-Adha holiday is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-adha-third-day",
+        "urlid": "yemen/eid-al-adha-third-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha holiday",
+        "description": "Eid al-Adha holiday is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-06-20",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/eid-al-adha-fourth-day",
+        "urlid": "yemen/eid-al-adha-fourth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Yemen (Sana)",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "July 7th Anniversary",
+        "description": "July 7th Anniversary is a observance in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/yemen/seventh-july-anniversary",
+        "urlid": "yemen/seventh-july-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/muharram-new-year",
+        "urlid": "yemen/muharram-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Prophet's Birthday",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/yemen/prophet-birthday",
+        "urlid": "yemen/prophet-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Yemen (Sana)",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Revolution Day",
+        "description": "Revolution Day is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-09-26",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/north-yemen-revolution-day",
+        "urlid": "yemen/north-yemen-revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/revolution-day",
+        "urlid": "yemen/revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Yemen",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-11-30",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/yemen/independence-day",
+        "urlid": "yemen/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Yemen (Sana)",
+        "country": {
+          "id": "ye",
+          "name": "Yemen"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "AST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

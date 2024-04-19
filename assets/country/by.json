@@ -1,0 +1,771 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/new-year-day",
+        "urlid": "belarus/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year Holiday",
+        "description": "New Year Holiday is a national holiday in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/new-year-holiday",
+        "urlid": "belarus/new-year-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday",
+          "Orthodox"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/orthodox-christmas-day",
+        "urlid": "belarus/orthodox-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/valentine-day",
+        "urlid": "belarus/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Defender of the Fatherland Day",
+        "description": "Defender of the Fatherland Day is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-02-23",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/defender-fatherland-day",
+        "urlid": "belarus/defender-fatherland-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Women's Day",
+        "description": "Women's Day is a national holiday in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/women-day",
+        "urlid": "belarus/women-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-03-15",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/constitution-day",
+        "urlid": "belarus/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Belarus (Minsk)",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "MSK",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Catholic Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/catholic-easter-sunday",
+        "urlid": "belarus/catholic-easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Union Day of Belarus and Russia",
+        "description": "Union Day of Belarus and Russia is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-04-02",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/union-day",
+        "urlid": "belarus/union-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Remembrance of the Chernobyl Tragedy",
+        "description": "Day of Remembrance of the Chernobyl Tragedy is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-04-26",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/chernobyl-tragedy-remembrance-day",
+        "urlid": "belarus/chernobyl-tragedy-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/labour-day",
+        "urlid": "belarus/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Sunday",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance",
+          "Orthodox"
+        ],
+        "primary_type": "Orthodox",
+        "canonical_url": "https://calendarific.com/holiday/belarus/orthodox-easter-sunday",
+        "urlid": "belarus/orthodox-easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a national holiday in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/victory-day",
+        "urlid": "belarus/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the National Emblem and Flag of Belarus",
+        "description": "Day of the National Emblem and Flag of Belarus is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/emblem-and-flag-day",
+        "urlid": "belarus/emblem-and-flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Radonitsa",
+        "description": "Radonitsa is a national holiday in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-05-14",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/radonitsa",
+        "urlid": "belarus/radonitsa",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Belarus (Minsk)",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "MSK",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day of Victims of the Great Patriotic War",
+        "description": "Remembrance Day of Victims of the Great Patriotic War is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-06-22",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 22
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/great-patriotic-war-victims-day",
+        "urlid": "belarus/great-patriotic-war-victims-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day of the Republic of Belarus",
+        "description": "Independence Day of the Republic of Belarus is a national holiday in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-07-03",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/independence-day",
+        "urlid": "belarus/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kupalle (Day 1)",
+        "description": "Kupalle (Day 1) is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-07-06",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/kupalle",
+        "urlid": "belarus/kupalle",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kupalle (Day 2)",
+        "description": "Kupalle (Day 2) is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/kupalle-2",
+        "urlid": "belarus/kupalle-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Unity Day",
+        "description": "National Unity Day is a observance in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/national-unity-day",
+        "urlid": "belarus/national-unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Belarus (Minsk)",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "MSK",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/mothers-day",
+        "urlid": "belarus/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-10-21",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/fathers-day",
+        "urlid": "belarus/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/remembrance-day",
+        "urlid": "belarus/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "October Revolution Day",
+        "description": "October Revolution Day is a national holiday in Belarus",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-11-07",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/revolution-day",
+        "urlid": "belarus/revolution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Belarus (Minsk)",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "MSK",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Catholic Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National Holiday",
+        "canonical_url": "https://calendarific.com/holiday/belarus/catholic-christmas-day",
+        "urlid": "belarus/catholic-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "by",
+          "name": "Belarus"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/belarus/new-year-eve",
+        "urlid": "belarus/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

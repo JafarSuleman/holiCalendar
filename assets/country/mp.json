@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/new-year",
+        "urlid": "northern-mariana-islands/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martin Luther King Jr. Day",
+        "description": "Martin Luther King Jr. Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/martin-luther-king-jr-day",
+        "urlid": "northern-mariana-islands/martin-luther-king-jr-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "President's Day",
+        "description": "President's Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-02-19",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/presidents-day",
+        "urlid": "northern-mariana-islands/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Northern Mariana Islands (Saipan)",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-03-20T13:06:28+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 13,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "ChST",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Commonwealth Covenant Day",
+        "description": "Commonwealth Covenant Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/commonwealth-covenant-day",
+        "urlid": "northern-mariana-islands/commonwealth-covenant-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Commonwealth Covenant Day",
+        "description": "Commonwealth Covenant Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/commonwealth-covenant-day",
+        "urlid": "northern-mariana-islands/commonwealth-covenant-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/good-friday",
+        "urlid": "northern-mariana-islands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day",
+        "description": "Memorial Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-05-27",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/memorial-day",
+        "urlid": "northern-mariana-islands/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Juneteenth",
+        "description": "Juneteenth is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/juneteenth",
+        "urlid": "northern-mariana-islands/juneteenth",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Northern Mariana Islands (Saipan)",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-06-21T06:50:59+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 6,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "ChST",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/independence-day",
+        "urlid": "northern-mariana-islands/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/labor-day",
+        "urlid": "northern-mariana-islands/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Northern Mariana Islands (Saipan)",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-09-22T22:43:33+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 22,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "ChST",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Commonwealth Cultural Day",
+        "description": "Commonwealth Cultural Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/commonwealth-cultural-day",
+        "urlid": "northern-mariana-islands/commonwealth-cultural-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Citizenship Day",
+        "description": "Citizenship Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/citizenship-day",
+        "urlid": "northern-mariana-islands/citizenship-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Veterans Day",
+        "description": "Veterans Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/veterans-day",
+        "urlid": "northern-mariana-islands/veterans-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thanksgiving Day",
+        "description": "Thanksgiving Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-11-28",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/thanksgiving-day",
+        "urlid": "northern-mariana-islands/thanksgiving-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/constitution-day",
+        "urlid": "northern-mariana-islands/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Constitution Day",
+        "description": "Constitution Day is a public holiday in Northern Mariana Islands",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/constitution-day",
+        "urlid": "northern-mariana-islands/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Northern Mariana Islands (Saipan)",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-12-21T19:20:34+10:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 19,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "zoneabb": "ChST",
+            "zoneoffset": 36000,
+            "zonedst": 0,
+            "zonetotaloffset": 36000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mp",
+          "name": "Northern Mariana Islands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/northern-mariana-islands/christmas-day",
+        "urlid": "northern-mariana-islands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

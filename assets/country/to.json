@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/new-year",
+        "urlid": "tonga/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Tonga (Nuku'alofa)",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-03-20T16:06:28+13:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 16,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+13:00",
+            "zoneabb": "TOT",
+            "zoneoffset": 46800,
+            "zonedst": 0,
+            "zonetotaloffset": 46800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/good-friday",
+        "urlid": "tonga/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/easter-monday",
+        "urlid": "tonga/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "ANZAC Day",
+        "description": "ANZAC Day is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-04-25",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/anzac-day",
+        "urlid": "tonga/anzac-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Emancipation Day",
+        "description": "Day off for Emancipation Day is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/emancipation-day",
+        "urlid": "tonga/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Emancipation Day",
+        "description": "Emancipation Day is a observance in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-06-04",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/tonga/emancipation-day",
+        "urlid": "tonga/emancipation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Tonga (Nuku'alofa)",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-06-21T09:50:59+13:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 9,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+13:00",
+            "zoneabb": "TOT",
+            "zoneoffset": 46800,
+            "zonedst": 0,
+            "zonetotaloffset": 46800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birthday of His Majesty King Tupou VI",
+        "description": "Birthday of His Majesty King Tupou VI is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/birthday-of-his-majesty",
+        "urlid": "tonga/birthday-of-his-majesty",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birthday of Crown Prince Tupouto'a-'Ulukalala",
+        "description": "Birthday of Crown Prince Tupouto'a-'Ulukalala is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/birthday-of-crown-prince",
+        "urlid": "tonga/birthday-of-crown-prince",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Tonga (Nuku'alofa)",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-09-23T01:43:33+13:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 1,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+13:00",
+            "zoneabb": "TOT",
+            "zoneoffset": 46800,
+            "zonedst": 0,
+            "zonetotaloffset": 46800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/constitution-day",
+        "urlid": "tonga/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Anniversary of the Coronation of King Tupou I",
+        "description": "Anniversary of the Coronation of King Tupou I is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-12-02",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/anniversary-of-the-coronation",
+        "urlid": "tonga/anniversary-of-the-coronation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of the Coronation of King Tupou I",
+        "description": "Anniversary of the Coronation of King Tupou I is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-12-04",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/anniversary-of-the-coronation",
+        "urlid": "tonga/anniversary-of-the-coronation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Tonga (Nuku'alofa)",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-12-21T22:20:34+13:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 22,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+13:00",
+            "zoneabb": "TOT",
+            "zoneoffset": 46800,
+            "zonedst": 0,
+            "zonetotaloffset": 46800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/christmas-day",
+        "urlid": "tonga/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Tonga",
+        "country": {
+          "id": "to",
+          "name": "Tonga"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/tonga/second-day-of-christmas",
+        "urlid": "tonga/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

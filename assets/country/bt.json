@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Winter Solstice (Nyilo)",
+        "description": "Winter Solstice (Nyilo) is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-01-03",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/winter-solstice-nyilo",
+        "urlid": "bhutan/winter-solstice-nyilo",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Traditional Day of Offerings",
+        "description": "Traditional Day of Offerings is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-01-12",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/day-of-offerings",
+        "urlid": "bhutan/day-of-offerings",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Losar (New Year)",
+        "description": "Losar (New Year) is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/losar-new-year-day-one",
+        "urlid": "bhutan/losar-new-year-day-one",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Losar Holiday",
+        "description": "Losar Holiday is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/losar-new-year-day-two",
+        "urlid": "bhutan/losar-new-year-day-two",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Birthday",
+        "description": "King's Birthday is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-02-21",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/kings-birthday",
+        "urlid": "bhutan/kings-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Birthday Holiday",
+        "description": "King's Birthday Holiday is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-02-22",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/kings-birthday-2",
+        "urlid": "bhutan/kings-birthday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Birthday Holiday",
+        "description": "King's Birthday Holiday is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-02-23",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/kings-birthday-3",
+        "urlid": "bhutan/kings-birthday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Bhutan (Thimphu)",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-03-20T09:06:28+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 9,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BTT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Death Anniversary of Zhabdrung (Zhabdrung Kuchoe)",
+        "description": "Death Anniversary of Zhabdrung (Zhabdrung Kuchoe) is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-04-18",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/zhabdrung-kuchoe",
+        "urlid": "bhutan/zhabdrung-kuchoe",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth Anniversary of Third Druk Gyalpo",
+        "description": "Birth Anniversary of Third Druk Gyalpo is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-05-02",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/birth-anniversary-third-druk-gyalpo",
+        "urlid": "bhutan/birth-anniversary-third-druk-gyalpo",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha's Parinirvana",
+        "description": "Buddha's Parinirvana is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/buddhas-parinirvana",
+        "urlid": "bhutan/buddhas-parinirvana",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth Anniversary of Guru Rinpoche",
+        "description": "Birth Anniversary of Guru Rinpoche is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/guru-rinpoches-birthday",
+        "urlid": "bhutan/guru-rinpoches-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Bhutan (Thimphu)",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-06-21T02:50:59+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 2,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BTT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha's First Sermon",
+        "description": "Buddha's First Sermon is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-07-10",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/buddhas-first-sermon",
+        "urlid": "bhutan/buddhas-first-sermon",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thimphu Drubchoe (Thimphu only)",
+        "description": "Thimphu Drubchoe (Thimphu only) is a municipal holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-09-09",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 9
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Municipal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/thimphu-drubchoe",
+        "urlid": "bhutan/thimphu-drubchoe",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thimphu Tshechu (Thimphu only)",
+        "description": "Thimphu Tshechu (Thimphu only) is a municipal holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-09-13",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 13
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Municipal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/thimphu-tshechu-1",
+        "urlid": "bhutan/thimphu-tshechu-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thimphu Tshechu (Thimphu only)",
+        "description": "Thimphu Tshechu (Thimphu only) is a municipal holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-09-14",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 14
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Municipal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/thimphu-tshechu-2",
+        "urlid": "bhutan/thimphu-tshechu-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thimphu Tshechu (Thimphu only)",
+        "description": "Thimphu Tshechu (Thimphu only) is a municipal holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Municipal Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/thimphu-tshechu-3",
+        "urlid": "bhutan/thimphu-tshechu-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Blessed Rainy Day",
+        "description": "Blessed Rainy Day is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-09-22",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/blessed-rainy-day",
+        "urlid": "bhutan/blessed-rainy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Bhutan (Thimphu)",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-09-22T18:43:33+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 18,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BTT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dashain",
+        "description": "Dashain is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/dashain",
+        "urlid": "bhutan/dashain",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King Jigme Khesar Namgyel's Coronation",
+        "description": "King Jigme Khesar Namgyel's Coronation is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/fifths-kings-coronation",
+        "urlid": "bhutan/fifths-kings-coronation",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birth Anniversary of the Fourth Druk Gyalpo",
+        "description": "Birth Anniversary of the Fourth Druk Gyalpo is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/fourth-kings-birthday",
+        "urlid": "bhutan/fourth-kings-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Descending Day of Lord Buddha",
+        "description": "Descending Day of Lord Buddha is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-11-22",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/descending-day-lord-buddha",
+        "urlid": "bhutan/descending-day-lord-buddha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a public holiday in Bhutan",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-12-17",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bhutan/national-day",
+        "urlid": "bhutan/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Bhutan (Thimphu)",
+        "country": {
+          "id": "bt",
+          "name": "Bhutan"
+        },
+        "date": {
+          "iso": "2024-12-21T15:20:34+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 15,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BTT",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day in Turkey falls on January 1 in the Gregorian calendar and marks the beginning of a new calendar year.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/new-year-day",
+        "urlid": "turkey/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Turkey (Istanbul)",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-03-20T06:06:28+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 6,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Feast Eve",
+        "description": "The Ramadan Feast Eve in Turkey is the last day of fasting during the Islamic month of Ramadan. It is a time when people prepare for the Ramadan Feast.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Half Day",
+        "canonical_url": "https://calendarific.com/holiday/turkey/ramadan-feast-eve",
+        "urlid": "turkey/ramadan-feast-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Feast",
+        "description": "The Ramadan Feast is a three-day festival and one of the most important religious holidays in Turkey.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/ramadan-feast",
+        "urlid": "turkey/ramadan-feast",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Feast Holiday",
+        "description": "Ramadan Feast Holiday is a national holiday in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/ramadan-feast-day-2",
+        "urlid": "turkey/ramadan-feast-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Feast Holiday",
+        "description": "Ramadan Feast Holiday is a national holiday in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/ramadan-feast-day-3",
+        "urlid": "turkey/ramadan-feast-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Sovereignty and Children's Day",
+        "description": "National Sovereignty and Children’s Day in Turkey, observed every April 23, commemorates the Turkish Parliament’s creation and celebrates children’s role in the country’s development.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/national-sovereignty-children-day",
+        "urlid": "turkey/national-sovereignty-children-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor and Solidarity Day",
+        "description": "Labor and Solidarity Day, which falls on May 1 each year, is one of the most controversial holidays in Turkey.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/labor-and-solidarity-day",
+        "urlid": "turkey/labor-and-solidarity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Commemoration of Atatürk, Youth and Sports Day",
+        "description": "Many people in Turkey annually observe the Commemoration of Atatürk, Youth and Sports Day on May 19 by attending sports events and remembering Turkey’s War of Independence, which started on this day in 1919.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/ataturk-youth-sport-day",
+        "urlid": "turkey/ataturk-youth-sport-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sacrifice Feast Eve",
+        "description": "The Sacrifice Feast Eve, in which the date changes every year in the Gregorian calendar, is a time to prepare for the four-day Sacrifice Feast in Turkey.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-06-15",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Half Day",
+        "canonical_url": "https://calendarific.com/holiday/turkey/sacrifice-feast-eve",
+        "urlid": "turkey/sacrifice-feast-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sacrifice Feast",
+        "description": "The Sacrifice Feast in Turkey is a time of thanksgiving and remembrance of the poor.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/sacrifice-feast",
+        "urlid": "turkey/sacrifice-feast",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sacrifice Feast Holiday",
+        "description": "Sacrifice Feast Holiday is a national holiday in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/sacrifice-feast-day-2",
+        "urlid": "turkey/sacrifice-feast-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sacrifice Feast Holiday",
+        "description": "Sacrifice Feast Holiday is a national holiday in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/sacrifice-feast-day-3",
+        "urlid": "turkey/sacrifice-feast-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sacrifice Feast Holiday",
+        "description": "Sacrifice Feast Holiday is a national holiday in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/sacrifice-feast-day-4",
+        "urlid": "turkey/sacrifice-feast-day-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Turkey (Istanbul)",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-06-20T23:50:59+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 23,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Democracy and National Unity Day",
+        "description": "Democracy and National Unity Day is a national holiday in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-07-15",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/democracy-and-national-unity-day",
+        "urlid": "turkey/democracy-and-national-unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Turkey annually celebrates Victory Day on August 30, commemorating the Turkish victory over Greek invaders in 1922.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-08-30",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/victory-day",
+        "urlid": "turkey/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Turkey (Istanbul)",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-09-22T15:43:33+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 15,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day Eve",
+        "description": "Republic Day Eve is a half day in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-10-28",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Half Day",
+        "canonical_url": "https://calendarific.com/holiday/turkey/republic-day-eve",
+        "urlid": "turkey/republic-day-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day in Turkey, which is on October 29 each year, commemorates the creation of the Turkish Republic in 1923.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-10-29",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/turkey/republic-day",
+        "urlid": "turkey/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ataturk Commemoration Day",
+        "description": "Ataturk Commemoration Day is a observance in Turkey",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-11-10",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkey/day-of-mourning-for-ataturk",
+        "urlid": "turkey/day-of-mourning-for-ataturk",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Turkey (Istanbul)",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-12-21T12:20:34+03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 12,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+03:00",
+            "zoneabb": "EEST",
+            "zoneoffset": 10800,
+            "zonedst": 0,
+            "zonetotaloffset": 10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve in Turkey, which is December 31 in the Gregorian calendar, marks the end of a calendar year.",
+        "country": {
+          "id": "tr",
+          "name": "Turkey"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/turkey/new-year-eve",
+        "urlid": "turkey/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

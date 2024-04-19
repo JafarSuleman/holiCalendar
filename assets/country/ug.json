@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/new-year",
+        "urlid": "uganda/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-01-26",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/liberation-day",
+        "urlid": "uganda/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance of Archbishop Janani Luwum",
+        "description": "Remembrance of Archbishop Janani Luwum is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-02-16",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/remembrance-of-archbishop-janani-luwum",
+        "urlid": "uganda/remembrance-of-archbishop-janani-luwum",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/international-womens-day",
+        "urlid": "uganda/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/uganda/ramadan-begins",
+        "urlid": "uganda/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Uganda (Mexico City)",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-03-19T21:06:28-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 21,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/good-friday",
+        "urlid": "uganda/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/uganda/easter",
+        "urlid": "uganda/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/easter-monday",
+        "urlid": "uganda/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/eid-al-fitr",
+        "urlid": "uganda/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/may-day",
+        "urlid": "uganda/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/uganda/mothers-day",
+        "urlid": "uganda/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martyr's Day",
+        "description": "Martyr's Day is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/martyrs-day",
+        "urlid": "uganda/martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Heroes Day",
+        "description": "National Heroes Day is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-06-09",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/national-heroes-day",
+        "urlid": "uganda/national-heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/eid-al-adha",
+        "urlid": "uganda/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Uganda (Mexico City)",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-06-20T14:50:59-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 14,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/uganda/fathers-day",
+        "urlid": "uganda/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Uganda (Mexico City)",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-09-22T06:43:33-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 6,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-10-09",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/independence-day",
+        "urlid": "uganda/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Uganda (Mexico City)",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-12-21T03:20:34-06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 3,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-06:00",
+            "zoneabb": "CST",
+            "zoneoffset": -21600,
+            "zonedst": 0,
+            "zonetotaloffset": -21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/christmas-day",
+        "urlid": "uganda/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Uganda",
+        "country": {
+          "id": "ug",
+          "name": "Uganda"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uganda/second-day-of-christmas",
+        "urlid": "uganda/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

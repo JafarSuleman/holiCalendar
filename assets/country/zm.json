@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/new-year",
+        "urlid": "zambia/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/international-womens-day",
+        "urlid": "zambia/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Youth Day",
+        "description": "Youth Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-03-12",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/youth-day",
+        "urlid": "zambia/youth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Zambia (Lusaka)",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/good-friday",
+        "urlid": "zambia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/holy-saturday",
+        "urlid": "zambia/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/zambia/easter",
+        "urlid": "zambia/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/easter-monday",
+        "urlid": "zambia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kenneth Kaunda Day",
+        "description": "Kenneth Kaunda Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-04-28",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/kenneth-kaunda-day",
+        "urlid": "zambia/kenneth-kaunda-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Kenneth Kaunda Day",
+        "description": "Kenneth Kaunda Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-04-29",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/kenneth-kaunda-day",
+        "urlid": "zambia/kenneth-kaunda-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/may-day",
+        "urlid": "zambia/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/zambia/mothers-day",
+        "urlid": "zambia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Africa Freedom Day",
+        "description": "Africa Freedom Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-05-25",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/africa-freedom-day",
+        "urlid": "zambia/africa-freedom-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/zambia/fathers-day",
+        "urlid": "zambia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Zambia (Lusaka)",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Heroes' Day",
+        "description": "Heroes' Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/heroes-day",
+        "urlid": "zambia/heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unity Day",
+        "description": "Unity Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-07-02",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/unity-day",
+        "urlid": "zambia/unity-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Farmers' Day",
+        "description": "Farmers' Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/farmers-day",
+        "urlid": "zambia/farmers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Zambia (Lusaka)",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Prayer Day",
+        "description": "Prayer Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-10-18",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/prayer-day",
+        "urlid": "zambia/prayer-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Zambia",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-10-24",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/independence-day",
+        "urlid": "zambia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Zambia (Lusaka)",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "zm",
+          "name": "Zambia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/zambia/christmas-day",
+        "urlid": "zambia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

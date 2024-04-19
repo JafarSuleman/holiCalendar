@@ -1,0 +1,1355 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "Republic Day/New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/republic-day",
+        "urlid": "taiwan/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Farmer's Day",
+        "description": "Farmer's Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-04",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/farmers-day",
+        "urlid": "taiwan/farmers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-08",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year-holiday-5",
+        "urlid": "taiwan/lunar-new-year-holiday-5",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year's Eve",
+        "description": "Lunar New Year's Eve is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-09",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year-eve",
+        "urlid": "taiwan/lunar-new-year-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year's Day",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year",
+        "urlid": "taiwan/lunar-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year-holiday-1",
+        "urlid": "taiwan/lunar-new-year-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year-holiday-2",
+        "urlid": "taiwan/lunar-new-year-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year-holiday-3",
+        "urlid": "taiwan/lunar-new-year-holiday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lunar-new-year-holiday-4",
+        "urlid": "taiwan/lunar-new-year-holiday-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Special Working Day",
+        "description": "Special Working Day is a working day on weekend in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-17",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Working day on weekend",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/special-working-day-lunar-new-year",
+        "urlid": "taiwan/special-working-day-lunar-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lantern Festival",
+        "description": "Lantern Festival is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-24",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/lantern-festival",
+        "urlid": "taiwan/lantern-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tourism Day",
+        "description": "Tourism Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-24",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/tourism-day",
+        "urlid": "taiwan/tourism-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peace Memorial Day",
+        "description": "Peace Memorial Day is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-02-28",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/228-memorial-day",
+        "urlid": "taiwan/228-memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/womens-day",
+        "urlid": "taiwan/womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Earth God's Birthday",
+        "description": "Earth God's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/earth-god-birthday",
+        "urlid": "taiwan/earth-god-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Arbor Day",
+        "description": "Arbor Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-12",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/arbor-day",
+        "urlid": "taiwan/arbor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Taiwan (Taipei)",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-20T11:06:28+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 11,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kuan Yin's Birthday",
+        "description": "Kuan Yin's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/kuan-yin-birthday",
+        "urlid": "taiwan/kuan-yin-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Youth Day",
+        "description": "Youth Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/youth-day",
+        "urlid": "taiwan/youth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/easter-sunday",
+        "urlid": "taiwan/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tomb Sweeping Day",
+        "description": "Tomb Sweeping Day is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-04-04",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/tomb-sweeping-festival",
+        "urlid": "taiwan/tomb-sweeping-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-04-04",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/children-day",
+        "urlid": "taiwan/children-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Public Holiday",
+        "description": "Public Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-04-05",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/public-holiday",
+        "urlid": "taiwan/public-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Public Holiday",
+        "description": "Public Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-04-06",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/public-holiday-1",
+        "urlid": "taiwan/public-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Public Holiday",
+        "description": "Public Holiday is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/public-holiday-2",
+        "urlid": "taiwan/public-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "God of Medicine's Birthday",
+        "description": "God of Medicine's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/medicine-god-birthday",
+        "urlid": "taiwan/medicine-god-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Private Sector",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/labor-day",
+        "urlid": "taiwan/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Matsu's Birthday",
+        "description": "Matsu's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/matsu-birthday",
+        "urlid": "taiwan/matsu-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Literary Day",
+        "description": "Literary Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/literary-day",
+        "urlid": "taiwan/literary-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/mothers-day",
+        "urlid": "taiwan/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha's Birthday",
+        "description": "Buddha's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/buddha-birthday",
+        "urlid": "taiwan/buddha-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Opium Suppression Movement Day",
+        "description": "Opium Suppression Movement Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/opium-suppression-day",
+        "urlid": "taiwan/opium-suppression-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dragon Boat Festival",
+        "description": "Dragon Boat Festival is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/dragon-boat-festival",
+        "urlid": "taiwan/dragon-boat-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kuan Kung's Birthday",
+        "description": "Kuan Kung's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/kuan-kung-birthday",
+        "urlid": "taiwan/kuan-kung-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chen Huang's Birthday",
+        "description": "Chen Huang's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/chen-huang-birthday",
+        "urlid": "taiwan/chen-huang-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Taiwan (Taipei)",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-06-21T04:50:59+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 4,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-08-08",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/fathers-day",
+        "urlid": "taiwan/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chinese Valentine's Day",
+        "description": "Chinese Valentine's Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-08-10",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/chi-hsi-festival",
+        "urlid": "taiwan/chi-hsi-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hungry Ghost Festival",
+        "description": "Hungry Ghost Festival is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-08-18",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/spirit-festival",
+        "urlid": "taiwan/spirit-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-09-03",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/armed-forces-day",
+        "urlid": "taiwan/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mid-Autumn Festival",
+        "description": "Mid-Autumn Festival is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/mid-autumn-festival",
+        "urlid": "taiwan/mid-autumn-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Taiwan (Taipei)",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-09-22T20:43:33+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 20,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teachers' Day",
+        "description": "Teachers' Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-09-28",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/teachers-day",
+        "urlid": "taiwan/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a national holiday in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-10-10",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/national-day",
+        "urlid": "taiwan/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Double Ninth Day",
+        "description": "Double Ninth Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/double-ninth-day",
+        "urlid": "taiwan/double-ninth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Overseas Chinese Day",
+        "description": "Overseas Chinese Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-10-21",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/overseas-chinese-day",
+        "urlid": "taiwan/overseas-chinese-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Taiwan's Retrocession Day",
+        "description": "Taiwan's Retrocession Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-10-25",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/taiwan-retrocession-day",
+        "urlid": "taiwan/taiwan-retrocession-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/halloween",
+        "urlid": "taiwan/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sun Yat-sen's Birthday",
+        "description": "Sun Yat-sen's Birthday is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-11-12",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/sun-yat-sen-birthday",
+        "urlid": "taiwan/sun-yat-sen-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saisiat Festival",
+        "description": "Saisiat Festival is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/saisiat-festival",
+        "urlid": "taiwan/saisiat-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Taiwan (Taipei)",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dōngzhì Festival",
+        "description": "Dōngzhì Festival is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/dongzhi-festival",
+        "urlid": "taiwan/dongzhi-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in Taiwan",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/constitution-day",
+        "urlid": "taiwan/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "tw",
+          "name": "Taiwan"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/taiwan/christmas-day",
+        "urlid": "taiwan/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

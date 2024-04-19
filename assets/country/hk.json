@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/new-year-day",
+        "urlid": "hong-kong/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year's Day",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/lunar-new-year-day",
+        "urlid": "hong-kong/lunar-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Third Day of Lunar New Year",
+        "description": "Third Day of Lunar New Year is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/third-day-of-lunar-new-year",
+        "urlid": "hong-kong/third-day-of-lunar-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fourth Day of Lunar New Year",
+        "description": "Fourth Day of Lunar New Year is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/fourth-day-of-lunar-new-year",
+        "urlid": "hong-kong/fourth-day-of-lunar-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/valentines-day",
+        "urlid": "hong-kong/valentines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Hong Kong (Hong Kong)",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-03-20T11:06:28+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 11,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "HKT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/good-friday",
+        "urlid": "hong-kong/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/easter-saturday",
+        "urlid": "hong-kong/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/easter-sunday",
+        "urlid": "hong-kong/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/easter-monday",
+        "urlid": "hong-kong/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Tomb Sweeping Day",
+        "description": "Tomb Sweeping Day is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-04-04",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/ching-ming-festival",
+        "urlid": "hong-kong/ching-ming-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/labour-day",
+        "urlid": "hong-kong/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/mothers-day",
+        "urlid": "hong-kong/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha's Birthday",
+        "description": "Buddha's Birthday is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/buddha-birthday",
+        "urlid": "hong-kong/buddha-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dragon Boat Festival",
+        "description": "Dragon Boat Festival is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/dragon-boat-festival",
+        "urlid": "hong-kong/dragon-boat-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/fathers-day",
+        "urlid": "hong-kong/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Hong Kong (Hong Kong)",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-06-21T04:50:59+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 4,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "HKT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hong Kong Special Administrative Region Establishment Day",
+        "description": "Hong Kong Special Administrative Region Establishment Day is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/establishment-day",
+        "urlid": "hong-kong/establishment-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Hungry Ghost Festival",
+        "description": "Hungry Ghost Festival is a observance in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-08-17",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/hungry-ghost-festival",
+        "urlid": "hong-kong/hungry-ghost-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Confucius' Birthday",
+        "description": "Confucius' Birthday is a observance in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/confucius-birthday",
+        "urlid": "hong-kong/confucius-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mid-Autumn Festival",
+        "description": "Mid-Autumn Festival is a observance in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-09-17",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 17
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/mid-autumn-festival",
+        "urlid": "hong-kong/mid-autumn-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after Mid-Autumn Festival",
+        "description": "Day after Mid-Autumn Festival is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-09-18",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/day-after-mid-autumn",
+        "urlid": "hong-kong/day-after-mid-autumn",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Hong Kong (Hong Kong)",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-09-22T20:43:33+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 20,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "HKT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/national-day",
+        "urlid": "hong-kong/national-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chung Yeung Festival",
+        "description": "Chung Yeung Festival is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/chung-yeung-festival",
+        "urlid": "hong-kong/chung-yeung-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/halloween",
+        "urlid": "hong-kong/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Hong Kong (Hong Kong)",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "HKT",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/christmas-day",
+        "urlid": "hong-kong/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Weekday After Christmas Day",
+        "description": "First Weekday After Christmas Day is a national holiday in Hong Kong",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/boxing-day",
+        "urlid": "hong-kong/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year’s Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "hk",
+          "name": "Hong Kong"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/hong-kong/new-year-eve",
+        "urlid": "hong-kong/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

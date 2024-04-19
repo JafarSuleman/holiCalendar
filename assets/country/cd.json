@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/new-year-day",
+        "urlid": "dr-congo/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martyrs of Independence Day",
+        "description": "Martyrs of Independence Day is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-01-04",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/martyrs-day",
+        "urlid": "dr-congo/martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of President Laurent Kabila’s Assassination",
+        "description": "Anniversary of President Laurent Kabila’s Assassination is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-01-16",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/laurent-kabila-assassination-anniversary",
+        "urlid": "dr-congo/laurent-kabila-assassination-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Anniversary of Prime Minister Patrice Emery Lumumba’s Assassination",
+        "description": "Anniversary of Prime Minister Patrice Emery Lumumba’s Assassination is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-01-17",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/patrice-lumumba-assassination-anniversary",
+        "urlid": "dr-congo/patrice-lumumba-assassination-anniversary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/valentine-day",
+        "urlid": "dr-congo/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/international-womens-day",
+        "urlid": "dr-congo/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Francophonie Day",
+        "description": "International Francophonie Day is a observance in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-03-20",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/international-francophonie-day",
+        "urlid": "dr-congo/international-francophonie-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Congo Dem. Rep. (Kinshasa)",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Education Day",
+        "description": "Education Day is a observance in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-04-30",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/education-day",
+        "urlid": "dr-congo/education-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/may-day",
+        "urlid": "dr-congo/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-05-17",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/liberation-day",
+        "urlid": "dr-congo/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Congo Dem. Rep. (Kinshasa)",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-06-20T21:50:59+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 21,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Music Festival",
+        "description": "Music Festival is a observance in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-06-21",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/music-festival",
+        "urlid": "dr-congo/music-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day observed",
+        "description": "Independence Day is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/independence-day",
+        "urlid": "dr-congo/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-06-30",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/independence-day",
+        "urlid": "dr-congo/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Parents' Day",
+        "description": "Parents' Day is a public holiday in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/parents-day",
+        "urlid": "dr-congo/parents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Congo Dem. Rep. (Kinshasa)",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-09-22T13:43:33+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 13,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "World Tourism Day",
+        "description": "World Tourism Day is a observance in Congo Dem. Rep.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-09-27",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/world-tourism-day",
+        "urlid": "dr-congo/world-tourism-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Congo Dem. Rep. (Kinshasa)",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "WAT",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/christmas-eve",
+        "urlid": "dr-congo/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public holiday",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/christmas-day",
+        "urlid": "dr-congo/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "cd",
+          "name": "Congo Democratic Republic"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dr-congo/new-year-eve",
+        "urlid": "dr-congo/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

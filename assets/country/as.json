@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/new-year",
+        "urlid": "american-samoa/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Martin Luther King Jr. Day",
+        "description": "Martin Luther King Jr. Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/martin-luther-king-day",
+        "urlid": "american-samoa/martin-luther-king-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "President's Day",
+        "description": "President's Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-02-19",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/presidents-day",
+        "urlid": "american-samoa/presidents-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in American Samoa (Pago Pago)",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-03-19T16:06:28-11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 16,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-11:00",
+            "zoneabb": "SST",
+            "zoneoffset": -39600,
+            "zonedst": 0,
+            "zonetotaloffset": -39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/good-friday",
+        "urlid": "american-samoa/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag Day",
+        "description": "Flag Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-04-17",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/flag-day",
+        "urlid": "american-samoa/flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Memorial Day",
+        "description": "Memorial Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-05-27",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/memorial-day",
+        "urlid": "american-samoa/memorial-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in American Samoa (Pago Pago)",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-06-20T09:50:59-11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 9,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-11:00",
+            "zoneabb": "SST",
+            "zoneoffset": -39600,
+            "zonedst": 0,
+            "zonetotaloffset": -39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-07-04",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/independence-day",
+        "urlid": "american-samoa/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Manu'a Cession Day",
+        "description": "Manu'a Cession Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-07-16",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/manua-cession-day",
+        "urlid": "american-samoa/manua-cession-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-09-02",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/labor-day",
+        "urlid": "american-samoa/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in American Samoa (Pago Pago)",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-09-22T01:43:33-11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 1,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-11:00",
+            "zoneabb": "SST",
+            "zoneoffset": -39600,
+            "zonedst": 0,
+            "zonetotaloffset": -39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Columbus Day",
+        "description": "Columbus Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/columbus-day",
+        "urlid": "american-samoa/columbus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Veterans' Day",
+        "description": "Veterans' Day is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/veterans-day",
+        "urlid": "american-samoa/veterans-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Thanksgiving",
+        "description": "Thanksgiving is a public holiday in American Samoa",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-11-28",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/thanksgiving",
+        "urlid": "american-samoa/thanksgiving",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in American Samoa (Pago Pago)",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-12-20T22:20:34-11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 20,
+            "hour": 22,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-11:00",
+            "zoneabb": "SST",
+            "zoneoffset": -39600,
+            "zonedst": 0,
+            "zonetotaloffset": -39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "as",
+          "name": "American Samoa"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/american-samoa/christmas-day",
+        "urlid": "american-samoa/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

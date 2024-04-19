@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/new-year",
+        "urlid": "kiribati/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/international-womens-day",
+        "urlid": "kiribati/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Kiribati (Tarawa)",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-03-20T15:06:28+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 15,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "GILT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/good-friday",
+        "urlid": "kiribati/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/easter-monday",
+        "urlid": "kiribati/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Kiribati (Tarawa)",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-06-21T08:50:59+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 8,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "GILT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day Holiday",
+        "description": "Independence Day Holiday is a public holiday in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-07-11",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/independence-day-holiday",
+        "urlid": "kiribati/independence-day-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-07-12",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/independence-day",
+        "urlid": "kiribati/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unimwane Day",
+        "description": "Unimwane Day is a observance in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-07-15",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/unimwane-day",
+        "urlid": "kiribati/unimwane-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unaine Day",
+        "description": "Unaine Day is a observance in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-07-16",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/unaine-day",
+        "urlid": "kiribati/unaine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Youth Day",
+        "description": "Youth Day is a public holiday in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/youth-day",
+        "urlid": "kiribati/youth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Kiribati (Tarawa)",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-09-23T00:43:33+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 0,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "GILT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Human Rights and Peace Day",
+        "description": "Human Rights and Peace Day is a public holiday in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-12-11",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/human-rights-and-peace-day",
+        "urlid": "kiribati/human-rights-and-peace-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Kiribati (Tarawa)",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-12-21T21:20:34+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 21,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "GILT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/christmas-day",
+        "urlid": "kiribati/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Kiribati",
+        "country": {
+          "id": "ki",
+          "name": "Kiribati"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/kiribati/second-day-of-christmas",
+        "urlid": "kiribati/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

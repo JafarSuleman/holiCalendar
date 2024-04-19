@@ -1,0 +1,1057 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/new-year-day",
+        "urlid": "indonesia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension of the Prophet Muhammad",
+        "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-02-08",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/isra-miraj",
+        "urlid": "indonesia/isra-miraj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Joint Holiday",
+        "description": "Lunar New Year Joint Holiday is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-02-09",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/lunar-new-year-day-joint-holiday",
+        "urlid": "indonesia/lunar-new-year-day-joint-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year's Day",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/lunar-new-year-day",
+        "urlid": "indonesia/lunar-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-maha-shivaratri",
+        "urlid": "indonesia/hindu-maha-shivaratri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+        "description": "Bali's Day of Silence and Hindu New Year (Nyepi) is a public holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/nyepi",
+        "urlid": "indonesia/nyepi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-12",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/ramadan-begins",
+        "urlid": "indonesia/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi)",
+        "description": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi) is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-12",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/nyepi-joint-holiday",
+        "urlid": "indonesia/nyepi-joint-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Indonesia (Jakarta)",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-20T10:06:28+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 10,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "WIB",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holi",
+        "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-holi",
+        "urlid": "indonesia/hindu-holi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/good-friday",
+        "urlid": "indonesia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/easter-sunday",
+        "urlid": "indonesia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Fitri Joint Holiday",
+        "description": "Idul Fitri Joint Holiday is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-04-08",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/joint-holiday-before-idul-fitri",
+        "urlid": "indonesia/joint-holiday-before-idul-fitri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Fitri Joint Holiday",
+        "description": "Idul Fitri Joint Holiday is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-04-09",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/joint-holiday-before-idul-fitri-2",
+        "urlid": "indonesia/joint-holiday-before-idul-fitri-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Fitri",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/idul-fitri",
+        "urlid": "indonesia/idul-fitri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Fitri Holiday",
+        "description": "Idul Fitri Holiday is a public holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/idul-fitri-2",
+        "urlid": "indonesia/idul-fitri-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Fitri Joint Holiday",
+        "description": "Idul Fitri Joint Holiday is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/joint-holiday-before-idul-fitri-3",
+        "urlid": "indonesia/joint-holiday-before-idul-fitri-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Fitri Joint Holiday",
+        "description": "Idul Fitri Joint Holiday is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-04-15",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/holiday-after-idul-fitri",
+        "urlid": "indonesia/holiday-after-idul-fitri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/labor-day",
+        "urlid": "indonesia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day of Jesus Christ",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/ascension-day-jesus-christ",
+        "urlid": "indonesia/ascension-day-jesus-christ",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Joint Holiday after Ascension Day",
+        "description": "Joint Holiday after Ascension Day is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-05-10",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/joint-holiday-after-ascension-day",
+        "urlid": "indonesia/joint-holiday-after-ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Waisak Day (Buddha's Anniversary)",
+        "description": "Waisak Day (Buddha's Anniversary) is a public holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/waisak-day",
+        "urlid": "indonesia/waisak-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Joint Holiday for Waisak Day",
+        "description": "Joint Holiday for Waisak Day is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-05-24",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/joint-holiday-for-waisak-day",
+        "urlid": "indonesia/joint-holiday-for-waisak-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pancasila Day",
+        "description": "Pancasila Day is a national holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/pancasila-day",
+        "urlid": "indonesia/pancasila-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Idul Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/idul-adha",
+        "urlid": "indonesia/idul-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Joint Holiday for Idul Adha",
+        "description": "Joint Holiday for Idul Adha is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/idul-adha-joint-holiday",
+        "urlid": "indonesia/idul-adha-joint-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Indonesia (Jakarta)",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-06-21T03:50:59+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 3,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "WIB",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram / Islamic New Year",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/muharram-new-year",
+        "urlid": "indonesia/muharram-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Indonesian Independence Day",
+        "description": "Indonesian Independence Day is a public holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-08-17",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/indonesian-independence-day",
+        "urlid": "indonesia/indonesian-independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Raksha Bandhan",
+        "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-raksha-bandhan",
+        "urlid": "indonesia/hindu-raksha-bandhan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Janmashtami",
+        "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-janmashtami",
+        "urlid": "indonesia/hindu-janmashtami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "description": "Ganesh Chaturthi is the great Ganesha festival that celebrates the birthday of Lord Ganesha during the Hindu Month of Bhadra, which usually falls between mid-August and mid-September. It is also known as Vinayaka Chaturthi and can last up to 10 days.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-ganesh-chaturthi",
+        "urlid": "indonesia/hindu-ganesh-chaturthi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/prophet-muhammad-birthday",
+        "urlid": "indonesia/prophet-muhammad-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Indonesia (Jakarta)",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-09-22T19:43:33+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 19,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "WIB",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navaratri",
+        "description": "Navaratri is a Hindu holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-navaratri",
+        "urlid": "indonesia/hindu-navaratri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dussehra",
+        "description": "Dussehra is a Hindu holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/hindu-dussera",
+        "urlid": "indonesia/hindu-dussera",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Diwali",
+        "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/diwali",
+        "urlid": "indonesia/diwali",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Indonesia (Jakarta)",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-12-21T16:20:34+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 16,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "WIB",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/christmas-eve",
+        "urlid": "indonesia/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/christmas-day",
+        "urlid": "indonesia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a joint holiday in Indonesia",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Joint Holiday",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/day-after-christmas-day",
+        "urlid": "indonesia/day-after-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "id",
+          "name": "Indonesia"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/indonesia/new-year-eve",
+        "urlid": "indonesia/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

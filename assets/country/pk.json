@@ -1,0 +1,1154 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "January 1 marks the beginning of the official New Year in Pakistan and is celebrated throughout the country as New Year’s Day.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/new-year-day",
+        "urlid": "pakistan/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kashmir Day",
+        "description": "Kashmir Solidarity Day is annually observed in Pakistan on February 5 to express solidarity with the people of Jammu and Kashmir. It also honors the sacrifices made for Kashmir’s liberation.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-02-05",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/kashmir-day",
+        "urlid": "pakistan/kashmir-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shab e-Meraj",
+        "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-02-07",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 7
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/shab-e-meraj",
+        "urlid": "pakistan/shab-e-meraj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Basant Panchami",
+        "description": "Basant Panchami is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/basant-punchami",
+        "urlid": "pakistan/basant-punchami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shab e-Barat",
+        "description": "Shab e-Barat is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-02-25",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 25
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/shab-e-barat",
+        "urlid": "pakistan/shab-e-barat",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/ramadan-begins",
+        "urlid": "pakistan/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Pakistan (Karachi)",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-03-20T08:06:28+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 8,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "PKT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pakistan Day",
+        "description": "Pakistan Day is annually celebrated on March 23 to commemorate the Lahore Resolution and to celebrate the adoption of Pakistan’s first constitution.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-03-23",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/pakistan-day",
+        "urlid": "pakistan/pakistan-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holi",
+        "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/holi",
+        "urlid": "pakistan/holi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/good-friday",
+        "urlid": "pakistan/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/easter-sunday",
+        "urlid": "pakistan/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/easter-monday",
+        "urlid": "pakistan/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-fitr-1",
+        "urlid": "pakistan/eid-ul-fitr-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fitr Holiday",
+        "description": "Eid-ul-Fitr Holiday is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-fitr-2",
+        "urlid": "pakistan/eid-ul-fitr-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fitr Holiday",
+        "description": "Eid-ul-Fitr Holiday is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-fitr-3",
+        "urlid": "pakistan/eid-ul-fitr-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid-ul-Fitr Holiday",
+        "description": "Eid-ul-Fitr Holiday is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-fitr-4",
+        "urlid": "pakistan/eid-ul-fitr-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Baisakhi",
+        "description": "Baisakhi is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/baisakhi",
+        "urlid": "pakistan/baisakhi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ridván",
+        "description": "Ridván is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-04-21",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 21
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-e-rizwan",
+        "urlid": "pakistan/eid-e-rizwan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day (Labour Day or May Day) is observed in Pakistan on May 1 each year to pay tribute to workers’ sacrifices in achieving economic and social rights.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/labour-day",
+        "urlid": "pakistan/labour-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha Purnima",
+        "description": "Buddha Purnima is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/buddha-purnima",
+        "urlid": "pakistan/buddha-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-azha",
+        "urlid": "pakistan/eid-ul-azha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-azha-2",
+        "urlid": "pakistan/eid-ul-azha-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-ul-azha-3",
+        "urlid": "pakistan/eid-ul-azha-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Pakistan (Karachi)",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-06-21T01:50:59+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 1,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "PKT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "July 1 Bank Holiday",
+        "description": "July 1 Bank Holiday is a bank holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Bank Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/july-1-bank-holiday",
+        "urlid": "pakistan/july-1-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashura",
+        "description": "Ashura is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-07-16",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/ashura",
+        "urlid": "pakistan/ashura",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashura Holiday",
+        "description": "Ashura Holiday is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-07-17",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/ashura-holiday",
+        "urlid": "pakistan/ashura-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Pakistan celebrates its Independence Day on August 14. This day marks Pakistan’s emergence as an independent state.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-08-14",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/independence-day",
+        "urlid": "pakistan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Raksha Bandhan",
+        "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/hindu-raksha-bandhan",
+        "urlid": "pakistan/hindu-raksha-bandhan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chelum",
+        "description": "Chelum is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/chelum",
+        "urlid": "pakistan/chelum",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Defence Day",
+        "description": "Defence Day is a observance in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-09-06",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/defence-day",
+        "urlid": "pakistan/defence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "description": "Ganesh Chaturthi is the great Ganesha festival that celebrates the birthday of Lord Ganesha during the Hindu Month of Bhadra, which usually falls between mid-August and mid-September. It is also known as Vinayaka Chaturthi and can last up to 10 days.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/hindu-ganesh-chaturthi",
+        "urlid": "pakistan/hindu-ganesh-chaturthi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Giarhwin Sharief",
+        "description": "Giarhwin Sharief is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-09-15",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 15
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/giarhwin-sharief",
+        "urlid": "pakistan/giarhwin-sharief",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid Milad un-Nabi",
+        "description": "Eid Milad-un-Nabi (festival of the Prophet Muhammad’s birth) is observed with religious reverence in Pakistan.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/eid-milad-un-nabi",
+        "urlid": "pakistan/eid-milad-un-nabi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Pakistan (Karachi)",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-09-22T17:43:33+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 17,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "PKT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Durga Puja",
+        "description": "Durga Puja is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/durga-puja",
+        "urlid": "pakistan/durga-puja",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dussehra",
+        "description": "Dussehra is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-10-13",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 13
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/dussehra",
+        "urlid": "pakistan/dussehra",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Birthday of Guru Balmik Sawami Ji",
+        "description": "Birthday of Guru Balmik Sawami Ji is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-10-17",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 17
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/guru-balmik-sawami-ji-birthday",
+        "urlid": "pakistan/guru-balmik-sawami-ji-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Diwali/Deepavali",
+        "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Hinduism",
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/diwali",
+        "urlid": "pakistan/diwali",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Iqbal Day",
+        "description": "Iqbal Day is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-11-09",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/iqbal-day",
+        "urlid": "pakistan/iqbal-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Pakistan (Karachi)",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-12-21T14:20:34+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 14,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "PKT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/christmas-eve",
+        "urlid": "pakistan/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/christmas-day",
+        "urlid": "pakistan/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Quaid-e-Azam Day",
+        "description": "Quaid-e-Azam Day is a public holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/quaid-e-azam-day",
+        "urlid": "pakistan/quaid-e-azam-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day After Christmas (Christians only)",
+        "description": "Day After Christmas (Christians only) is a optional holiday in Pakistan",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/day-of-goodwill",
+        "urlid": "pakistan/day-of-goodwill",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "pk",
+          "name": "Pakistan"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/pakistan/new-year-eve",
+        "urlid": "pakistan/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

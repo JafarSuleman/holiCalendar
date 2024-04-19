@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year's Day (nieuwjaarsdag, oud en nieuw) is the first day of a new calendar year. In the Netherlands, it always falls on January 1.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/new-year-day",
+        "urlid": "netherlands/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/valentine-day",
+        "urlid": "netherlands/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in the Netherlands (Amsterdam)",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is the Friday before Easter Sunday in the Netherlands.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/good-friday",
+        "urlid": "netherlands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "On Easter Sunday (paaszondag, pasen) many Christians in the Netherlands celebrate the resurrection of Jesus after his crucifixion.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/easter",
+        "urlid": "netherlands/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday (tweede paasdag) in the Netherlands is the day after Easter Sunday.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/easter-monday",
+        "urlid": "netherlands/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Birthday",
+        "description": "The King’s official birthday in the Netherlands is a festive occasion that is annually celebrated on April 27.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-04-27",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/king-birthday",
+        "urlid": "netherlands/king-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Remembrance Day in the Netherlands commemorates Dutch civilians and soldiers who lost their lives in war and during peace-keeping missions.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-05-04",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/remembrance-day",
+        "urlid": "netherlands/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Liberation Day",
+        "description": "Liberation Day in the Netherlands celebrates the end of World War II in Europe.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Sector",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/liberation-day",
+        "urlid": "netherlands/liberation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day (hemelvaart) in the Netherlands is the 40th day of Easter and ten days before Pentecost.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/ascension-day",
+        "urlid": "netherlands/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/mothers-day",
+        "urlid": "netherlands/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Sunday",
+        "description": "Pentecost (Pinksteren) in the Netherlands is seven weeks after Easter Sunday. It commemorates the Holy Spirit's descent from heaven onto Jesus' followers.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-05-19",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/whit-sunday",
+        "urlid": "netherlands/whit-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "The second day of Pentecost (tweede pinksterdag) in the Netherlands is on a Monday seven weeks after Easter Monday.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/whit-monday",
+        "urlid": "netherlands/whit-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/father-day",
+        "urlid": "netherlands/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in the Netherlands (Amsterdam)",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Keti Koti",
+        "description": "Keti Koti is a observance in the Netherlands",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/keti-koti",
+        "urlid": "netherlands/keti-koti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in the Netherlands (Amsterdam)",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Nicholas' Eve/Sinterklaas",
+        "description": "St Nicholas’ Eve honors a Christian saint who is associated with gift-giving. It is a festive celebration in the Netherlands on December 5.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-05",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/st-nicholas-eve",
+        "urlid": "netherlands/st-nicholas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Nicholas' Day",
+        "description": "St. Nicholas’ Day honors a Christian saint who is associated with gift-giving. It is a festive celebration in the Netherlands on December 5–6.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-06",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/st-nicholas-day",
+        "urlid": "netherlands/st-nicholas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in the Netherlands (Amsterdam)",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve in the Netherlands is the start of the Dutch Christmas holidays.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/christmas-eve",
+        "urlid": "netherlands/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day (kerst, kerstmis) is a public holiday in the Netherlands that commemorates Jesus Christ's birth. It always falls on December 25.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/christmas-day",
+        "urlid": "netherlands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Second Day of Christmas",
+        "description": "The second day of Christmas is a holiday for many people in the Netherlands. It always falls on December 26.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/second-christmas-day",
+        "urlid": "netherlands/second-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is one of the most exciting times in The Netherlands, farewelling the Old Year and celebrating the New Year.",
+        "country": {
+          "id": "nl",
+          "name": "Netherlands"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/netherlands/new-year-eve",
+        "urlid": "netherlands/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

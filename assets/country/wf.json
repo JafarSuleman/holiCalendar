@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/new-year",
+        "urlid": "wallis-and-futuna/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Wallis and Futuna (Mata-Utu)",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-03-20T15:06:28+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 15,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "WFT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/easter-monday",
+        "urlid": "wallis-and-futuna/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St. Pierre Chanel Day",
+        "description": "St. Pierre Chanel Day is a common local holiday in Wallis and Futuna",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-04-28",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 28
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/st-pierre-chanel-day",
+        "urlid": "wallis-and-futuna/st-pierre-chanel-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/may-day",
+        "urlid": "wallis-and-futuna/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Wallis and Futuna",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/victory-day",
+        "urlid": "wallis-and-futuna/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/ascension",
+        "urlid": "wallis-and-futuna/ascension",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/whit-monday",
+        "urlid": "wallis-and-futuna/whit-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Wallis and Futuna (Mata-Utu)",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-06-21T08:50:59+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 8,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "WFT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saints Pierre and Paul Day",
+        "description": "Saints Pierre and Paul Day is a common local holiday in Wallis and Futuna",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/saints-pierre-et-paul-day",
+        "urlid": "wallis-and-futuna/saints-pierre-et-paul-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bastille Day",
+        "description": "Bastille Day is a public holiday in Wallis and Futuna",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-07-14",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/bastille-day",
+        "urlid": "wallis-and-futuna/bastille-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Territory Day",
+        "description": "Territory Day is a common local holiday in Wallis and Futuna",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-07-29",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 29
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/territory-day",
+        "urlid": "wallis-and-futuna/territory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/assumption-of-mary",
+        "urlid": "wallis-and-futuna/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Wallis and Futuna (Mata-Utu)",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-09-23T00:43:33+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 0,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "WFT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/all-saints-day",
+        "urlid": "wallis-and-futuna/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Armistice Day is a public holiday in Wallis and Futuna",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/armistice-day",
+        "urlid": "wallis-and-futuna/armistice-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Wallis and Futuna (Mata-Utu)",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-12-21T21:20:34+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 21,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "WFT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "wf",
+          "name": "Wallis and Futuna"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/wallis-and-futuna/christmas-day",
+        "urlid": "wallis-and-futuna/christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

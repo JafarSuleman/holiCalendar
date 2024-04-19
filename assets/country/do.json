@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/new-year-day",
+        "urlid": "dominican-republic/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/the-three-wise-men-day",
+        "urlid": "dominican-republic/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Our Lady of Altagracia",
+        "description": "Our Lady of Altagracia is a national holiday in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-01-21",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/our-lady-of-altagracia",
+        "urlid": "dominican-republic/our-lady-of-altagracia",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Duarte's Day",
+        "description": "Duarte's Day is a observance in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-01-26",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/duartes-day",
+        "urlid": "dominican-republic/duartes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Duarte's Day",
+        "description": "Day off for Duarte's Day is a national holiday in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-01-29",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/duartes-day",
+        "urlid": "dominican-republic/duartes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-02-27",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 27
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/independence-day",
+        "urlid": "dominican-republic/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Dominican Republic (Santo Domingo)",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/maundy-thursday",
+        "urlid": "dominican-republic/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/good-friday",
+        "urlid": "dominican-republic/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-04-29",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/labor-day",
+        "urlid": "dominican-republic/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/labor-day",
+        "urlid": "dominican-republic/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother's Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/mothers-day",
+        "urlid": "dominican-republic/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/corpus-christi",
+        "urlid": "dominican-republic/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Dominican Republic (Santo Domingo)",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father's Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-07-28",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/fathers-day",
+        "urlid": "dominican-republic/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Restoration Day",
+        "description": "Restoration Day is a national holiday in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-08-16",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/restoration-day",
+        "urlid": "dominican-republic/restoration-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Dominican Republic (Santo Domingo)",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Our Lady of Mercy",
+        "description": "Feast of Our Lady of Mercy is a national holiday in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-09-24",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/our-lady-of-las-mercedes",
+        "urlid": "dominican-republic/our-lady-of-las-mercedes",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Constitution Day",
+        "description": "Day off for Constitution Day is a national holiday in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/constitution-day",
+        "urlid": "dominican-republic/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a observance in Dominican Republic",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-11-06",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/constitution-day",
+        "urlid": "dominican-republic/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Dominican Republic (Santo Domingo)",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "AST",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/christmas-eve",
+        "urlid": "dominican-republic/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/christmas-day",
+        "urlid": "dominican-republic/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "do",
+          "name": "Dominican Republic"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/dominican-republic/new-years-eve",
+        "urlid": "dominican-republic/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

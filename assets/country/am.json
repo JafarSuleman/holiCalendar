@@ -1,0 +1,1105 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/new-year-day",
+        "urlid": "armenia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Day (Day 2)",
+        "description": "New Year's Day (Day 2) is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-01-02",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/new-year-day",
+        "urlid": "armenia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-01-05",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/armenian-christmas-eve",
+        "urlid": "armenia/armenian-christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/armenian-christmas-day",
+        "urlid": "armenia/armenian-christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Remembrance Day",
+        "description": "Christmas Remembrance Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/christmas-remembrance-day",
+        "urlid": "armenia/christmas-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Army Day",
+        "description": "Army Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-01-28",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/army-day",
+        "urlid": "armenia/army-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saint Vartan",
+        "description": "Feast of Saint Vartan is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-02-08",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/saint-vartan-feast",
+        "urlid": "armenia/saint-vartan-feast",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/valentine-day",
+        "urlid": "armenia/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother Language Day",
+        "description": "Mother Language Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-02-21",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/mother-language-day",
+        "urlid": "armenia/mother-language-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/international-womens-day",
+        "urlid": "armenia/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Armenia (Yerevan)",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-03-20T07:06:28+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 7,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "AMT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/good-friday",
+        "urlid": "armenia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/holy-saturday",
+        "urlid": "armenia/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/easter-sunday",
+        "urlid": "armenia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/easter-monday",
+        "urlid": "armenia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Motherhood and Beauty Day",
+        "description": "Motherhood and Beauty Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/motherhood-and-beauty-day",
+        "urlid": "armenia/motherhood-and-beauty-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armenian Cinema Day",
+        "description": "Armenian Cinema Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-04-16",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/armenian-cinema-day",
+        "urlid": "armenia/armenian-cinema-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Taxpayers' Day",
+        "description": "Taxpayers' Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-04-19",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/taxpayers-day",
+        "urlid": "armenia/taxpayers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Genocide Remembrance Day",
+        "description": "Genocide Remembrance Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-04-24",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/genocide-remembrance-day",
+        "urlid": "armenia/genocide-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Citizens' Day",
+        "description": "Citizens' Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-04-27",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/citizens-day",
+        "urlid": "armenia/citizens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/labor-day",
+        "urlid": "armenia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Yerkrapah Day",
+        "description": "Yerkrapah Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-05-08",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/congress",
+        "urlid": "armenia/congress",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory and Peace Day",
+        "description": "Victory and Peace Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/victory-and-peace-day",
+        "urlid": "armenia/victory-and-peace-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Family Day",
+        "description": "Family Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/family-day",
+        "urlid": "armenia/family-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Students and Youth",
+        "description": "Day of Students and Youth is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-05-16",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/youth-day",
+        "urlid": "armenia/youth-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Republic Day",
+        "description": "Republic Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-05-28",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/republic-day",
+        "urlid": "armenia/republic-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-06-01",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/childrens-day",
+        "urlid": "armenia/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day of the Oppressed",
+        "description": "Remembrance Day of the Oppressed is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-06-14",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/remembrance-day",
+        "urlid": "armenia/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/fathers-day",
+        "urlid": "armenia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Armenia (Yerevan)",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-06-21T00:50:59+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 0,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "AMT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/constitution-day",
+        "urlid": "armenia/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of State Symbols",
+        "description": "Day of State Symbols is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/day-of-state-symbols",
+        "urlid": "armenia/day-of-state-symbols",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Knowledge and Literature Day",
+        "description": "Knowledge and Literature Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-09-01",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/knowledge-and-literature-day",
+        "urlid": "armenia/knowledge-and-literature-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-09-21",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/independence-day",
+        "urlid": "armenia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Armenia (Yerevan)",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-09-22T16:43:33+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 16,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "AMT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teachers' Day",
+        "description": "Teachers' Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-10-05",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/teachers-day",
+        "urlid": "armenia/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of National Minorities of the Republic of Armenia",
+        "description": "Day of National Minorities of the Republic of Armenia is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-10-06",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/national-minorities-day",
+        "urlid": "armenia/national-minorities-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Translators' Day",
+        "description": "Translators' Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/translators-day",
+        "urlid": "armenia/translators-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/halloween",
+        "urlid": "armenia/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Local Self-Government Day",
+        "description": "Local Self-Government Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-11-10",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 10
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/local-self-government-day",
+        "urlid": "armenia/local-self-government-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Spitak Remembrance Day",
+        "description": "Spitak Remembrance Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-12-07",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/spitak-remembrance-day",
+        "urlid": "armenia/spitak-remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Genocide Condemnation and Prevention Day",
+        "description": "Genocide Condemnation and Prevention Day is a observance in Armenia",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/armenia/genocide-prevention-day",
+        "urlid": "armenia/genocide-prevention-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Armenia (Yerevan)",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-12-21T13:20:34+04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 13,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+04:00",
+            "zoneabb": "AMT",
+            "zoneoffset": 14400,
+            "zonedst": 0,
+            "zonetotaloffset": 14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "am",
+          "name": "Armenia"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/armenia/new-year-eve",
+        "urlid": "armenia/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

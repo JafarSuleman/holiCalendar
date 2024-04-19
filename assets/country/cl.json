@@ -1,0 +1,665 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/new-year-day",
+        "urlid": "chile/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Chile (Santiago)",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-03-20T00:06:28-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 0,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "CLST",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/chile/maundy-thursday",
+        "urlid": "chile/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/chile/good-friday",
+        "urlid": "chile/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/chile/holy-saturday",
+        "urlid": "chile/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/chile/easter",
+        "urlid": "chile/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/labor-day",
+        "urlid": "chile/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Navy Day",
+        "description": "Navy Day is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-05-21",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/navy-day",
+        "urlid": "chile/navy-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/chile/corpus-christi",
+        "urlid": "chile/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Chile (Santiago)",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "CLT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of Indigenous Peoples",
+        "description": "National Day of Indigenous Peoples is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "CLT",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/national-day-of-indigenous-peoples",
+        "urlid": "chile/national-day-of-indigenous-peoples",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Peter and Saint Paul",
+        "description": "Saint Peter and Saint Paul is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/saint-peter-and-saint-paul",
+        "urlid": "chile/saint-peter-and-saint-paul",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Our Lady of Mount Carmel",
+        "description": "Our Lady of Mount Carmel is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-07-16",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/mount-carmel",
+        "urlid": "chile/mount-carmel",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/assumption-of-mary",
+        "urlid": "chile/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day",
+        "description": "National Day is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-09-18",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/national-holiday",
+        "urlid": "chile/national-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Army Day",
+        "description": "Army Day is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-09-19",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/army-day",
+        "urlid": "chile/army-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Extended National Holiday",
+        "description": "Extended National Holiday is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-09-20",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/20-september",
+        "urlid": "chile/20-september",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Chile (Santiago)",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-09-22T09:43:33-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 9,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "CLST",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Discovery of Two Worlds",
+        "description": "Day of the Discovery of Two Worlds is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/columbus-day",
+        "urlid": "chile/columbus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Reformation Day",
+        "description": "Reformation Day is a national holiday in Chile",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/reformation-day",
+        "urlid": "chile/reformation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/all-saints",
+        "urlid": "chile/all-saints",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Inmaculate Conception Day",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/immaculate-conception",
+        "urlid": "chile/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Chile (Santiago)",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-12-21T06:20:34-03:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 6,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-03:00",
+            "zoneabb": "CLST",
+            "zoneoffset": -14400,
+            "zonedst": 3600,
+            "zonetotaloffset": -10800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/chile/christmas-day",
+        "urlid": "chile/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "cl",
+          "name": "Chile"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/chile/new-year-eve",
+        "urlid": "chile/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

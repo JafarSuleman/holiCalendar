@@ -1,0 +1,985 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/new-year-day",
+        "urlid": "croatia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/epiphany",
+        "urlid": "croatia/epiphany",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Christmas Day",
+        "description": "Many Orthodox churches annually celebrate Christmas Day on or around January 7. This event commemorates the story of Jesus Christ’s birth, according to the Christian Bible.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/orthodox-christmas",
+        "urlid": "croatia/orthodox-christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Međimurje Unification Day",
+        "description": "Međimurje Unification Day is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-01-09",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/medimurje-unification-day",
+        "urlid": "croatia/medimurje-unification-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the International Recognition of the Republic of Croatia",
+        "description": "Day of the International Recognition of the Republic of Croatia is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/international-recognition-day",
+        "urlid": "croatia/international-recognition-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Peaceful Reintegration of the Croatian Danube Region",
+        "description": "Day of Peaceful Reintegration of the Croatian Danube Region is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-01-15",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/peaceful-reintegration-day",
+        "urlid": "croatia/peaceful-reintegration-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/ramadan-begins",
+        "urlid": "croatia/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Establishment of the National Protection in the Republic of Croatia",
+        "description": "Day of the Establishment of the National Protection in the Republic of Croatia is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-03-15",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/national-protection-foundation-day",
+        "urlid": "croatia/national-protection-foundation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Father’s Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/fathers-day",
+        "urlid": "croatia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Croatia (Zagreb)",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-03-20T04:06:28+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 4,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/easter-sunday",
+        "urlid": "croatia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/easter-monday",
+        "urlid": "croatia/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Bayram",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/ramadan-bajram",
+        "urlid": "croatia/ramadan-bajram",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Deaths of Zrinski and Frankopan",
+        "description": "Day of the Deaths of Zrinski and Frankopan is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-04-30",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/death-anniversary-of-zrinski-frankopan",
+        "urlid": "croatia/death-anniversary-of-zrinski-frankopan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/labor-day",
+        "urlid": "croatia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Day",
+        "description": "Millions of Orthodox Christians around the world often celebrate Easter Sunday at a different time to the date set by many western churches.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-05",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 5
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/orthodox-easter-day",
+        "urlid": "croatia/orthodox-easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Orthodox Easter Monday",
+        "description": "Orthodox Easter Monday is the day after the Orthodox Easter Sunday.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-06",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 6
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/orthodox-easter",
+        "urlid": "croatia/orthodox-easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Europe Day and Victory Day Over Fascism",
+        "description": "Europe Day and Victory Day Over Fascism is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/europe-day",
+        "urlid": "croatia/europe-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mother’s Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/mothers-day",
+        "urlid": "croatia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/corpus-christi",
+        "urlid": "croatia/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Statehood Day",
+        "description": "Statehood Day is a national holiday in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/statehood-day",
+        "urlid": "croatia/statehood-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Kurban Bayram",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/kurban-bajram",
+        "urlid": "croatia/kurban-bajram",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Croatia (Zagreb)",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Antifascist Struggle",
+        "description": "Day of Antifascist Struggle is a national holiday in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-06-22",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/antifascist-struggle-day",
+        "urlid": "croatia/antifascist-struggle-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-06-25",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/independence-day",
+        "urlid": "croatia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a national holiday in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-08-05",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/homeland-thanksgiving-day",
+        "urlid": "croatia/homeland-thanksgiving-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/assumption-of-mary",
+        "urlid": "croatia/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes",
+        "description": "European Day of Remembrance of Victims of Totalitarian and Authoritarian Regimes is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-08-23",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/european-day-of-remembrance",
+        "urlid": "croatia/european-day-of-remembrance",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Remembrance of Missing Persons in the Homeland War",
+        "description": "Day of Remembrance of Missing Persons in the Homeland War is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-08-30",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/day-of-missing-persons",
+        "urlid": "croatia/day-of-missing-persons",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Croatia (Zagreb)",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CEST",
+            "zoneoffset": 3600,
+            "zonedst": 3600,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Unification Day of Istria, Rijeka, Zadar, and the Islands",
+        "description": "Unification Day of Istria, Rijeka, Zadar, and the Islands is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-09-25",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 25
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/day-of-unification",
+        "urlid": "croatia/day-of-unification",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Rosh Hashana",
+        "description": "Rosh Hashana, commonly known as the Jewish New Year, is the first day of Tishrei, the seventh month in the Hebrew calendar.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/rosh-hashana",
+        "urlid": "croatia/rosh-hashana",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Croatian Parliament",
+        "description": "Day of the Croatian Parliament is a observance in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-10-08",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/croatia/day-of-the-croatian-parliament",
+        "urlid": "croatia/day-of-the-croatian-parliament",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Yom Kippur",
+        "description": "Yom Kippur (Day of Atonement) is an important Jewish holiday that centers on the themes of atonement and repentance.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/yom-kippur",
+        "urlid": "croatia/yom-kippur",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/all-saints-day",
+        "urlid": "croatia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Remembrance Day is a national holiday in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-11-18",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/remembrance-day",
+        "urlid": "croatia/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Croatia (Zagreb)",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-12-21T10:20:34+01:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 10,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+01:00",
+            "zoneabb": "CET",
+            "zoneoffset": 3600,
+            "zonedst": 0,
+            "zonetotaloffset": 3600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/christmas",
+        "urlid": "croatia/christmas",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Stephen's Day",
+        "description": "St Stephen's Day is a national holiday in Croatia",
+        "country": {
+          "id": "hr",
+          "name": "Croatia"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/croatia/second-christmas-day",
+        "urlid": "croatia/second-christmas-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

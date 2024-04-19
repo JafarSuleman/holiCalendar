@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/new-year",
+        "urlid": "solomon-islands/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Choiseul Province Day",
+        "description": "Choiseul Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-02-25",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 25
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/choiseul-province-day",
+        "urlid": "solomon-islands/choiseul-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Choiseul Province Day observed",
+        "description": "Choiseul Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-02-26",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 26
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/choiseul-province-day",
+        "urlid": "solomon-islands/choiseul-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Solomon Islands (Honiara)",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-03-20T14:06:28+11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 14,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+11:00",
+            "zoneabb": "SBT",
+            "zoneoffset": 39600,
+            "zonedst": 0,
+            "zonetotaloffset": 39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/good-friday",
+        "urlid": "solomon-islands/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/easter-saturday",
+        "urlid": "solomon-islands/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/easter",
+        "urlid": "solomon-islands/easter",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/easter-monday",
+        "urlid": "solomon-islands/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Whit Monday",
+        "description": "Whit Monday, or Pentecost Monday, is a Christian holiday that falls on the day after Pentecost, which is also known as Whit Sunday or Whitsunday.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-05-20",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 20
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/pentecost-monday",
+        "urlid": "solomon-islands/pentecost-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Isabel Province Day",
+        "description": "Isabel Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-02",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/isabel-province-day",
+        "urlid": "solomon-islands/isabel-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Isabel Province Day",
+        "description": "Isabel Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/isabel-province-day",
+        "urlid": "solomon-islands/isabel-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Temotu Province Day",
+        "description": "Temotu Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-07",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 7
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/temotu-province-day",
+        "urlid": "solomon-islands/temotu-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Temotu Province Day",
+        "description": "Temotu Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-08",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 8
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/temotu-province-day",
+        "urlid": "solomon-islands/temotu-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Solomon Islands (Honiara)",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-21T07:50:59+11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 7,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+11:00",
+            "zoneabb": "SBT",
+            "zoneoffset": 39600,
+            "zonedst": 0,
+            "zonetotaloffset": 39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Central Province Day",
+        "description": "Central Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-28",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 28
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/central-province-day",
+        "urlid": "solomon-islands/central-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Central Province Day",
+        "description": "Central Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/central-province-day",
+        "urlid": "solomon-islands/central-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-07-07",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/independence-day",
+        "urlid": "solomon-islands/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Independence Day",
+        "description": "Independence Day is a public holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/independence-day",
+        "urlid": "solomon-islands/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Rennell and Bellona Province Day",
+        "description": "Rennell and Bellona Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-07-19",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 19
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/rennell-and-bellona-province-day",
+        "urlid": "solomon-islands/rennell-and-bellona-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Rennell and Bellona Province Day",
+        "description": "Rennell and Bellona Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-07-20",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 20
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/rennell-and-bellona-province-day",
+        "urlid": "solomon-islands/rennell-and-bellona-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Gualdalcanal Province Day",
+        "description": "Gualdalcanal Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-08-01",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 1
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/gualdalcanal-province-day",
+        "urlid": "solomon-islands/gualdalcanal-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Makira-Ulawa Province Day",
+        "description": "Makira-Ulawa Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-08-02",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 2
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/makira-ulawa-province-day",
+        "urlid": "solomon-islands/makira-ulawa-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Makira-Ulawa Province Day",
+        "description": "Makira-Ulawa Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-08-03",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 3
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/makira-ulawa-province-day",
+        "urlid": "solomon-islands/makira-ulawa-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Malaita Province Day",
+        "description": "Malaita Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/malaita-province-day",
+        "urlid": "solomon-islands/malaita-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Solomon Islands (Honiara)",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-09-22T23:43:33+11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 23,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+11:00",
+            "zoneabb": "SBT",
+            "zoneoffset": 39600,
+            "zonedst": 0,
+            "zonetotaloffset": 39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Western Province Day",
+        "description": "Western Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-12-06",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 6
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/western-province-day",
+        "urlid": "solomon-islands/western-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Western Province Day",
+        "description": "Western Province Day is a local holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-12-07",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 7
+          }
+        },
+        "type": [
+          "Local holiday"
+        ],
+        "primary_type": "Local holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/western-province-day",
+        "urlid": "solomon-islands/western-province-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Solomon Islands (Honiara)",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-12-21T20:20:34+11:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 20,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+11:00",
+            "zoneabb": "SBT",
+            "zoneoffset": 39600,
+            "zonedst": 0,
+            "zonetotaloffset": 39600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/christmas-day",
+        "urlid": "solomon-islands/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of Thanksgiving",
+        "description": "National Day of Thanksgiving is a public holiday in Solomon Islands",
+        "country": {
+          "id": "sb",
+          "name": "Solomon Islands"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/solomon-islands/national-day-of-thanksgiving",
+        "urlid": "solomon-islands/national-day-of-thanksgiving",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

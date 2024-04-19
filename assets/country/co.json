@@ -1,0 +1,1134 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/new-year-day",
+        "urlid": "colombia/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/the-three-wise-men-day",
+        "urlid": "colombia/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Epiphany",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-01-08",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/the-three-wise-men-day",
+        "urlid": "colombia/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Women's Day",
+        "description": "Women's Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/womens-day",
+        "urlid": "colombia/womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Joseph's Day",
+        "description": "Saint Joseph's Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/saint-josephs-day",
+        "urlid": "colombia/saint-josephs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Colombia (Bogota)",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-19T22:06:28-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 22,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "COT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/colombia/palm-sunday",
+        "urlid": "colombia/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Joseph's Day",
+        "description": "Saint Joseph's Day is a national holiday in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/saint-josephs-day",
+        "urlid": "colombia/saint-josephs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/colombia/maundy-thursday",
+        "urlid": "colombia/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/colombia/good-friday",
+        "urlid": "colombia/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/colombia/easter-sunday",
+        "urlid": "colombia/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Language Day",
+        "description": "Language Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-04-23",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 23
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/lenguage-day",
+        "urlid": "colombia/lenguage-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Secretaries' Day",
+        "description": "Secretaries' Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-04-26",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/secretarys-day",
+        "urlid": "colombia/secretarys-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Children's Day",
+        "description": "Children's Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-04-27",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/childrens-day",
+        "urlid": "colombia/childrens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Trees",
+        "description": "Day of Trees is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-04-29",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/trees-day",
+        "urlid": "colombia/trees-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/labor-day",
+        "urlid": "colombia/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/mothers-day",
+        "urlid": "colombia/mothers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-05-13",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/ascension-day",
+        "urlid": "colombia/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teacher's Day",
+        "description": "Teacher's Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/teachers-day",
+        "urlid": "colombia/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/corpus-christi",
+        "urlid": "colombia/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-06-03",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/corpus-christi",
+        "urlid": "colombia/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sacred Heart",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/sacred-heart",
+        "urlid": "colombia/sacred-heart",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/fathers-day",
+        "urlid": "colombia/fathers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Colombia (Bogota)",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-06-20T15:50:59-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 15,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "COT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saint Peter and Saint Paul",
+        "description": "Feast of Saint Peter and Saint Paul is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/saint-peter-and-saint-paul",
+        "urlid": "colombia/saint-peter-and-saint-paul",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of Saint Peter and Saint Paul",
+        "description": "Feast of Saint Peter and Saint Paul is a national holiday in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/saint-peter-and-saint-paul",
+        "urlid": "colombia/saint-peter-and-saint-paul",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-07-20",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/independence-day",
+        "urlid": "colombia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Battle of Boyacá Day",
+        "description": "Battle of Boyacá Day is a national holiday in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-08-07",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/battle-of-boyaca",
+        "urlid": "colombia/battle-of-boyaca",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/assumption-of-mary",
+        "urlid": "colombia/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/assumption-of-mary",
+        "urlid": "colombia/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-09-21",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 21
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/saint-valentines-day",
+        "urlid": "colombia/saint-valentines-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Colombia (Bogota)",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-09-22T07:43:33-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 7,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "COT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Columbus Day",
+        "description": "Columbus Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/columbus-day",
+        "urlid": "colombia/columbus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Columbus Day",
+        "description": "Columbus Day is a national holiday in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-10-14",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/columbus-day",
+        "urlid": "colombia/columbus-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/halloween",
+        "urlid": "colombia/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/all-saints-day",
+        "urlid": "colombia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints' Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/all-saints-day",
+        "urlid": "colombia/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence of Cartagena",
+        "description": "Independence of Cartagena is a national holiday in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-11-11",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/independence-of-cartagena",
+        "urlid": "colombia/independence-of-cartagena",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Colombian Women's Day",
+        "description": "Colombian Women's Day is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-11-14",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/colombian-woman-day",
+        "urlid": "colombia/colombian-woman-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eve of the Feast of the Immaculate Conception",
+        "description": "Eve of the Feast of the Immaculate Conception is a observance in Colombia",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-12-07",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 7
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/immaculate-conception-eve",
+        "urlid": "colombia/immaculate-conception-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/colombia/immaculate-conception",
+        "urlid": "colombia/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Colombia (Bogota)",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-12-21T04:20:34-05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 4,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-05:00",
+            "zoneabb": "COT",
+            "zoneoffset": -18000,
+            "zonedst": 0,
+            "zonetotaloffset": -18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/christmas-eve",
+        "urlid": "colombia/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/colombia/christmas-day",
+        "urlid": "colombia/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "co",
+          "name": "Colombia"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/colombia/new-years-eve",
+        "urlid": "colombia/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

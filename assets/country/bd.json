@@ -1,0 +1,1586 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/new-year-day",
+        "urlid": "bangladesh/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bangabandhu Homecoming Day",
+        "description": "Bangabandhu Homecoming Day is a observance in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-01-10",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 10
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/bangabandhu-homecoming-day",
+        "urlid": "bangladesh/bangabandhu-homecoming-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shab-e-Meraj",
+        "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-07",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 7
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/shab-e-meraj",
+        "urlid": "bangladesh/shab-e-meraj",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saraswati Puja",
+        "description": "Saraswati Puja is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/sri-panchami",
+        "urlid": "bangladesh/sri-panchami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ash Wednesday",
+        "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/ash-wednesday",
+        "urlid": "bangladesh/ash-wednesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Valentine's Day",
+        "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/valentine-day",
+        "urlid": "bangladesh/valentine-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Language Martyrs' Day",
+        "description": "Language Martyrs' Day is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-21",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/language-martyrs-day",
+        "urlid": "bangladesh/language-martyrs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maghi Purnima",
+        "description": "Maghi Purnima is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-24",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 24
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/magha-purnima",
+        "urlid": "bangladesh/magha-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shab e-Barat",
+        "description": "Shab e-Barat is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-02-26",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/shab-e-barat",
+        "urlid": "bangladesh/shab-e-barat",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Flag Day",
+        "description": "National Flag Day is a observance in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-02",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 2
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/national-flag-day",
+        "urlid": "bangladesh/national-flag-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "Hinduism",
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/hindu-maha-shivaratri",
+        "urlid": "bangladesh/hindu-maha-shivaratri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/ramadan-begins",
+        "urlid": "bangladesh/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sheikh Mujibur Rahman’s birthday",
+        "description": "Sheikh Mujibur Rahman’s birthday is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-17",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/sheikh-mujibur-rahman-birthday",
+        "urlid": "bangladesh/sheikh-mujibur-rahman-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Bangladesh (Dhaka)",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-20T09:06:28+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 9,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BST",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Doljatra",
+        "description": "Doljatra is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/doljatra",
+        "urlid": "bangladesh/doljatra",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holi",
+        "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-25",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 25
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/hindu-holi",
+        "urlid": "bangladesh/hindu-holi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-26",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/independence-day",
+        "urlid": "bangladesh/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/maundy-thursday",
+        "urlid": "bangladesh/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/good-friday",
+        "urlid": "bangladesh/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/holy-saturday",
+        "urlid": "bangladesh/holy-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Day",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/easter-day",
+        "urlid": "bangladesh/easter-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/easter-monday",
+        "urlid": "bangladesh/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Shab-e-qadr",
+        "description": "Laylat al-Qadr commmemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-05",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/shab-e-qadr",
+        "urlid": "bangladesh/shab-e-qadr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid ul-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-fitr",
+        "urlid": "bangladesh/eid-ul-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid ul-Fitr Holiday",
+        "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-11",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-fitr-day-2",
+        "urlid": "bangladesh/eid-ul-fitr-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid ul-Fitr Holiday",
+        "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-12",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-fitr-day-3",
+        "urlid": "bangladesh/eid-ul-fitr-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chaitra Sankranti",
+        "description": "Chaitra Sankranti is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/chaitra-sankranti",
+        "urlid": "bangladesh/chaitra-sankranti",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid ul-Fitr Holiday",
+        "description": "Eid ul-Fitr Holiday is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-fitr-day-4",
+        "urlid": "bangladesh/eid-ul-fitr-day-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Bengali New Year",
+        "description": "Bengali New Year is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-04-14",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/bengali-new-year",
+        "urlid": "bangladesh/bengali-new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/may-day",
+        "urlid": "bangladesh/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mothers' Day",
+        "description": "Mother’s Day celebrates the achievements and efforts of mothers and mother figures.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-05-12",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/mother-day",
+        "urlid": "bangladesh/mother-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha Purnima/Vesak",
+        "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-05-23",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/buddha-purnima",
+        "urlid": "bangladesh/buddha-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fathers' Day",
+        "description": "Father’s Day celebrates fatherhood and male parenting on different dates worldwide.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-06-16",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 16
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/father-day",
+        "urlid": "bangladesh/father-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-adha",
+        "urlid": "bangladesh/eid-ul-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-adha-holiday-1",
+        "urlid": "bangladesh/eid-ul-adha-holiday-1",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-06-19",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-adha-holiday-2",
+        "urlid": "bangladesh/eid-ul-adha-holiday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha Holiday",
+        "description": "Eid al-Adha Holiday is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-06-20",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-ul-adha-holiday-3",
+        "urlid": "bangladesh/eid-ul-adha-holiday-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Bangladesh (Dhaka)",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-06-21T02:50:59+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 2,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BST",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "July 1 Bank Holiday",
+        "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/july-1-bank-holiday",
+        "urlid": "bangladesh/july-1-bank-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Muharram",
+        "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-07-08",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/muharram",
+        "urlid": "bangladesh/muharram",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashura",
+        "description": "Ashura is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-07-17",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/ashura",
+        "urlid": "bangladesh/ashura",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ashari Purnima",
+        "description": "Ashari Purnima is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-07-20",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 20
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/ashari-purnima",
+        "urlid": "bangladesh/ashari-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Mourning Day",
+        "description": "National Mourning Day is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/national-mourning-day",
+        "urlid": "bangladesh/national-mourning-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Raksha Bandhan",
+        "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/hindu-raksha-bandhan",
+        "urlid": "bangladesh/hindu-raksha-bandhan",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Janmashtami",
+        "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-08-26",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 26
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/janmashtami",
+        "urlid": "bangladesh/janmashtami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Akhari Chahar Somba",
+        "description": "Akhari Chahar Somba is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-08-31",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 31
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/akhari-chahar-somba",
+        "urlid": "bangladesh/akhari-chahar-somba",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "description": "Ganesh Chaturthi is the great Ganesha festival that celebrates the birthday of Lord Ganesha during the Hindu Month of Bhadra, which usually falls between mid-August and mid-September. It is also known as Vinayaka Chaturthi and can last up to 10 days.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/hindu-ganesh-chaturthi",
+        "urlid": "bangladesh/hindu-ganesh-chaturthi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid e-Milad-un Nabi",
+        "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-09-16",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/eid-e-milad-un-nabi",
+        "urlid": "bangladesh/eid-e-milad-un-nabi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Madhu Purnima",
+        "description": "Madhu Purnima is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-09-18",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 18
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/modhu-purnima",
+        "urlid": "bangladesh/modhu-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Bangladesh (Dhaka)",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-09-22T18:43:33+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 18,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BST",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "First Day of Navaratri",
+        "description": "First Day of Navaratri is a Hindu holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "Hinduism"
+        ],
+        "primary_type": "Hindu Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/hindu-navaratri",
+        "urlid": "bangladesh/hindu-navaratri",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mahanabami",
+        "description": "Mahanabami is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/mahanabami",
+        "urlid": "bangladesh/mahanabami",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Durga Puja",
+        "description": "Durga Puja is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-13",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 13
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/durga-puja",
+        "urlid": "bangladesh/durga-puja",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Fateha-i-Yajdaham",
+        "description": "Fateha-i-Yajdaham is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-15",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 15
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/fateha-i-yajdaham",
+        "urlid": "bangladesh/fateha-i-yajdaham",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lakshmi Puja",
+        "description": "Lakshmi Puja is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-16",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 16
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/lakshmi-puja",
+        "urlid": "bangladesh/lakshmi-puja",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Prabarana Purnima",
+        "description": "Prabarana Purnima is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-17",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 17
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/prabarana-purnima",
+        "urlid": "bangladesh/prabarana-purnima",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Halloween",
+        "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-10-31",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/halloween",
+        "urlid": "bangladesh/halloween",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sri Shayama Puja",
+        "description": "Sri Shayama Puja is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "Optional holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/sri-shayama-puja",
+        "urlid": "bangladesh/sri-shayama-puja",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a government holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-12-16",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/victory-day",
+        "urlid": "bangladesh/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Bangladesh (Dhaka)",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-12-21T15:20:34+06:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 15,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+06:00",
+            "zoneabb": "BST",
+            "zoneoffset": 21600,
+            "zonedst": 0,
+            "zonetotaloffset": 21600
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/christmas-eve",
+        "urlid": "bangladesh/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Government Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/christmas-day",
+        "urlid": "bangladesh/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a optional holiday in Bangladesh",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Optional Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/boxing-day",
+        "urlid": "bangladesh/boxing-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "bd",
+          "name": "Bangladesh"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank Holiday",
+        "canonical_url": "https://calendarific.com/holiday/bangladesh/new-year-eve",
+        "urlid": "bangladesh/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

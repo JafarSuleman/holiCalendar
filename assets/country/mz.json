@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/new-year",
+        "urlid": "mozambique/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mozambican Heroes Day",
+        "description": "Mozambican Heroes Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-02-03",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/mozambican-heroes-day",
+        "urlid": "mozambique/mozambican-heroes-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Mozambique (Maputo)",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-03-20T05:06:28+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 5,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/good-friday",
+        "urlid": "mozambique/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mozambican Woman's Day",
+        "description": "Mozambican Woman's Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-04-07",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/mozambican-woman-day",
+        "urlid": "mozambique/mozambican-woman-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Mozambican Woman's Day observed",
+        "description": "Mozambican Woman's Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-04-08",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/mozambican-woman-day",
+        "urlid": "mozambique/mozambican-woman-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/may-day",
+        "urlid": "mozambique/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Mozambique (Maputo)",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-06-20T22:50:59+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 22,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-06-25",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/independence-day",
+        "urlid": "mozambique/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory Day",
+        "description": "Victory Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-09-07",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/victory-day",
+        "urlid": "mozambique/victory-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Mozambique (Maputo)",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-09-22T14:43:33+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 14,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Armed Forces Day",
+        "description": "Armed Forces Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-09-25",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/armed-forces-day",
+        "urlid": "mozambique/armed-forces-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Peace and Reconciliation Day",
+        "description": "Peace and Reconciliation Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-10-04",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/peace-reconciliation-day",
+        "urlid": "mozambique/peace-reconciliation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Mozambique (Maputo)",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-12-21T11:20:34+02:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 11,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+02:00",
+            "zoneabb": "CAT",
+            "zoneoffset": 7200,
+            "zonedst": 0,
+            "zonetotaloffset": 7200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Family Day",
+        "description": "Family Day is a public holiday in Mozambique",
+        "country": {
+          "id": "mz",
+          "name": "Mozambique"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/mozambique/family-day",
+        "urlid": "mozambique/family-day",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

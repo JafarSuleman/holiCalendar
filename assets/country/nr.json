@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/new-year",
+        "urlid": "nauru/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-01-31",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/independence-day",
+        "urlid": "nauru/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day Holiday",
+        "description": "Independence Day Holiday is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-02-01",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/independence-day-holiday",
+        "urlid": "nauru/independence-day-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/international-womens-day",
+        "urlid": "nauru/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Nauru (Yaren)",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-03-20T15:06:28+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 15,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "NRT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/good-friday",
+        "urlid": "nauru/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Monday",
+        "description": "Easter Monday is the day after Easter Sunday.",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/easter-monday",
+        "urlid": "nauru/easter-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Tuesday",
+        "description": "Easter Tuesday is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-04-02",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/easter-tuesday",
+        "urlid": "nauru/easter-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-05-17",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/constitution-day",
+        "urlid": "nauru/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Nauru (Yaren)",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-06-21T08:50:59+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 8,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "NRT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "RONPhos Handover",
+        "description": "RONPhos Handover is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-07-01",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/rohpos-handover",
+        "urlid": "nauru/rohpos-handover",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Tribes",
+        "description": "Day of the Tribes is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-08-19",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/day-of-the-tribes",
+        "urlid": "nauru/day-of-the-tribes",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Nauru (Yaren)",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-09-23T00:43:33+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 23,
+            "hour": 0,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "NRT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Sir Hammer DeRoburt Day",
+        "description": "Sir Hammer DeRoburt Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-09-25",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/sir-hammer-deroburt-day",
+        "urlid": "nauru/sir-hammer-deroburt-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Angam Day",
+        "description": "Angam Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-10-26",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/angam-day",
+        "urlid": "nauru/angam-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day off for Angam Day",
+        "description": "Angam Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-10-28",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/angam-day",
+        "urlid": "nauru/angam-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Nauru (Yaren)",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-12-21T21:20:34+12:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 21,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+12:00",
+            "zoneabb": "NRT",
+            "zoneoffset": 43200,
+            "zonedst": 0,
+            "zonetotaloffset": 43200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/christmas-day",
+        "urlid": "nauru/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Boxing Day",
+        "description": "Boxing Day is a public holiday in Nauru",
+        "country": {
+          "id": "nr",
+          "name": "Nauru"
+        },
+        "date": {
+          "iso": "2024-12-26",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/nauru/second-day-of-christmas",
+        "urlid": "nauru/second-day-of-christmas",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

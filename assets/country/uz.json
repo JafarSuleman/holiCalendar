@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/new-year",
+        "urlid": "uzbekistan/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Defenders of the Motherland Day",
+        "description": "Defenders of the Motherland Day is a observance in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-01-14",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 14
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/defenders-of-motherland-day",
+        "urlid": "uzbekistan/defenders-of-motherland-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a public holiday in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/international-womens-day",
+        "urlid": "uzbekistan/international-womens-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ramadan Start",
+        "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-03-11",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/ramadan-begins",
+        "urlid": "uzbekistan/ramadan-begins",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Uzbekistan (Tashkent)",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-03-20T08:06:28+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 8,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "UZT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Nowruz",
+        "description": "Nowruz is a public holiday in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-03-21",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 21
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/nowruz",
+        "urlid": "uzbekistan/nowruz",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Fitr",
+        "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-04-10",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/eid-al-fitr",
+        "urlid": "uzbekistan/eid-al-fitr",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Remembrance Day is a public holiday in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/remembrance-day",
+        "urlid": "uzbekistan/remembrance-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Eid al-Adha",
+        "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-06-17",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 17
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/eid-al-adha",
+        "urlid": "uzbekistan/eid-al-adha",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Uzbekistan (Tashkent)",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-06-21T01:50:59+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 1,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "UZT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-09-01",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/independence-day",
+        "urlid": "uzbekistan/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Uzbekistan (Tashkent)",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-09-22T17:43:33+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 17,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "UZT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Teachers Day",
+        "description": "Teachers Day is a public holiday in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/teachers-day",
+        "urlid": "uzbekistan/teachers-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitution Day",
+        "description": "Constitution Day is a public holiday in Uzbekistan",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/uzbekistan/constitution-day",
+        "urlid": "uzbekistan/constitution-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Uzbekistan (Tashkent)",
+        "country": {
+          "id": "uz",
+          "name": "Uzbekistan"
+        },
+        "date": {
+          "iso": "2024-12-21T14:20:34+05:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 14,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+05:00",
+            "zoneabb": "UZT",
+            "zoneoffset": 18000,
+            "zonedst": 0,
+            "zonetotaloffset": 18000
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

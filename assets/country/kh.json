@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/new-year",
+        "urlid": "cambodia/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Victory over Genocide Day",
+        "description": "Victory over Genocide Day is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-01-07",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 7
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/victory-over-genocide-day",
+        "urlid": "cambodia/victory-over-genocide-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "International Women Day",
+        "description": "International Women Day is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/international-women-day",
+        "urlid": "cambodia/international-women-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Cambodia (Phnom Penh)",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-03-20T10:06:28+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 10,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Khmer New Year Day (Day 1)",
+        "description": "Khmer New Year Day (Day 1) is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-04-13",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/khmer-new-year-day",
+        "urlid": "cambodia/khmer-new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Khmer New Year Day (Day 2)",
+        "description": "Khmer New Year Day (Day 2) is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-04-14",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/khmer-new-year-day-2",
+        "urlid": "cambodia/khmer-new-year-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Khmer New Year Day (Day 3)",
+        "description": "Khmer New Year Day (Day 3) is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-04-15",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/khmer-new-year-day-3",
+        "urlid": "cambodia/khmer-new-year-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Khmer New Year Day (Day 4)",
+        "description": "Khmer New Year Day (Day 4) is a postponed/working day in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-04-16",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Postponed/Working Day",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/khmer-new-year-day-4",
+        "urlid": "cambodia/khmer-new-year-day-4",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labour Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/may-day",
+        "urlid": "cambodia/may-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Birthday",
+        "description": "King's Birthday is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-05-14",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/kings-birthday-2",
+        "urlid": "cambodia/kings-birthday-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Visak Bochea Day",
+        "description": "Visak Bochea Day is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-05-22",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 22
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/visak-bochea-day",
+        "urlid": "cambodia/visak-bochea-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Royal Plowing Ceremony",
+        "description": "Royal Plowing Ceremony is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-05-26",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 26
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/royal-plowing-ceremony",
+        "urlid": "cambodia/royal-plowing-ceremony",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Mother's Birthday",
+        "description": "King's Mother's Birthday is a observance in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-06-18",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/kings-mothers-birthday",
+        "urlid": "cambodia/kings-mothers-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Cambodia (Phnom Penh)",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-06-21T03:50:59+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 3,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Cambodia (Phnom Penh)",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-09-22T19:43:33+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 19,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Constitutional Day",
+        "description": "Constitutional Day is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-09-24",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/constitutional-day",
+        "urlid": "cambodia/constitutional-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pchum Ben Festival",
+        "description": "Pchum Ben Festival is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/pchum-ben-day",
+        "urlid": "cambodia/pchum-ben-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pchum Ben Festival",
+        "description": "Pchum Ben Festival is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-10-02",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/pchum-ben-day-2",
+        "urlid": "cambodia/pchum-ben-day-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Pchum Ben Festival",
+        "description": "Pchum Ben Festival is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-10-03",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 3
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/pchum-ben-day-3",
+        "urlid": "cambodia/pchum-ben-day-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Commemoration Day of King's Father",
+        "description": "Commemoration Day of King's Father is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-10-15",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/commemoration-day-of-kings-father",
+        "urlid": "cambodia/commemoration-day-of-kings-father",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "King's Coronation Day",
+        "description": "King's Coronation Day is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-10-29",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/kings-coronation-day",
+        "urlid": "cambodia/kings-coronation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-11-09",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/independence-day",
+        "urlid": "cambodia/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Water Festival Ceremony (Day 1)",
+        "description": "Water Festival Ceremony (Day 1) is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-11-14",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/water-festival-ceremony",
+        "urlid": "cambodia/water-festival-ceremony",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Water Festival Ceremony (Day 2)",
+        "description": "Water Festival Ceremony (Day 2) is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-11-15",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/water-festival-ceremony-2",
+        "urlid": "cambodia/water-festival-ceremony-2",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Water Festival Ceremony (Day 3)",
+        "description": "Water Festival Ceremony (Day 3) is a public holiday in Cambodia",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-11-16",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 16
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/cambodia/water-festival-ceremony-3",
+        "urlid": "cambodia/water-festival-ceremony-3",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Cambodia (Phnom Penh)",
+        "country": {
+          "id": "kh",
+          "name": "Cambodia"
+        },
+        "date": {
+          "iso": "2024-12-21T16:20:34+07:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 16,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+07:00",
+            "zoneabb": "ICT",
+            "zoneoffset": 25200,
+            "zonedst": 0,
+            "zonetotaloffset": 25200
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

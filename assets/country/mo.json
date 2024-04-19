@@ -1,0 +1,851 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/new-year",
+        "urlid": "macau/new-year",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Eve",
+        "description": "Lunar New Year Eve is a half day for public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-02-09",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Half Day for Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/lunar-new-years-eve",
+        "urlid": "macau/lunar-new-years-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year (First Day)",
+        "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-02-10",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/lunar-new-years-day-one",
+        "urlid": "macau/lunar-new-years-day-one",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year (Second Day)",
+        "description": "Lunar New Year (Second Day) is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-02-11",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/lunar-new-years-day-two",
+        "urlid": "macau/lunar-new-years-day-two",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year (Third Day)",
+        "description": "Lunar New Year (Third Day) is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/lunar-new-years-day-three",
+        "urlid": "macau/lunar-new-years-day-three",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/lunar-new-years-day-one-compensatory-holiday",
+        "urlid": "macau/lunar-new-years-day-one-compensatory-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Lunar New Year Holiday",
+        "description": "Lunar New Year Holiday is a public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-02-14",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 14
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/lunar-new-years-day-two-compensatory-holiday",
+        "urlid": "macau/lunar-new-years-day-two-compensatory-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Macau (Macau)",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-03-20T11:06:28+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 20,
+            "hour": 11,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/good-friday",
+        "urlid": "macau/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday",
+        "description": "Holy Saturday is the day before Easter Sunday.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-03-30",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 30
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/easter-saturday",
+        "urlid": "macau/easter-saturday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Holy Saturday Holiday",
+        "description": "Holy Saturday Holiday is a public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-04-01",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/easter-saturday-holiday",
+        "urlid": "macau/easter-saturday-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Cheng Ming Festival",
+        "description": "Cheng Ming Festival is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-04-04",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/cheng-ming-festival",
+        "urlid": "macau/cheng-ming-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/labor-day",
+        "urlid": "macau/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Buddha's Birthday",
+        "description": "Buddha's Birthday is a public holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-05-15",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 15
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/buddhas-birthday",
+        "urlid": "macau/buddhas-birthday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dragon Boat Festival",
+        "description": "Dragon Boat Festival is a public holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-06-10",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 10
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/dragon-boat-festival",
+        "urlid": "macau/dragon-boat-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Macau (Macau)",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-06-21T04:50:59+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 21,
+            "hour": 4,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after the Mid-Autumn-Festival",
+        "description": "Day after the Mid-Autumn-Festival is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-09-18",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 18
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/day-after-mid-autumn-festival",
+        "urlid": "macau/day-after-mid-autumn-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Macau (Macau)",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-09-22T20:43:33+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 20,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Day of the People's Republic of China",
+        "description": "National Day of the People's Republic of China is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-10-01",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/national-day-peoples-republic-of-china",
+        "urlid": "macau/national-day-peoples-republic-of-china",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day after PRC National Day",
+        "description": "Day after PRC National Day is a public holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-10-02",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/day-after-national-day-peoples-republic-of-china",
+        "urlid": "macau/day-after-national-day-peoples-republic-of-china",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Chong Yeung Festival (Festival of Ancestors)",
+        "description": "Chong Yeung Festival (Festival of Ancestors) is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-10-11",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 11
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/chong-yeung-festival",
+        "urlid": "macau/chong-yeung-festival",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Soul's Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/all-souls-day",
+        "urlid": "macau/all-souls-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Soul's Day Holiday",
+        "description": "All Soul's Day Holiday is a public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-11-04",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 4
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/all-souls-day-holiday",
+        "urlid": "macau/all-souls-day-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/immaculate-conception",
+        "urlid": "macau/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception Holiday",
+        "description": "Feast of the Immaculate Conception Holiday is a public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-09",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 9
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/immaculate-conception-holiday",
+        "urlid": "macau/immaculate-conception-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Macau S.A.R. Establishment Day",
+        "description": "Macau S.A.R. Establishment Day is a obligatory holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-20",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 20
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Obligatory Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/macau-sar-establishment-day",
+        "urlid": "macau/macau-sar-establishment-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Macau (Macau)",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Winter Solstice",
+        "description": "Winter Solstice is a public holiday in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-21T17:20:34+08:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 17,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "+08:00",
+            "zoneabb": "CST",
+            "zoneoffset": 28800,
+            "zonedst": 0,
+            "zonetotaloffset": 28800
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/winter-solstice",
+        "urlid": "macau/winter-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Winter Solstice Holiday",
+        "description": "Winter Solstice Holiday is a public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-23",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 23
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/winter-solstice-holiday",
+        "urlid": "macau/winter-solstice-holiday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/christmas-eve",
+        "urlid": "macau/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Public Holiday",
+        "canonical_url": "https://calendarific.com/holiday/macau/christmas-day",
+        "urlid": "macau/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/macau/new-year-eve",
+        "urlid": "macau/new-year-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve Afternoon",
+        "description": "New Year's Eve Afternoon is a half day for public employees in Macau",
+        "country": {
+          "id": "mo",
+          "name": "Macau"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Half Day for Public Employees",
+        "canonical_url": "https://calendarific.com/holiday/macau/new-year-eve-afternoon",
+        "urlid": "macau/new-year-eve-afternoon",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}

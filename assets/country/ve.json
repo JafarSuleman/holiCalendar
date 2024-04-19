@@ -1,0 +1,919 @@
+{
+  "meta": {
+    "code": 200
+  },
+  "response": {
+    "holidays": [
+      {
+        "name": "New Year's Day",
+        "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-01-01",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/new-year-day",
+        "urlid": "venezuela/new-year-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "The Three Wise Men Day",
+        "description": "Epiphany is a Christian holiday celebrated globally on January 6 each year. It commemorates two events recorded in the Bible: the three wise men’s visit to baby Jesus; and Jesus’ baptism.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-01-06",
+          "datetime": {
+            "year": 2024,
+            "month": 1,
+            "day": 6
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/the-three-wise-men-day",
+        "urlid": "venezuela/the-three-wise-men-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Monday",
+        "description": "Carnival / Shrove Monday is a national holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-02-12",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/carnival-monday",
+        "urlid": "venezuela/carnival-monday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carnival / Shrove Tuesday / Pancake Day",
+        "description": "Shrove Tuesday is a religious holiday before the fasting period of Lent. It is celebrated by eating pancakes and holding Carnival parades.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-02-13",
+          "datetime": {
+            "year": 2024,
+            "month": 2,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/carnival-tuesday",
+        "urlid": "venezuela/carnival-tuesday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Joseph's Day",
+        "description": "Saint Joseph's Day is a bank holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-03-19",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/saint-josephs-day",
+        "urlid": "venezuela/saint-josephs-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "March Equinox",
+        "description": "March Equinox in Venezuela (Caracas)",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-03-19T23:06:28-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 19,
+            "hour": 23,
+            "minute": 6,
+            "second": 28
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "VET",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/vernal-equinox",
+        "urlid": "seasons/vernal-equinox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Palm Sunday",
+        "description": "Palm Sunday is a Christian feast that commemorates Jesus Christ’s entry into Jerusalem. It is also the start of Holy Week.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-03-24",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 24
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/palm-sunday",
+        "urlid": "venezuela/palm-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Maundy Thursday",
+        "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-03-28",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 28
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/maundy-thursday",
+        "urlid": "venezuela/maundy-thursday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Good Friday",
+        "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-03-29",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 29
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/good-friday",
+        "urlid": "venezuela/good-friday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Easter Sunday",
+        "description": "Easter Sunday commemorates Jesus Christ’s resurrection, according to Christian belief.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-03-31",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 31
+          }
+        },
+        "type": [
+          "Observance",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/easter-sunday",
+        "urlid": "venezuela/easter-sunday",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Declaration of Independence",
+        "description": "Declaration of Independence is a national holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-04-19",
+          "datetime": {
+            "year": 2024,
+            "month": 4,
+            "day": 19
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/begining-of-the-independence-movement",
+        "urlid": "venezuela/begining-of-the-independence-movement",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Labor Day / May Day",
+        "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-05-01",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/labor-day",
+        "urlid": "venezuela/labor-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Ascension Day",
+        "description": "Ascension Day is the 40th day of Easter. It is a religious holiday that commemorates the ascension of Jesus Christ into heaven.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-05-09",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 9
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/ascension-day",
+        "urlid": "venezuela/ascension-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Corpus Christi",
+        "description": "Corpus Christi is a Christian feast in honor of the Holy Eucharist.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-05-30",
+          "datetime": {
+            "year": 2024,
+            "month": 5,
+            "day": 30
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/corpus-christi",
+        "urlid": "venezuela/corpus-christi",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "St Anthony's Day",
+        "description": "St Anthony's Day is a bank holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-06-13",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 13
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/st-anthonys-day",
+        "urlid": "venezuela/st-anthonys-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "June Solstice",
+        "description": "June Solstice in Venezuela (Caracas)",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-06-20T16:50:59-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 20,
+            "hour": 16,
+            "minute": 50,
+            "second": 59
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "VET",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/june-solstice",
+        "urlid": "seasons/june-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Carabobo Battle",
+        "description": "Carabobo Battle is a national holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-06-24",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/battle-of-carabobo",
+        "urlid": "venezuela/battle-of-carabobo",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Saint Peter and Saint Paul Holiday",
+        "description": "Saint Peter and Saint Paul Holiday is a bank holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-06-29",
+          "datetime": {
+            "year": 2024,
+            "month": 6,
+            "day": 29
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/saint-peter-and-saint-paul",
+        "urlid": "venezuela/saint-peter-and-saint-paul",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Independence Day",
+        "description": "Independence Day is a national holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-07-05",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 5
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/independence-day",
+        "urlid": "venezuela/independence-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Simón Bolívar's Birthday",
+        "description": "Simón Bolívar's Birthday is a national holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-07-24",
+          "datetime": {
+            "year": 2024,
+            "month": 7,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/simon-bolivar-birthdays-memorial",
+        "urlid": "venezuela/simon-bolivar-birthdays-memorial",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Flag's Day",
+        "description": "Flag's Day is a observance in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-08-03",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 3
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/flags-day",
+        "urlid": "venezuela/flags-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "National Guard's Day",
+        "description": "National Guard's Day is a observance in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-08-04",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 4
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/national-guards-day",
+        "urlid": "venezuela/national-guards-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Assumption of Mary",
+        "description": "The Christian feast of the Assumption of Mary is on or around Aug 15 in most countries. A few celebrate Assumption Day at other times of the year.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-08-15",
+          "datetime": {
+            "year": 2024,
+            "month": 8,
+            "day": 15
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/assumption-of-mary",
+        "urlid": "venezuela/assumption-of-mary",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Our Lady of Coromoto",
+        "description": "Our Lady of Coromoto is a observance in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-09-11",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 11
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/our-lady-of-coromoto",
+        "urlid": "venezuela/our-lady-of-coromoto",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "September Equinox",
+        "description": "September Equinox in Venezuela (Caracas)",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-09-22T08:43:33-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 22,
+            "hour": 8,
+            "minute": 43,
+            "second": 33
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "VET",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/autumnal-equniox",
+        "urlid": "seasons/autumnal-equniox",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of Indigenous Resistance",
+        "description": "Day of Indigenous Resistance is a national holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-10-12",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 12
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/indigenous-resistances-day",
+        "urlid": "venezuela/indigenous-resistances-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Dr. José Gregorio Hernández Day",
+        "description": "Dr. José Gregorio Hernández Day is a observance in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-10-26",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 26
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/jose-gregorio-hernandez-day",
+        "urlid": "venezuela/jose-gregorio-hernandez-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Saints Day",
+        "description": "Many churches honor all their saints on All Saints' Day, also known as All Hallows' Day.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-11-01",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 1
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/all-saints-day",
+        "urlid": "venezuela/all-saints-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "All Souls Day",
+        "description": "All Souls’ Day falls on November 2 each year. It is a day of alms giving and prayers for the dead.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-11-02",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 2
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/all-soulss-day",
+        "urlid": "venezuela/all-soulss-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Day of the Virgin of the Rosary of Chiquinquirá",
+        "description": "Day of the Virgin of the Rosary of Chiquinquirá is a bank holiday in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-11-18",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 18
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/virgin-rosary-chiquinquira",
+        "urlid": "venezuela/virgin-rosary-chiquinquira",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Aviation Day",
+        "description": "Aviation Day is a observance in Venezuela",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-11-27",
+          "datetime": {
+            "year": 2024,
+            "month": 11,
+            "day": 27
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/aviation-day",
+        "urlid": "venezuela/aviation-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Feast of the Immaculate Conception",
+        "description": "The Feast of the Immaculate Conception is a Christian observance on December 8 each year.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-12-08",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 8
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Bank holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/immaculate-conception",
+        "urlid": "venezuela/immaculate-conception",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "December Solstice",
+        "description": "December Solstice in Venezuela (Caracas)",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-12-21T05:20:34-04:00",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 21,
+            "hour": 5,
+            "minute": 20,
+            "second": 34
+          },
+          "timezone": {
+            "offset": "-04:00",
+            "zoneabb": "VET",
+            "zoneoffset": -14400,
+            "zonedst": 0,
+            "zonetotaloffset": -14400
+          }
+        },
+        "type": [
+          "Season"
+        ],
+        "primary_type": "Season",
+        "canonical_url": "https://calendarific.com/holiday/seasons/december-solstice",
+        "urlid": "seasons/december-solstice",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Eve",
+        "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-12-24",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 24
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/christmas-eve",
+        "urlid": "venezuela/christmas-eve",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "Christmas Day",
+        "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-12-25",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "type": [
+          "National holiday",
+          "Christian"
+        ],
+        "primary_type": "Christian",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/christmas-day",
+        "urlid": "venezuela/christmas-day",
+        "locations": "All",
+        "states": "All"
+      },
+      {
+        "name": "New Year's Eve",
+        "description": "New Year’s Eve is the last day of the year, December 31, in the Gregorian calendar.",
+        "country": {
+          "id": "ve",
+          "name": "Venezuela"
+        },
+        "date": {
+          "iso": "2024-12-31",
+          "datetime": {
+            "year": 2024,
+            "month": 12,
+            "day": 31
+          }
+        },
+        "type": [
+          "National holiday"
+        ],
+        "primary_type": "National holiday",
+        "canonical_url": "https://calendarific.com/holiday/venezuela/new-years-eve",
+        "urlid": "venezuela/new-years-eve",
+        "locations": "All",
+        "states": "All"
+      }
+    ]
+  }
+}
