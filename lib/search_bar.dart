@@ -5,6 +5,7 @@ import 'package:holidays_calendar/provider/theme_changer_privider.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 
+import 'app_functions/custom_button.dart';
 import 'holiday_model.dart';
 
 class SearchBarr extends StatefulWidget {
@@ -22,6 +23,7 @@ class _SearchBarrState extends State<SearchBarr> {
   List<Holidays> holidays = [];
   List<Holidays> filteredHolidays = [];
   bool _isLoading = false;
+  dynamic size, height, width;
 
   @override
   void initState() {
@@ -67,16 +69,18 @@ class _SearchBarrState extends State<SearchBarr> {
 
   @override
   Widget build(BuildContext context) {
+    size = MediaQuery.of(context).size;
+    height = size.height;
+    width = size.width;
     final themeChanger = Provider.of<ThemeChanger>(context);
     return Scaffold(
-      backgroundColor: themeChanger.themeMode == ThemeMode.dark
-          ? Colors.grey[800]
-          : const Color(0xffEDFDFE),
+      backgroundColor: const Color(0xffEDFDFE),
       appBar: AppBar(
-        backgroundColor: themeChanger.themeMode == ThemeMode.dark
-            ? Colors.grey[800]
-            : const Color(0xffEDFDFE),
-        title: const Text('Search Holidays'),
+        backgroundColor:  const Color(0xffEDFDFE),
+        title: const Text('Search Holidays',style: TextStyle(
+          fontSize: 20,
+          fontWeight: FontWeight.w700,
+        ),),
       ),
       body: _isLoading
           ? const Center(child: CircularProgressIndicator())
@@ -103,139 +107,122 @@ class _SearchBarrState extends State<SearchBarr> {
                   ),
                   const SizedBox(height: 20),
                   Expanded(
-                    child: ListView.builder(
-                      itemCount: filteredHolidays.length,
-                      itemBuilder: (context, index) {
-                        final holidaysByMonth =
-                            groupHolidaysByMonth(filteredHolidays);
-                        return Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: holidaysByMonth.keys.map((month) {
+                    child: Scrollbar(
+                      scrollbarOrientation: ScrollbarOrientation.right,
+                      radius: const Radius.circular(20),
+                      thumbVisibility: true,
+                      trackVisibility:true ,
+                      interactive: true,
+                      thickness: 5,
+                      child: Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: ListView.builder(
+                          itemCount: 1,
+                          itemBuilder: (context, index) {
+                            final holidaysByMonth =
+                                groupHolidaysByMonth(filteredHolidays);
                             return Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Container(
-                                  height: 41,
-                                  width: 392,
-                                  decoration: BoxDecoration(
-                                    color: Colors.white,
-                                    border: Border.all(width: 1.0),
-                                    borderRadius: const BorderRadius.only(
-                                        bottomLeft: Radius.circular(15),
-                                        bottomRight: Radius.circular(15)),
-                                  ),
-                                  child: Row(
-                                    mainAxisAlignment: MainAxisAlignment.center,
-                                    children: [
-                                      Text(_getMonthName(month) ?? ''),
-                                      Text(holidays[index]
-                                              .date
-                                              ?.datetime
-                                              ?.year
-                                              .toString() ??
-                                          ''),
-                                    ],
-                                  ),
-                                ),
-                                ...holidaysByMonth[month]!.map((holiday) {
-                                  return Column(
-                                    children: [
-                                      ListTile(
-                                        title: Row(
-                                          mainAxisAlignment:
-                                              MainAxisAlignment.spaceBetween,
-                                          children: [
-                                            Container(
-                                                height: 39,
-                                                width: 39,
-                                                decoration: BoxDecoration(
-                                                  color: Colors.white,
-                                                  borderRadius:
-                                                      BorderRadius.circular(20),
-                                                  border: Border.all(
-                                                      width: 1.0,
-                                                      color: const Color(
-                                                          0xffE25E2A)),
-                                                ),
-                                                child: Center(
-                                                    child: Text(
-                                                        getWeekDayFromISODate(
-                                                            holiday.date?.iso
-                                                                    .toString() ??
-                                                                ''),
-                                                        style: const TextStyle(
-                                                            fontSize: 15,
-                                                            color: Color(
-                                                                0xff0720FB))))),
-                                            Container(
-                                                height: 39,
-                                                width: 39,
-                                                decoration: BoxDecoration(
-                                                  color: Colors.white,
-                                                  borderRadius:
-                                                      BorderRadius.circular(20),
-                                                  border: Border.all(
-                                                      width: 1.0,
-                                                      color: const Color(
-                                                          0xffE25E2A)),
-                                                ),
-                                                child: Center(
-                                                    child: Text(
-                                                        holiday.date?.datetime
-                                                                ?.day
-                                                                .toString() ??
-                                                            '',
-                                                        style: const TextStyle(
-                                                            fontSize: 15,
-                                                            color: Color(
-                                                                0xff0720FB))))),
-                                            Text(holiday.name.toString() ?? '',
-                                                style: const TextStyle(
-                                                    fontSize: 8,
-                                                    color: Color(0xffE25E2A))),
-                                            InkWell(
-                                              child: Image.asset(
-                                                  'assets/discription.png',
-                                                  scale: 4),
-                                              onTap: () {
-                                                showDialog(
-                                                  context: context,
-                                                  builder:
-                                                      (BuildContext context) {
-                                                    return AlertDialog(
-                                                      title: const Text(
-                                                          'Description'),
-                                                      content: Text(holiday
-                                                              .description ??
-                                                          'No description available'),
-                                                      actions: <Widget>[
-                                                        TextButton(
-                                                          onPressed: () {
-                                                            Navigator.of(
-                                                                    context)
-                                                                .pop();
-                                                          },
-                                                          child: const Text(
-                                                              'Close'),
-                                                        ),
-                                                      ],
-                                                    );
-                                                  },
-                                                );
-                                              },
-                                            ),
-                                          ],
-                                        ),
+                              children: holidaysByMonth.keys.map((month) {
+                                return Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Container(
+                                      height: height/20,
+                                      width: double.infinity,
+                                      decoration: BoxDecoration(
+                                        color: Colors.white,
+                                        border: Border.all(width: 1.0),
+                                        borderRadius: const BorderRadius.only(bottomLeft: Radius.circular(15), bottomRight: Radius.circular(15)),
                                       ),
-                                      const Divider(), // Add divider after each holiday
-                                    ],
-                                  );
-                                }).toList(),
-                              ],
+                                      child: Row(
+                                        mainAxisAlignment: MainAxisAlignment.center,
+                                        children: [
+                                          Text(_getMonthName(month) ?? '',style: const TextStyle(
+                                              fontSize: 20,
+                                              fontWeight: FontWeight.bold
+                                          ),),
+                                          const SizedBox(width: 5,),
+                                          Text(holidays[index].date?.datetime?.year.toString() ?? '',style: const TextStyle(
+                                              fontSize: 20,
+                                              fontWeight: FontWeight.bold
+                                          )),
+                                        ],
+                                      ),
+                                    ),
+                                    ...holidaysByMonth[month]!.map((holiday) {
+                                      return Column(
+                                        children: [
+                                          ListTile(
+                                            title: Row(
+                                              children: [
+                                                Container(
+                                                    height: height/20,
+                                                    width: width/9,
+                                                    decoration: BoxDecoration(
+                                                      shape: BoxShape.circle,
+                                                      color: Colors.white,
+                                                      border: Border.all(width: 1.0,color: const Color(0xffE25E2A)),
+                                                    ),
+                                                    child: Center(child: Text(getWeekDayFromISODate(holiday.date?.iso.toString() ?? ''), style: const TextStyle(fontSize: 10,color: Color(0xff0720FB))))),
+                                                const SizedBox(width: 2,),
+                                                Container(
+                                                    height: height/20,
+                                                    width: width/9,
+                                                    decoration: BoxDecoration(
+                                                      shape: BoxShape.circle,
+                                                      color: Colors.white,
+                                                      border: Border.all(width: 1.0,color: const Color(0xffE25E2A)),
+                                                    ),
+                                                    child: Center(child: Text(holiday.date?.datetime?.day.toString() ?? '', style: const TextStyle(fontSize: 10,color: Color(0xff0720FB))))),
+                                                const SizedBox(width:1,),
+                                                Expanded(
+                                                  flex: 1,
+                                                  child: Text(
+                                                    holiday.name.toString() ?? '',
+                                                    style:  TextStyle(fontWeight: FontWeight.w600,fontSize: 15,
+                                                      color: holiday.type?.contains("Observance") ?? false ? themeChanger.importantDayColor : themeChanger.holidayColor,
+                                                    ),
+                                                    textAlign: TextAlign.center,
+                                                  ),
+                                                ),
+                                              ],
+                                            ),
+                                              trailing: InkWell(
+                                                child: Image.asset('assets/discription.png', scale: 4),
+                                                onTap: () {
+                                                  showDialog(
+                                                    context: context,
+                                                    builder: (BuildContext context) {
+                                                      return AlertDialog(
+                                                        backgroundColor: themeChanger.themeMode == ThemeMode.dark ? Colors.grey[800] : const Color(0xffEDFDFE),
+                                                        title:  Text(holiday.name.toString()),
+                                                        content: Text(holiday.description?? 'No description available'),
+                                                        actions: <Widget>[
+                                                           CustomButton(
+                                                            onPressed: () {
+                                                              Navigator.of(context).pop();
+                                                            }, buttonText: 'Close',
+
+                                                          ),
+                                                        ],
+                                                      );
+                                                    },
+                                                  );
+                                                },
+                                              )
+                                          ),
+                                          const Divider(), // Add divider after each holiday
+                                        ],
+                                      );
+                                    }).toList(),
+                                  ],
+                                );
+                              }).toList(),
                             );
-                          }).toList(),
-                        );
-                      },
+                          },
+                        ),
+                      ),
                     ),
                   ),
                 ],

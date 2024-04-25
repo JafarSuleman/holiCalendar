@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:provider/provider.dart';
+
+import '../provider/theme_changer_privider.dart';
 
 class YearlyCalendarGrid extends StatefulWidget {
   const YearlyCalendarGrid({Key? key}) : super(key: key);
@@ -19,52 +22,54 @@ class _YearlyCalendarGridState extends State<YearlyCalendarGrid> {
 
   @override
   Widget build(BuildContext context) {
-    return SizedBox(
-      height: 450, // Set a fixed height or use MediaQuery
-      child: Column(
-        children: [
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              IconButton(
-                icon: const Icon(Icons.arrow_back),
-                onPressed: () {
-                  setState(() {
-                    _currentYear--;
-                  });
-                },
-              ),
-              Text(
-                '$_currentYear',
-                style: const TextStyle(
-                  fontWeight: FontWeight.bold,
-                  fontSize: 16,
+    return Expanded(
+      child: SizedBox(
+        height: 450,
+        child: Column(
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                IconButton(
+                  icon: const Icon(Icons.arrow_back),
+                  onPressed: () {
+                    setState(() {
+                      _currentYear--;
+                    });
+                  },
                 ),
-              ),
-              IconButton(
-                icon: const Icon(Icons.arrow_forward),
-                onPressed: () {
-                  setState(() {
-                    _currentYear++;
-                  });
+                Text(
+                  '$_currentYear',
+                  style: const TextStyle(
+                    fontWeight: FontWeight.bold,
+                    fontSize: 16,
+                  ),
+                ),
+                IconButton(
+                  icon: const Icon(Icons.arrow_forward),
+                  onPressed: () {
+                    setState(() {
+                      _currentYear++;
+                    });
+                  },
+                ),
+              ],
+            ),
+            Expanded(
+              child: GridView.builder(
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 3,
+                  mainAxisSpacing: 10.0,
+                  crossAxisSpacing: 15.0,
+                ),
+                itemCount: 12,
+                itemBuilder: (BuildContext context, int index) {
+                  return MonthCalendar(year: _currentYear, month: index + 1);
                 },
               ),
-            ],
-          ),
-          Expanded(
-            child: GridView.builder(
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 3,
-                mainAxisSpacing: 4.0,
-                crossAxisSpacing: 15.0,
-              ),
-              itemCount: 12,
-              itemBuilder: (BuildContext context, int index) {
-                return MonthCalendar(year: _currentYear, month: index + 1);
-              },
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
@@ -79,6 +84,8 @@ class MonthCalendar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final themeChanger = Provider.of<ThemeChanger>(context);
+
     DateTime now = DateTime.now();
     DateTime today = DateTime(now.year, now.month, now.day);
     DateTime firstDayOfMonth = DateTime(year, month, 1);
@@ -93,6 +100,8 @@ class MonthCalendar extends StatelessWidget {
       'F',
       'S',
     ];
+
+    int leadingSpaces = firstDayOfMonth.weekday;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -109,49 +118,61 @@ class MonthCalendar extends StatelessWidget {
             ),
           ],
         ),
-
+        // Weekday labels
         GridView.builder(
           shrinkWrap: true,
           physics: const NeverScrollableScrollPhysics(),
           gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
             crossAxisCount: 7,
           ),
-          itemCount: daysInMonth + 7,
+          itemCount: weekdays.length,
           itemBuilder: (BuildContext context, int index) {
-            if (index < 7) {
-              // Weekday labels
-              return Center(
-                child: Text(
-                  weekdays[index],
-                  style: const TextStyle(
-                      fontWeight: FontWeight.bold,
-                      fontSize: 5
-                  ),
-
+            return Center(
+              child: Text(
+                weekdays[index],
+                style: const TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 5,
                 ),
-              );
-            } else {
-              // Days of the month
-              DateTime day = DateTime(year, month, index - 6);
-              bool isToday = day.isAtSameMomentAs(today);
-              bool isCurrentMonth = day.month == now.month;
-              bool isWeekend = (index % 7 == 0) || (index % 7 == 6); // Saturday or Sunday
-
-              return Center(
-                child: Text(
-                  '${day.day}',
-                  style: TextStyle(
-                      fontWeight: FontWeight.bold,
-                      color: isToday && isCurrentMonth ? Colors.red : (isWeekend ? Colors.red : null),
-                      fontSize: 4
-                  ),
-                ),
-              );
-            }
+                textAlign: TextAlign.center,
+              ),
+            );
           },
+        ),
+        Expanded(
+          child: GridView.builder(
+            shrinkWrap: true,
+            physics: const NeverScrollableScrollPhysics(),
+            gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 7,
+                childAspectRatio : 2.0
+            ),
+            itemCount: daysInMonth + leadingSpaces,
+            itemBuilder: (BuildContext context, int index) {
+              if (index < leadingSpaces) {
+                return Container();
+              } else {
+                // Days of the month
+                DateTime day = DateTime(year, month, index - leadingSpaces + 1);
+                bool isToday = day.isAtSameMomentAs(today);
+                bool isCurrentMonth = day.month == now.month;
+                bool isWeekend = (index % 7 == 0) || (index % 7 == 6);
+
+                return Center(
+                  child: Text(
+                    '${day.day}',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      color: isToday && isCurrentMonth ? Colors.red : (isWeekend ? themeChanger.sundayColor : null),
+                      fontSize: 4,
+                    ),
+                  ),
+                );
+              }
+            },
+          ),
         ),
       ],
     );
   }
 }
-

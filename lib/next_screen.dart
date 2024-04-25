@@ -1,5 +1,8 @@
 
+
+
 import 'package:flutter/material.dart';
+import 'package:flutter_typeahead/flutter_typeahead.dart';
 import 'package:holidays_calendar/provider/theme_changer_privider.dart';
 import 'package:provider/provider.dart';
 
@@ -14,6 +17,9 @@ class NextScreen extends StatefulWidget {
 }
 
 class _NextScreenState extends State<NextScreen> {
+  dynamic size, height, width;
+  final TextEditingController _controller = TextEditingController();
+  final _formKey = GlobalKey<FormState>();
   String? chooseCountry;
   String? selectedCountryId;
   Map<String, String> countryIdMap = {
@@ -31,7 +37,7 @@ class _NextScreenState extends State<NextScreen> {
     'Australia': 'au',
     'Austria': 'at',
     'Azerbaijan': 'az',
-    'Bahamas (the)': 'bs',
+    'Bahamas': 'bs',
     'Bahrain': 'bh',
     'Bangladesh': 'bd',
     'Barbados': 'bb',
@@ -53,8 +59,8 @@ class _NextScreenState extends State<NextScreen> {
     'Cambodia': 'kh',
     'Cameroon': 'cm',
     'Canada': 'ca',
-    'Cayman Islands (the)': 'ky',
-    'Central African Republic (the)': 'cf',
+    'Cayman Islands': 'ky',
+    'Central African Republic': 'cf',
     'Chad': 'td',
     'Chile': 'cl',
     'China': 'cn',
@@ -62,7 +68,7 @@ class _NextScreenState extends State<NextScreen> {
     'Comoros (the)': 'km',
     'Congo (the Democratic Republic of the)': 'cd',
     'Congo (the)': 'cg',
-    'Cook Islands (the)': 'ck',
+    'Cook Islands': 'ck',
     'Costa Rica': 'cr',
     'Croatia': 'hr',
     'Cuba': 'cu',
@@ -73,7 +79,7 @@ class _NextScreenState extends State<NextScreen> {
     'Denmark': 'dk',
     'Djibouti': 'dj',
     'Dominica': 'dm',
-    'Dominican Republic (the)': 'do',
+    'Dominican Republic': 'do',
     'Ecuador': 'ec',
     'Egypt': 'eg',
     'El Salvador': 'sv',
@@ -82,15 +88,15 @@ class _NextScreenState extends State<NextScreen> {
     'Estonia': 'ee',
     'Eswatini': 'sz',
     'Ethiopia': 'et',
-    'Falkland Islands (the) [Malvinas]': 'fk',
-    'Faroe Islands (the)': 'fo',
+    'Falkland Islands': 'fk',
+    'Faroe Islands': 'fo',
     'Fiji': 'fj',
     'Finland': 'fi',
     'France': 'fr',
     'French Guiana': 'gf',
     'French Polynesia': 'pf',
     'Gabon': 'ga',
-    'Gambia (the)': 'gm',
+    'Gambia': 'gm',
     'Georgia': 'ge',
     'Germany': 'de',
     'Ghana': 'gh',
@@ -113,7 +119,7 @@ class _NextScreenState extends State<NextScreen> {
     'Iceland': 'is',
     'India': 'in',
     'Indonesia': 'id',
-    'Iran (Islamic Republic of)': 'ir',
+    'Iran': 'ir',
     'Iraq': 'iq',
     'Ireland': 'ie',
     'Isle of Man': 'im',
@@ -145,14 +151,14 @@ class _NextScreenState extends State<NextScreen> {
     'Maldives': 'mv',
     'Mali': 'ml',
     'Malta': 'mt',
-    'Marshall Islands (the)': 'mh',
+    'Marshall Islands': 'mh',
     'Martinique': 'mq',
     'Mauritania': 'mr',
     'Mauritius': 'mu',
     'Mayotte': 'yt',
     'Mexico': 'mx',
-    'Micronesia (Federated States of)': 'fm',
-    'Moldova (the Republic of)': 'md',
+    'Micronesia': 'fm',
+    'Moldova': 'md',
     'Monaco': 'mc',
     'Mongolia': 'mn',
     'Montenegro': 'me',
@@ -163,14 +169,14 @@ class _NextScreenState extends State<NextScreen> {
     'Namibia': 'na',
     'Nauru': 'nr',
     'Nepal': 'np',
-    'Netherlands (the)': 'nl',
+    'Netherlands': 'nl',
     'New Caledonia': 'nc',
     'New Zealand': 'nz',
     'Nicaragua': 'ni',
     'Niger (the)': 'ne',
     'Nigeria': 'ng',
     'Norfolk Island': 'ng',
-    'Northern Mariana Islands (the)': 'mp',
+    'Northern': 'mp',
     'Norway': 'no',
     'Oman': 'om',
     'Pakistan': 'pk',
@@ -193,7 +199,7 @@ class _NextScreenState extends State<NextScreen> {
     'Saint Helena, Ascension and Tristan da Cunha': 'sh',
     'Saint Kitts and Nevis': 'kn',
     'Saint Lucia': 'lc',
-    'Saint Martin (French part)': 'mf',
+    'Saint Martin': 'mf',
     'Saint Pierre and Miquelon': 'pm',
     'Saint Vincent and the Grenadines': 'vc',
     'Samoa': 'ws',
@@ -205,7 +211,7 @@ class _NextScreenState extends State<NextScreen> {
     'Seychelles': 'sc',
     'Sierra Leone': 'sl',
     'Singapore': 'sg',
-    'Sint Maarten (Dutch part)': 'sx',
+    'Sint Maarten': 'sx',
     'Slovakia': 'sk',
     'Slovenia': 'si',
     'Solomon Islands': 'sb',
@@ -236,11 +242,11 @@ class _NextScreenState extends State<NextScreen> {
     'Ukraine': 'ua',
     'United Arab Emirates': 'ae',
     'United Kingdom': 'gb',
-    'United States of America': 'us',
+    'United States': 'us',
     'Uruguay': 'uy',
     'Uzbekistan': 'uz',
     'Vanuatu': 'vu',
-    'Venezuela (Bolivarian Republic of)': 've',
+    'Venezuela': 've',
     'Viet Nam': 'vn',
     'Virgin Islands (British)': 'vg',
     'Virgin Islands (U.S.)': 'vi',
@@ -265,7 +271,7 @@ class _NextScreenState extends State<NextScreen> {
     'Australia',
     'Austria',
     'Azerbaijan',
-    'Bahamas (the)',
+    'Bahamas',
     'Bahrain',
     'Bangladesh',
     'Barbados',
@@ -275,7 +281,7 @@ class _NextScreenState extends State<NextScreen> {
     'Benin',
     'Bermuda',
     'Bhutan',
-    'Bolivia (Plurinational State of)',
+    'Bolivia',
     'Bosnia and Herzegovina',
     'Botswana',
     'Brazil',
@@ -287,14 +293,14 @@ class _NextScreenState extends State<NextScreen> {
     'Cambodia',
     'Cameroon',
     'Canada',
-    'Cayman Islands (the)',
-    'Central African Republic (the)',
+    'Cayman Islands',
+    'Central African Republic',
     'Chad',
     'Chile',
     'China',
     'Colombia',
     'Comoros',
-    'Congo (the Democratic Republic of the)',
+    'Congo',
     'Congo',
     'Cook Islands',
     'Costa Rica',
@@ -359,7 +365,7 @@ class _NextScreenState extends State<NextScreen> {
     'Kazakhstan',
     'Kenya',
     'Kiribati',
-    'North Korea ',
+    'North Korea',
     'South Korea',
     'Kuwait',
     'Kyrgyzstan',
@@ -385,8 +391,8 @@ class _NextScreenState extends State<NextScreen> {
     'Mauritius',
     'Mayotte',
     'Mexico',
-    'Micronesia (Federated States of)',
-    'Moldova (the Republic of)',
+    'Micronesia',
+    'Moldova',
     'Monaco',
     'Mongolia',
     'Montenegro',
@@ -427,7 +433,7 @@ class _NextScreenState extends State<NextScreen> {
     'Saint Helena',
     'Saint Kitts and Nevis',
     'Saint Lucia',
-    'Saint Martin (French part)',
+    'Saint Martin',
     'Saint Pierre and Miquelon',
     'Saint Vincent and the Grenadines',
     'Samoa',
@@ -439,7 +445,7 @@ class _NextScreenState extends State<NextScreen> {
     'Seychelles',
     'Sierra Leone',
     'Singapore',
-    'Sint Maarten (Dutch part)',
+    'Sint Maarten',
     'Slovakia',
     'Slovenia',
     'Solomon Islands',
@@ -470,7 +476,7 @@ class _NextScreenState extends State<NextScreen> {
     'Ukraine',
     'United Arab Emirates',
     'United Kingdom',
-    'United States of America',
+    'United States',
     'Uruguay',
     'Uzbekistan',
     'Vanuatu',
@@ -483,7 +489,6 @@ class _NextScreenState extends State<NextScreen> {
     'Zambia',
     'Zimbabwe'
   ];
-
   @override
   void initState() {
     chooseCountry = countryNames.isNotEmpty ? countryNames.first : null;
@@ -494,72 +499,99 @@ class _NextScreenState extends State<NextScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final themeChanger = Provider.of<ThemeChanger>(context);
+    size = MediaQuery.of(context).size;
+    height = size.height;
+    width = size.width;
     return Scaffold(
-      backgroundColor: themeChanger.themeMode == ThemeMode.dark ? Colors.grey[800] : const Color(0xffEDFDFE),
+      backgroundColor: const Color(0xffEDFDFE),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Image.asset("assets/holidaypic.png", scale: 4,),
-            const SizedBox(height: 20,),
-            const Text(
-              "Choose Your Country To Experience Holidays In Your Own Country",
-              style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.w600,
-              ),
-              textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: 20,),
-            Container(
-              padding: const EdgeInsets.only(left: 10),
-              height: 38,
-              width: 249,
-              decoration: BoxDecoration(
-                color: Colors.grey.shade300,
-                borderRadius: BorderRadius.circular(8),
-              ),
-              child: DropdownButton(
-                style: TextStyle(
-                  fontSize: 15,
-                  fontWeight: FontWeight.w400,
-                  color: themeChanger.themeMode == ThemeMode.dark ? Colors.grey : Colors.black,
-                ),
-                underline: const SizedBox(),
-                isExpanded: true,
-                value: chooseCountry,
-                onChanged: (newValue) {
-                  setState(() {
-                    chooseCountry = newValue;
-                  });
-                },
-                items: countryNames.map((e) {
-                  return DropdownMenuItem(
-                    value: e,
-                    child: Text(e),
-                  );
-                }).toList(),
-              ),
-            ),
-
-            const SizedBox(height: 50,),
-            CustomButton(
-              width: 222,
-              height: 42,
-              buttonText: "Next",
-              onPressed: () async {
-                selectedCountryId = countryIdMap[chooseCountry!];
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => HoliDaysScreen(selectedCountryId: selectedCountryId,selectedCountryName: chooseCountry.toString()),
+        child: Form(
+          key: _formKey,
+          child: Center(
+            child: SingleChildScrollView(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Image.asset(
+                    "assets/holidaypic.png",
+                    scale: 4,
                   ),
-                );
-              },
+                  const SizedBox(height: 20,),
+                  const Text(
+                    "Choose Your Country To Experience Holidays In Your Own Country",
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.w600,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                  const SizedBox(height: 20,),
+                  TypeAheadFormField(
+                    textFieldConfiguration: TextFieldConfiguration(
+                      controller: _controller,
+                      style: const TextStyle(
+                        fontSize: 15,
+                        fontWeight: FontWeight.w400,
+                      ),
+                      decoration: InputDecoration(
+                        hintText: 'Select a country',
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        filled: true,
+                        fillColor: Colors.grey.shade300,
+                        contentPadding: const EdgeInsets.symmetric(horizontal: 10),
+                      ),
+                    ),
+                    suggestionsCallback: (pattern) {
+                      return countryNames.where((country) =>
+                          country.toLowerCase().startsWith(pattern.toLowerCase()));
+                    },
+                    itemBuilder: (context, suggestion) {
+                      return ListTile(
+                        title: Text(suggestion),
+                      );
+                    },
+                    onSuggestionSelected: (suggestion) {
+                      _controller.text = suggestion;
+                      setState(() {
+                        chooseCountry = suggestion;
+                      });
+                    },
+                    validator: (value) {
+                      if (value == null || value.isEmpty) {
+                        return 'Please select a country';
+                      }
+                      return null;
+                    },
+                    hideSuggestionsOnKeyboardHide: true,
+                  ),
+
+                  const SizedBox(height: 50,),
+                  CustomButton(
+                    width: width/1.7,
+                    height: height/20,
+                    buttonText: "Next",
+                    onPressed: () async {
+                      if (_formKey.currentState!.validate()) {
+                        selectedCountryId = countryIdMap[chooseCountry!];
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => HoliDaysScreen(
+                              selectedCountryId: selectedCountryId,
+                              selectedCountryName: chooseCountry.toString(),
+                            ),
+                          ),
+                        );
+                      }
+                    },
+                  ),
+                ],
+              ),
             ),
-          ],
+          ),
         ),
       ),
     );

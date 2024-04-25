@@ -44,33 +44,21 @@
           }
         },
         "type": [
-          "Common local holiday"
+          "Observance",
+          "Christian"
         ],
-        "primary_type": "Common local holiday",
+        "primary_type": "Christian",
         "canonical_url": "https://calendarific.com/holiday/germany/epiphany",
         "urlid": "germany/epiphany",
-        "locations": "BW, BY, ST",
+        "locations": "SN, TH, NDS (community)",
         "states": [
+
           {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 179,
-            "abbrev": "ST",
-            "name": "Saxony-Anhalt",
-            "exception": null,
-            "iso": "de-st"
+            "id": 174,
+            "abbrev": "NDS",
+            "name": "Lower Saxony",
+            "exception": "community",
+            "iso": "de-ni"
           }
         ]
       },
@@ -90,35 +78,14 @@
           }
         },
         "type": [
-          "Observance",
-          "Christian"
+          "Common local holiday"
         ],
-        "primary_type": "Christian",
+        "primary_type": "Common local holiday",
         "canonical_url": "https://calendarific.com/holiday/germany/epiphany",
         "urlid": "germany/epiphany",
-        "locations": "SN, TH, NDS (community)",
+        "locations": "BW, BY, ST",
         "states": [
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": "community",
-            "iso": "de-ni"
-          }
+
         ]
       },
       {
@@ -289,20 +256,36 @@
         "urlid": "germany/hizir-fast",
         "locations": "HH, HB",
         "states": [
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
+
+        ]
+      },
+      {
+        "name": "International Women's Day",
+        "description": "International Women's Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2024-03-08",
+          "datetime": {
+            "year": 2024,
+            "month": 3,
+            "day": 8
           }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/germany/women-day",
+        "urlid": "germany/women-day",
+        "locations": "All except B, MVP",
+        "states": [
+
+
+
+
         ]
       },
       {
@@ -331,129 +314,6 @@
       },
       {
         "name": "International Women's Day",
-        "description": "International Women's Day is a observance in Germany",
-        "country": {
-          "id": "de",
-          "name": "Germany"
-        },
-        "date": {
-          "iso": "2024-03-08",
-          "datetime": {
-            "year": 2024,
-            "month": 3,
-            "day": 8
-          }
-        },
-        "type": [
-          "Observance"
-        ],
-        "primary_type": "Observance",
-        "canonical_url": "https://calendarific.com/holiday/germany/women-day",
-        "urlid": "germany/women-day",
-        "locations": "All except B, MVP",
-        "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 169,
-            "abbrev": "BB",
-            "name": "Brandenburg",
-            "exception": null,
-            "iso": "de-bb"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 179,
-            "abbrev": "ST",
-            "name": "Saxony-Anhalt",
-            "exception": null,
-            "iso": "de-st"
-          },
-          {
-            "id": 180,
-            "abbrev": "SH",
-            "name": "Schleswig-Holstein",
-            "exception": null,
-            "iso": "de-sh"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
-        ]
-      },
-      {
-        "name": "International Women's Day",
         "description": "International Women's Day is a common local holiday in Germany",
         "country": {
           "id": "de",
@@ -475,20 +335,7 @@
         "urlid": "germany/women-day",
         "locations": "MVP, B",
         "states": [
-          {
-            "id": 173,
-            "abbrev": "MVP",
-            "name": "Mecklenburg-Western Pomerania",
-            "exception": null,
-            "iso": "de-mv"
-          },
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          }
+
         ]
       },
       {
@@ -539,13 +386,7 @@
         "urlid": "germany/march-revolution-anniversary",
         "locations": "B",
         "states": [
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          }
+
         ]
       },
       {
@@ -605,20 +446,7 @@
         "urlid": "germany/alevitic-new-year",
         "locations": "HH, HB",
         "states": [
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          }
+
         ]
       },
       {
@@ -670,41 +498,8 @@
         "urlid": "germany/maundy-thursday",
         "locations": "BY, HE, NRW, RLP, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
+
         ]
       },
       {
@@ -731,83 +526,7 @@
         "urlid": "germany/maundy-thursday",
         "locations": "All except BY, HE, NRW, RLP, SL",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          },
-          {
-            "id": 169,
-            "abbrev": "BB",
-            "name": "Brandenburg",
-            "exception": null,
-            "iso": "de-bb"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 173,
-            "abbrev": "MVP",
-            "name": "Mecklenburg-Western Pomerania",
-            "exception": null,
-            "iso": "de-mv"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 179,
-            "abbrev": "ST",
-            "name": "Saxony-Anhalt",
-            "exception": null,
-            "iso": "de-st"
-          },
-          {
-            "id": 180,
-            "abbrev": "SH",
-            "name": "Schleswig-Holstein",
-            "exception": null,
-            "iso": "de-sh"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
+
         ]
       },
       {
@@ -859,41 +578,7 @@
         "urlid": "germany/holy-saturday",
         "locations": "BY, HE, NDS, SL, RLP",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          }
+
         ]
       },
       {
@@ -920,13 +605,7 @@
         "urlid": "germany/easter",
         "locations": "BB",
         "states": [
-          {
-            "id": 169,
-            "abbrev": "BB",
-            "name": "Brandenburg",
-            "exception": null,
-            "iso": "de-bb"
-          }
+
         ]
       },
       {
@@ -953,111 +632,8 @@
         "urlid": "germany/easter",
         "locations": "All except BB",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 173,
-            "abbrev": "MVP",
-            "name": "Mecklenburg-Western Pomerania",
-            "exception": null,
-            "iso": "de-mv"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 179,
-            "abbrev": "ST",
-            "name": "Saxony-Anhalt",
-            "exception": null,
-            "iso": "de-st"
-          },
-          {
-            "id": 180,
-            "abbrev": "SH",
-            "name": "Schleswig-Holstein",
-            "exception": null,
-            "iso": "de-sh"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
+
+
         ]
       },
       {
@@ -1143,20 +719,7 @@
         "urlid": "germany/eid-al-fitr",
         "locations": "HB, HH",
         "states": [
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          }
+
         ]
       },
       {
@@ -1207,27 +770,7 @@
         "urlid": "germany/first-day-passover",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -1254,27 +797,7 @@
         "urlid": "germany/second-day-passover",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -1325,27 +848,7 @@
         "urlid": "germany/sixth-day-passover",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -1372,27 +875,7 @@
         "urlid": "germany/seventh-day-passover",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -1490,41 +973,7 @@
         "urlid": "germany/end-of-world-war-ii",
         "locations": "B, BB, HB, MVP, TH",
         "states": [
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          },
-          {
-            "id": 169,
-            "abbrev": "BB",
-            "name": "Brandenburg",
-            "exception": null,
-            "iso": "de-bb"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 173,
-            "abbrev": "MVP",
-            "name": "Mecklenburg-Western Pomerania",
-            "exception": null,
-            "iso": "de-mv"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
+
         ]
       },
       {
@@ -1648,13 +1097,7 @@
         "urlid": "germany/pentecost-sunday",
         "locations": "BB",
         "states": [
-          {
-            "id": 169,
-            "abbrev": "BB",
-            "name": "Brandenburg",
-            "exception": null,
-            "iso": "de-bb"
-          }
+
         ]
       },
       {
@@ -1681,111 +1124,9 @@
         "urlid": "germany/pentecost-sunday",
         "locations": "All except BB",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 173,
-            "abbrev": "MVP",
-            "name": "Mecklenburg-Western Pomerania",
-            "exception": null,
-            "iso": "de-mv"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 179,
-            "abbrev": "ST",
-            "name": "Saxony-Anhalt",
-            "exception": null,
-            "iso": "de-st"
-          },
-          {
-            "id": 180,
-            "abbrev": "SH",
-            "name": "Schleswig-Holstein",
-            "exception": null,
-            "iso": "de-sh"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
+
+
+
         ]
       },
       {
@@ -1861,48 +1202,7 @@
         "urlid": "germany/corpus-christi",
         "locations": "BW, BY, HE, NRW, RLP, SL, SN (community), TH (community)",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
+
           {
             "id": 178,
             "abbrev": "SN",
@@ -1920,8 +1220,8 @@
         ]
       },
       {
-        "name": "International Childrens' Day",
-        "description": "International Childrens' Day is a observance in Germany",
+        "name": "International Children's Day",
+        "description": "International Children's Day is a observance in Germany",
         "country": {
           "id": "de",
           "name": "Germany"
@@ -1991,27 +1291,7 @@
         "urlid": "germany/first-day-shavuot",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -2038,27 +1318,7 @@
         "urlid": "germany/second-day-shavuot",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -2108,13 +1368,7 @@
         "urlid": "germany/remembrance-victims-sed-injustice",
         "locations": "TH",
         "states": [
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
+
         ]
       },
       {
@@ -2140,13 +1394,7 @@
         "urlid": "germany/remembrance-victims-sed-injustice",
         "locations": "B",
         "states": [
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          }
+
         ]
       },
       {
@@ -2173,20 +1421,7 @@
         "urlid": "germany/eid-al-adha",
         "locations": "HB, HH",
         "states": [
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          }
+
         ]
       },
       {
@@ -2247,13 +1482,7 @@
         "urlid": "germany/st-john",
         "locations": "SN",
         "states": [
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          }
+
         ]
       },
       {
@@ -2304,13 +1533,7 @@
         "urlid": "germany/st-peter-and-paul",
         "locations": "SN",
         "states": [
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          }
+
         ]
       },
       {
@@ -2337,20 +1560,7 @@
         "urlid": "germany/ashura",
         "locations": "HB, HH",
         "states": [
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          }
+
         ]
       },
       {
@@ -2401,28 +1611,16 @@
           }
         },
         "type": [
-          "Christian",
-          "Common local holiday"
+          "Observance",
+          "Christian"
         ],
-        "primary_type": "Common local holiday",
+        "primary_type": "Christian",
         "canonical_url": "https://calendarific.com/holiday/germany/assumption",
         "urlid": "germany/assumption",
-        "locations": "SL, BY (community)",
+        "locations": "SN, TH",
         "states": [
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": "community",
-            "iso": "de-by"
-          }
+
+
         ]
       },
       {
@@ -2441,27 +1639,21 @@
           }
         },
         "type": [
-          "Observance",
-          "Christian"
+          "Christian",
+          "Common local holiday"
         ],
-        "primary_type": "Christian",
+        "primary_type": "Common local holiday",
         "canonical_url": "https://calendarific.com/holiday/germany/assumption",
         "urlid": "germany/assumption",
-        "locations": "SN, TH",
+        "locations": "SL, BY (community)",
         "states": [
+
           {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
+            "id": 167,
+            "abbrev": "BY",
+            "name": "Bavaria",
+            "exception": "community",
+            "iso": "de-by"
           }
         ]
       },
@@ -2539,38 +1731,6 @@
       },
       {
         "name": "German World Children's Day",
-        "description": "German World Children's Day is a common local holiday in Germany",
-        "country": {
-          "id": "de",
-          "name": "Germany"
-        },
-        "date": {
-          "iso": "2024-09-20",
-          "datetime": {
-            "year": 2024,
-            "month": 9,
-            "day": 20
-          }
-        },
-        "type": [
-          "Common local holiday"
-        ],
-        "primary_type": "Common local holiday",
-        "canonical_url": "https://calendarific.com/holiday/germany/world-children-day",
-        "urlid": "germany/world-children-day",
-        "locations": "TH",
-        "states": [
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
-        ]
-      },
-      {
-        "name": "German World Children's Day",
         "description": "German World Children's Day is a observance in Germany",
         "country": {
           "id": "de",
@@ -2592,6 +1752,32 @@
         "urlid": "germany/world-children-day",
         "locations": "All",
         "states": "All"
+      },
+      {
+        "name": "German World Children's Day",
+        "description": "German World Children's Day is a common local holiday in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2024-09-20",
+          "datetime": {
+            "year": 2024,
+            "month": 9,
+            "day": 20
+          }
+        },
+        "type": [
+          "Common local holiday"
+        ],
+        "primary_type": "Common local holiday",
+        "canonical_url": "https://calendarific.com/holiday/germany/world-children-day",
+        "urlid": "germany/world-children-day",
+        "locations": "TH",
+        "states": [
+
+        ]
       },
       {
         "name": "September Equinox",
@@ -2651,34 +1837,7 @@
         "urlid": "germany/rosh-hashana",
         "locations": "BY, HB, NRW, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -2729,35 +1888,32 @@
         "urlid": "germany/second-day-rosh-hashana",
         "locations": "BY, HB, NRW, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
+      },
+      {
+        "name": "German Food Bank Day",
+        "description": "German Food Bank Day is a observance in Germany",
+        "country": {
+          "id": "de",
+          "name": "Germany"
+        },
+        "date": {
+          "iso": "2024-10-05",
+          "datetime": {
+            "year": 2024,
+            "month": 10,
+            "day": 5
+          }
+        },
+        "type": [
+          "Observance"
+        ],
+        "primary_type": "Observance",
+        "canonical_url": "https://calendarific.com/holiday/germany/food-bank-day",
+        "urlid": "germany/food-bank-day",
+        "locations": "All",
+        "states": "All"
       },
       {
         "name": "Harvest Festival",
@@ -2807,34 +1963,8 @@
         "urlid": "germany/yom-kippur",
         "locations": "BY, HB, NRW, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
+
         ]
       },
       {
@@ -2860,13 +1990,7 @@
         "urlid": "germany/grandparents-day",
         "locations": "BY",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          }
+
         ]
       },
       {
@@ -2893,27 +2017,7 @@
         "urlid": "germany/sukkot",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -2940,27 +2044,7 @@
         "urlid": "germany/second-day-sukkot",
         "locations": "BY, HB, SL",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -2987,13 +2071,7 @@
         "urlid": "germany/sixth-day-sukkot",
         "locations": "BY",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          }
+
         ]
       },
       {
@@ -3020,13 +2098,7 @@
         "urlid": "germany/seventh-day-sukkot",
         "locations": "BY",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          }
+
         ]
       },
       {
@@ -3053,20 +2125,7 @@
         "urlid": "germany/shmini-atzeret",
         "locations": "HB, SL",
         "states": [
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -3093,13 +2152,7 @@
         "urlid": "germany/simchat-torah",
         "locations": "HB",
         "states": [
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          }
+
         ]
       },
       {
@@ -3176,76 +2229,15 @@
           }
         },
         "type": [
-          "Common local holiday"
+          "Observance",
+          "Christian"
         ],
-        "primary_type": "Common local holiday",
+        "primary_type": "Christian",
         "canonical_url": "https://calendarific.com/holiday/germany/reformation-day",
         "urlid": "germany/reformation-day",
-        "locations": "BB, MVP, SN, ST, TH, SH, HH, NDS, HB",
+        "locations": "BW, HB",
         "states": [
-          {
-            "id": 169,
-            "abbrev": "BB",
-            "name": "Brandenburg",
-            "exception": null,
-            "iso": "de-bb"
-          },
-          {
-            "id": 173,
-            "abbrev": "MVP",
-            "name": "Mecklenburg-Western Pomerania",
-            "exception": null,
-            "iso": "de-mv"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 179,
-            "abbrev": "ST",
-            "name": "Saxony-Anhalt",
-            "exception": null,
-            "iso": "de-st"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          },
-          {
-            "id": 180,
-            "abbrev": "SH",
-            "name": "Schleswig-Holstein",
-            "exception": null,
-            "iso": "de-sh"
-          },
-          {
-            "id": 171,
-            "abbrev": "HH",
-            "name": "Hamburg",
-            "exception": null,
-            "iso": "de-hh"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          }
+
         ]
       },
       {
@@ -3264,28 +2256,13 @@
           }
         },
         "type": [
-          "Observance",
-          "Christian"
+          "Common local holiday"
         ],
-        "primary_type": "Christian",
+        "primary_type": "Common local holiday",
         "canonical_url": "https://calendarific.com/holiday/germany/reformation-day",
         "urlid": "germany/reformation-day",
-        "locations": "BW, HB",
+        "locations": "BB, MVP, SN, ST, TH, SH, HH, NDS, HB",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          }
         ]
       },
       {
@@ -3336,34 +2313,7 @@
         "urlid": "germany/all-saints",
         "locations": "HB, SN, TH, NDS (community)",
         "states": [
-          {
-            "id": 170,
-            "abbrev": "HB",
-            "name": "Bremen",
-            "exception": null,
-            "iso": "de-hb"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": "community",
-            "iso": "de-ni"
-          }
+
         ]
       },
       {
@@ -3390,41 +2340,7 @@
         "urlid": "germany/all-saints",
         "locations": "BW, BY, NRW, RLP, SL",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 175,
-            "abbrev": "NRW",
-            "name": "North Rhine-Westphalia",
-            "exception": null,
-            "iso": "de-nw"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          }
+
         ]
       },
       {
@@ -3507,13 +2423,7 @@
         "urlid": "germany/november-9",
         "locations": "B",
         "states": [
-          {
-            "id": 168,
-            "abbrev": "B",
-            "name": "Berlin",
-            "exception": null,
-            "iso": "de-be"
-          }
+
         ]
       },
       {
@@ -3613,41 +2523,7 @@
         "urlid": "germany/repentance-day",
         "locations": "BW, HE, NDS, RLP, TH",
         "states": [
-          {
-            "id": 166,
-            "abbrev": "BW",
-            "name": "Baden-Württemberg",
-            "exception": null,
-            "iso": "de-bw"
-          },
-          {
-            "id": 172,
-            "abbrev": "HE",
-            "name": "Hesse",
-            "exception": null,
-            "iso": "de-he"
-          },
-          {
-            "id": 174,
-            "abbrev": "NDS",
-            "name": "Lower Saxony",
-            "exception": null,
-            "iso": "de-ni"
-          },
-          {
-            "id": 176,
-            "abbrev": "RLP",
-            "name": "Rhineland-Palatinate",
-            "exception": null,
-            "iso": "de-rp"
-          },
-          {
-            "id": 181,
-            "abbrev": "TH",
-            "name": "Thuringia",
-            "exception": null,
-            "iso": "de-th"
-          }
+
         ]
       },
       {
@@ -3674,13 +2550,7 @@
         "urlid": "germany/repentance-day",
         "locations": "SN",
         "states": [
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          }
+
         ]
       },
       {
@@ -3706,27 +2576,7 @@
         "urlid": "germany/repentance-day",
         "locations": "BY, SL, SN",
         "states": [
-          {
-            "id": 167,
-            "abbrev": "BY",
-            "name": "Bavaria",
-            "exception": null,
-            "iso": "de-by"
-          },
-          {
-            "id": 177,
-            "abbrev": "SL",
-            "name": "Saarland",
-            "exception": null,
-            "iso": "de-sl"
-          },
-          {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
-          }
+
         ]
       },
       {
@@ -3853,11 +2703,6 @@
         "locations": "SN",
         "states": [
           {
-            "id": 178,
-            "abbrev": "SN",
-            "name": "Saxony",
-            "exception": null,
-            "iso": "de-sn"
           }
         ]
       },

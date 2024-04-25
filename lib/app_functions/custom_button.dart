@@ -21,7 +21,7 @@ class CustomButton extends StatefulWidget {
 }
 
 class _CustomButtonState extends State<CustomButton> {
-  var size, height, width;
+  dynamic size, height, width;
   @override
   Widget build(BuildContext context) {
     size = MediaQuery.of(context).size;
@@ -34,20 +34,23 @@ class _CustomButtonState extends State<CustomButton> {
         onPressed: widget.onPressed,
         style: ElevatedButton.styleFrom(
           foregroundColor: Colors.white,
-          backgroundColor: const Color(0xffE25E2A) ,// Text color
+          backgroundColor: const Color(0xffE25E2A) ,
           padding: const EdgeInsets.symmetric(
-              horizontal: 20, vertical: 10), // Button padding
+              horizontal: 20,
+              vertical: 10
+          ),
+
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(20.0), // Button border radius
+            borderRadius: BorderRadius.circular(20.0),
           ),
         ),
         child: Row(
-          // Row to contain icon and text
+
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            if (widget.iconData != null) // Conditionally add icon
+            if (widget.iconData != null)
               Icon(widget.iconData),
-            const SizedBox(width: 8), // Space between icon and text
+            const SizedBox(width: 8),
             Text(
               widget.buttonText,
               style: const TextStyle(fontSize: 16),

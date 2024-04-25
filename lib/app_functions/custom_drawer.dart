@@ -20,123 +20,115 @@ class CustomDrawer extends StatefulWidget {
 class _CustomDrawerState extends State<CustomDrawer> {
   @override
   Widget build(BuildContext context) {
-    final themeChanger = Provider.of<ThemeChanger>(context);
     DateTime now = DateTime.now();
     String formattedDate = DateFormat('yyyy-dd').format(now);
     String monthFormatted = DateFormat('MMMM').format(now);
     String dayFormatted = DateFormat('EEEE').format(now);
 
     return Drawer(
-      backgroundColor: themeChanger.themeMode == ThemeMode.dark ? Colors.grey[800] : Colors.white,
+      backgroundColor: const Color(0xffEDFDFE),
       child: Padding(
         padding: const EdgeInsets.all(20.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const SizedBox(height: 10),
-            const Text(
-              "Hi! Dear",
-              style: TextStyle(fontSize: 30, fontWeight: FontWeight.w700),
-            ),
-            const SizedBox(height: 10),
+        child: SingleChildScrollView(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const SizedBox(height: 10),
+              const Text(
+                "Hi! Dear",
+                style: TextStyle(fontSize: 30, fontWeight: FontWeight.w700),
+              ),
+              const SizedBox(height: 10),
 
-            Row(
-              children: [
-                Text(monthFormatted.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
-                const SizedBox(width: 5,),
-                Text(formattedDate.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
+              Row(
+                children: [
+                  Text(monthFormatted.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
+                  const SizedBox(width: 5,),
+                  Text(formattedDate.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
 
-              ],
-            ),
-            Text(dayFormatted.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
-            const SizedBox(height: 10),
-            const Divider(
-              height: 0,
-              color: Colors.black,
-            ),
-            const Divider(
-              color: Colors.black,
-              height: 5,
-            ),
-            const SizedBox(height: 10),
-            InkWell(
-              onTap: (){
-              Navigator.push(context, MaterialPageRoute(builder: (context)=>  SearchBarr(selectedCountryId: widget.selectedCountryId,)));
-              },
-                child: const DrawerItem(icon: Icons.search, text: "Search")),
-            const SizedBox(height: 20),
-            InkWell(
-              onTap: () {
-                // Toggle theme mode between light and dark
-                themeChanger.setTheme(
-                    themeChanger.themeMode == ThemeMode.light ? ThemeMode.dark : ThemeMode.light);
-              },
-              child: const DrawerItem(icon: Icons.brightness_4_sharp, text: "Theme"),
-            ),
-            const SizedBox(height: 20),
-            const DrawerItem(icon: Icons.backup_rounded, text: "Backup & Restore"),
-            const SizedBox(height: 20),
-            InkWell(
+                ],
+              ),
+              Text(dayFormatted.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
+              const SizedBox(height: 10),
+              const Divider(
+                height: 0,
+                color: Colors.black,
+              ),
+              const Divider(
+                color: Colors.black,
+                height: 5,
+              ),
+              const SizedBox(height: 10),
+              InkWell(
                 onTap: (){
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => SettingPage(selectedCountry: widget.selectedCountryId, selectedCountryName: widget.selectedCountryName,),
-                    ),
-                  );
+                Navigator.push(context, MaterialPageRoute(builder: (context)=>  SearchBarr(selectedCountryId: widget.selectedCountryId,)));
                 },
-                child: const DrawerItem(icon: Icons.settings, text: "Settings")),
-            const SizedBox(height: 20),
-            const Divider(
-              height: 0,
-              color: Colors.black,
-            ),
-            const Divider(
-              color: Colors.black,
-              height: 5,
-            ),
-            const SizedBox(height: 20),
+                  child: const DrawerItem(icon: Icons.search, text: "Search")),
+              const SizedBox(height: 20),
+              const DrawerItem(icon: Icons.backup_rounded, text: "Backup & Restore"),
+              const SizedBox(height: 20),
+              InkWell(
+                  onTap: (){
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => SettingPage(selectedCountry: widget.selectedCountryId, selectedCountryName: widget.selectedCountryName,),
+                      ),
+                    );
+                  },
+                  child: const DrawerItem(icon: Icons.settings, text: "Settings")),
+              const SizedBox(height: 20),
+              const Divider(
+                height: 0,
+                color: Colors.black,
+              ),
+              const Divider(
+                color: Colors.black,
+                height: 5,
+              ),
+              const SizedBox(height: 20),
 
-            const DrawerItem(icon: Icons.password, text: "Review"),
-            const SizedBox(height: 20),
+              const DrawerItem(icon: Icons.password, text: "Review"),
+              const SizedBox(height: 20),
 
-            InkWell(
-              onTap: (){
-              Share.share("Hello, This is notifications");
-              },
-                child: const DrawerItem(icon: Icons.share, text: "Share")),
+              InkWell(
+                onTap: (){
+                Share.share("Hello, This is notifications");
+                },
+                  child: const DrawerItem(icon: Icons.share, text: "Share")),
 
-            const SizedBox(height: 20),
-            const Divider(
-              height: 0,
-              color: Colors.black,
-            ),
-            const Divider(
-              color: Colors.black,
-              height: 5,
-            ),
-            const SizedBox(height: 20),
-            const DrawerItem(icon: Icons.privacy_tip, text: "Privacy Policy"),
-            const SizedBox(height: 20),
-            const DrawerItem(icon: Icons.info, text: "About"),
-            const SizedBox(height: 20),
-            const Divider(
-              height: 0,
-              color: Colors.black,
-            ),
-            const Divider(
-              color: Colors.black,
-              height: 5,
-            ),
-            const SizedBox(height: 10),
-            CustomButton(
-              buttonText: "Premium",
-              onPressed: () {},
-              width: 273,
-              height: 43,
-              iconData: Icons.workspace_premium,
-            ),
-          ],
+              const SizedBox(height: 20),
+              const Divider(
+                height: 0,
+                color: Colors.black,
+              ),
+              const Divider(
+                color: Colors.black,
+                height: 5,
+              ),
+              const SizedBox(height: 20),
+              const DrawerItem(icon: Icons.privacy_tip, text: "Privacy Policy"),
+              const SizedBox(height: 20),
+              const DrawerItem(icon: Icons.info, text: "About"),
+              const SizedBox(height: 20),
+              const Divider(
+                height: 0,
+                color: Colors.black,
+              ),
+              const Divider(
+                color: Colors.black,
+                height: 5,
+              ),
+              const SizedBox(height: 10),
+              CustomButton(
+                buttonText: "Premium",
+                onPressed: () {},
+                width: 273,
+                height: 43,
+                iconData: Icons.workspace_premium,
+              ),
+            ],
+          ),
         ),
       ),
     );

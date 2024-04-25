@@ -71,8 +71,7 @@ class Holidays {
   String? primaryType;
   String? canonicalUrl;
   String? urlid;
-  String? locations;
-  String? states;
+
 
   Holidays(
       {this.name,
@@ -83,22 +82,21 @@ class Holidays {
         this.primaryType,
         this.canonicalUrl,
         this.urlid,
-        this.locations,
-        this.states});
+      });
 
   Holidays.fromJson(Map<String, dynamic> json) {
     name = json['name'];
     description = json['description'];
-    country =
-    json['country'] != null ? new Country.fromJson(json['country']) : null;
-    date = json['date'] != null ? new Date.fromJson(json['date']) : null;
-    type = json['type'].cast<String>();
+    country = json['country'] != null ? Country.fromJson(json['country']) : null;
+    date = json['date'] != null ? Date.fromJson(json['date']) : null;
+    type = (json['type'] as List<dynamic>?)?.cast<String>() ?? []; // Ensure type is a list of strings
     primaryType = json['primary_type'];
     canonicalUrl = json['canonical_url'];
     urlid = json['urlid'];
-    locations = json['locations'];
-    states = json['states'];
+
   }
+
+
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
@@ -114,8 +112,6 @@ class Holidays {
     data['primary_type'] = this.primaryType;
     data['canonical_url'] = this.canonicalUrl;
     data['urlid'] = this.urlid;
-    data['locations'] = this.locations;
-    data['states'] = this.states;
     return data;
   }
 }

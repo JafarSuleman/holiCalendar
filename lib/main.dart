@@ -238,6 +238,7 @@
 
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:holidays_calendar/get_started_screen.dart';
 import 'package:holidays_calendar/provider/theme_changer_privider.dart';
@@ -245,6 +246,9 @@ import 'package:provider/provider.dart';
 
 void main() async{
   await GetStorage.init();
+  SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+  ]);
   runApp(const MyApp());
 }
 
@@ -260,12 +264,8 @@ class MyApp extends StatelessWidget {
       child: Builder(
         builder: (BuildContext context) {
           final themeChanger = Provider.of<ThemeChanger>(context);
-          return MaterialApp(
-            themeMode: themeChanger.themeMode,
-            darkTheme: ThemeData(
-              brightness: Brightness.dark,
-            ),
-            home:  const GetStartedScreen(),
+          return const MaterialApp(
+            home:   GetStartedScreen(),
           );
         },
       ),

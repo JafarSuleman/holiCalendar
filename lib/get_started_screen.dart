@@ -12,34 +12,40 @@ class GetStartedScreen extends StatefulWidget {
 }
 
 class _GetStartedScreenState extends State<GetStartedScreen> {
+  dynamic size, height, width;
   @override
   Widget build(BuildContext context) {
-    final themeChanger = Provider.of<ThemeChanger>(context);
+    size = MediaQuery.of(context).size;
+    height = size.height;
+    width = size.width;
     return  Scaffold(
-      backgroundColor: themeChanger.themeMode == ThemeMode.dark ? Colors.grey[800] : const Color(0xffEDFDFE),
+      backgroundColor: const Color(0xffEDFDFE),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Image.asset("assets/holidayy.png"),
-            const SizedBox(height: 10,),
-            const Text("Find Your Perfect Holiday And Vacation",style: TextStyle(
-              fontSize: 35,
-              fontWeight: FontWeight.w600,
-            ),textAlign: TextAlign.center,
-            ),
-            const SizedBox(height: 30,),
-            CustomButton(
-              width: 222,
-                height: 42,
-                buttonText: "Get Started",
-                onPressed: (){
-                  Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => const NextScreen()));
-                }),
-          ],
+        child: Center(
+          child: SingleChildScrollView(
+            child: Column(
+              children: [
+                Image.asset("assets/holidayy.png"),
+                const SizedBox(height: 10,),
+                const Text("Find Your Perfect Holiday And Vacation",style: TextStyle(
+                  fontSize: 35,
+                  fontWeight: FontWeight.w600,
+                ),textAlign: TextAlign.center,
+                ),
+                const SizedBox(height: 30,),
+                CustomButton(
+                    width: width/1.7,
+                    height: height/20,
+                    buttonText: "Get Started",
+                    onPressed: (){
+                      Navigator.push(context,
+                          MaterialPageRoute(builder: (context) => const NextScreen()));
+                    }),
+              ],
 
+            ),
+          ),
         ),
       ),
     );
