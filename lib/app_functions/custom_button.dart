@@ -7,6 +7,7 @@ class CustomButton extends StatefulWidget {
   final double? width;
   final double? height;
 
+
   const CustomButton({
     super.key,
     required this.buttonText,
@@ -53,7 +54,7 @@ class _CustomButtonState extends State<CustomButton> {
             const SizedBox(width: 8),
             Text(
               widget.buttonText,
-              style: const TextStyle(fontSize: 16),
+              style:  TextStyle(fontSize: width/25),
             ),
           ],
         ),

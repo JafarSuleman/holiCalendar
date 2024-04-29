@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:holidays_calendar/app_functions/custom_button.dart';
 import 'package:holidays_calendar/next_screen.dart';
-import 'package:holidays_calendar/provider/theme_changer_privider.dart';
-import 'package:provider/provider.dart';
 
 class GetStartedScreen extends StatefulWidget {
   const GetStartedScreen({super.key});

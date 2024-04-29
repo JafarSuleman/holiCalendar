@@ -1,8 +1,11 @@
+import 'package:android_alarm_manager_plus/android_alarm_manager_plus.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:holidays_calendar/app_functions/custom_button.dart';
 import 'package:intl/intl.dart';
 import 'package:table_calendar/table_calendar.dart';
+
 
 class AddDialogue extends StatefulWidget {
   final Function()? onEventAdded;
@@ -18,13 +21,18 @@ class _AddDialogueState extends State<AddDialogue> {
   late CalendarFormat calendarFormat;
   TimeOfDay? selectedTime;
   late TextEditingController eventNameController;
+  dynamic size, height, width;
+  late FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin;
 
+  late DateTime selectedDateTime;
   @override
   void initState() {
     eventNameController = TextEditingController();
     focusedDay = DateTime.now();
     selectedDay = DateTime.now();
     calendarFormat = CalendarFormat.month;
+    flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin();
+    _initializeNotifications();
     super.initState();
   }
   @override
@@ -34,10 +42,65 @@ class _AddDialogueState extends State<AddDialogue> {
   }
 
 
+
+  void _initializeNotifications() {
+    final initializationSettingsAndroid =
+    AndroidInitializationSettings('@mipmap/ic_launcher');
+    final initializationSettings =
+    InitializationSettings(android: initializationSettingsAndroid);
+    flutterLocalNotificationsPlugin.initialize(initializationSettings);
+  }
+
+  void _setAlarm() {
+    final DateTime scheduledDateTime = DateTime.now().add(Duration(seconds: 15));
+      // selectedDay.year,
+      // selectedDay.month,
+      // selectedDay.day,
+      // selectedTime!.hour,
+      // selectedTime!.minute,
+    // );
+    AndroidAlarmManager.oneShotAt(
+      scheduledDateTime,
+      0,
+      _onAlarm,
+      exact: true,
+      wakeup: true,
+    );
+  }
+
+  static void _onAlarm() {
+    // Handle the alarm when it triggers
+    _showNotification();
+  }
+
+  static void _showNotification() async {
+    const AndroidNotificationDetails androidPlatformChannelSpecifics =
+    AndroidNotificationDetails(
+      'your_channel_id', // Change this value for your own channel
+      'Channel Name', // Change this value for your own channel
+      importance: Importance.max,
+      priority: Priority.high,
+    );
+    const NotificationDetails platformChannelSpecifics =
+    NotificationDetails(android: androidPlatformChannelSpecifics);
+    await FlutterLocalNotificationsPlugin().show(
+      0,
+      'Alarm',
+      'Time to wake up!', // Change this message to your notification content
+      platformChannelSpecifics,
+    );
+  }
+
+
+
   @override
   Widget build(BuildContext context) {
+
+    size = MediaQuery.of(context).size;
+    height = size.height;
+    width = size.width;
     return Container(
-      height: 500,
+      height: height*0.66,
       width: double.infinity,
       decoration: BoxDecoration(
         color: Colors.white,
@@ -50,7 +113,7 @@ class _AddDialogueState extends State<AddDialogue> {
             color: Colors.grey.withOpacity(0.5),
             spreadRadius: 2,
             blurRadius: 5,
-            offset: const Offset(0, 3), // changes position of shadow
+            offset: const Offset(0, 3),
           ),
         ],
       ),
@@ -81,14 +144,11 @@ class _AddDialogueState extends State<AddDialogue> {
                           'reminder': selectedTime != null ? selectedTime!.format(context) : '',
                         });
                         storage.write('events', events);
-                        setState(() {
-
-                        });
-
-                        if(widget.onEventAdded != null) {
+                        setState(() {});
+                        _setAlarm();
+                        if (widget.onEventAdded != null) {
                           widget.onEventAdded!();
                         }
-
                       },
                       buttonText: 'Save',
                     );
@@ -111,49 +171,55 @@ class _AddDialogueState extends State<AddDialogue> {
           ),
           Expanded(child: Container()),
           Center(
-            child: Container(
-              height: 100,
-              width: 320,
-              decoration: BoxDecoration(
-                color: const Color(0xffFAF9F6),
-                borderRadius: BorderRadius.circular(20),
-              ),
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        InkWell(
-                          onTap: () {
-                            _showCalendar(context);
-                          },
-                          child: const Icon(Icons.calendar_month_outlined, color: Colors.deepOrange),
-                        ),
-                        Text(
-                          DateFormat('yyyy-MM-dd').format(selectedDay),
-                          style: const TextStyle(fontSize: 16),
-                        ),
-                        InkWell(
-                          onTap: (){
-                            _selectTime(context);
-                          },
-                          child: Container(
-                            height: 40,
-                            width: 150,
-                            decoration: BoxDecoration(
-                              color: Colors.white,
-                              borderRadius: BorderRadius.circular(10),
-                            ),
-                            child:  Center(child: Text(selectedTime != null ? selectedTime!.format(context) : "Set Reminder"),),
+            child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                height: height/8,
+                width: double.infinity,
+                decoration: BoxDecoration(
+                  color: const Color(0xffFAF9F6),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Padding(
+                      padding: const EdgeInsets.all(8.0),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          InkWell(
+                            onTap: () {
+                              _showCalendar(context);
+                            },
+                            child: const Icon(Icons.calendar_month_outlined, color: Colors.deepOrange),
                           ),
-                        )
-                      ],
+                          Text(
+                            DateFormat('yyyy-MM-dd').format(selectedDay),
+                            style: const TextStyle(fontSize: 16),
+                          ),
+                          InkWell(
+                            onTap: (){
+                              _selectTime(context);
+                            },
+                            child: Container(
+                              height: height/20,
+                              width: width/2.5,
+                              decoration: BoxDecoration(
+                                color: Colors.white,
+                                borderRadius: BorderRadius.circular(10),
+                              ),
+                              child:  Center(child: Text(selectedTime != null ? selectedTime!.format(context) : "Set Reminder",
+                              style: TextStyle(fontSize: width/25),
+                              ),
+                              ),
+                            ),
+                          )
+                        ],
+                      ),
                     ),
-                  ),
-                ],
+                  ],
+                ),
               ),
             ),
           ),
@@ -209,7 +275,7 @@ class _AddDialogueState extends State<AddDialogue> {
                 this.selectedDay = selectedDay;
                 this.focusedDay = focusedDay;
               });
-              Navigator.pop(context); // Close the modal after selecting a day
+              Navigator.pop(context);
             },
             selectedDayPredicate: (day) {
               return isSameDay(selectedDay, day);

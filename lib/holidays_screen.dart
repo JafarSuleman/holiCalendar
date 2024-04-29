@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:holidays_calendar/app_functions/custom_button.dart';
 import 'package:holidays_calendar/app_functions/custom_drawer.dart';
 import 'package:holidays_calendar/app_functions/yearly_calendar.dart';
@@ -33,6 +34,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
   late Map<String, dynamic> jsonData;
   late DateTime selectedDay;
   String? chooseCalendar;
+
   late Map<DateTime, List> _events;
   List<String> monthlyYearly = [
     'Monthly',
@@ -42,7 +44,7 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
   List<String> holiDaysList = [
     "All",
     "National holiday",
-    "Observance days",
+    "Observance day",
   ];
   String? chooseCalendarList;
   List<String> calendarList = [
@@ -53,6 +55,8 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
 
   late List<Holidays> holidays = [];
   List<String> eventsList = [];
+  List<DateTime>? reminderTime;
+
   @override
   void initState() {
     super.initState();
@@ -62,21 +66,49 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
     calendarFormat = CalendarFormat.month;
     selectedCountryId = widget.selectedCountryId ?? "";
     // events = getEvents();
+    loadBannerAd();
     focusedDay = DateTime.now();
     selectedDay = DateTime.now();
     _tabController = TabController(length: 3, vsync: this,);
     _tabController.addListener(_handleTabSelection);
     loadHolidayData();
     favourites = (storage.read('events') as List?)?.cast<Map<String, dynamic>>() ?? [];
+    initReminder();
+  }
+
+  initReminder() async{
+    for(int i = 0; i >= favourites!.length; i++){
+      reminderTime = await favourites![i]['reminder'];
+    }
   }
   void _handleTabSelection() {
     setState(() {});
   }
   @override
   void dispose() {
+    bannerAd?.dispose();
     _tabController.dispose();
     super.dispose();
   }
+  BannerAd? bannerAd;
+  Future<void> loadBannerAd() async {
+    bannerAd = BannerAd(
+      adUnitId: 'ca-app-pub-3940256099942544/6300978111',
+      size: AdSize.banner,
+      request: const AdRequest(),
+      listener: BannerAdListener(
+        onAdLoaded: (_) {
+          setState(() {});
+        },
+        onAdFailedToLoad: (ad, error) {
+          ad.dispose();
+        },
+      ),
+    )..load();
+  }
+
+
+  bool isTimeDone = false;
 
   final storage = GetStorage();
    List<Map<String, dynamic>>? favourites;
@@ -119,7 +151,6 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
 
   @override
   Widget build(BuildContext context) {
-
     size = MediaQuery.of(context).size;
     height = size.height;
     width = size.width;
@@ -127,6 +158,14 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
     return DefaultTabController(
       length: 3,
       child: Scaffold(
+        bottomNavigationBar:bannerAd != null
+            ? Container(
+              margin: const EdgeInsets.only(bottom: 10),
+               height: 50,
+               width: double.infinity,
+              child: AdWidget(ad: bannerAd!),
+        )
+            : const SizedBox(),
         backgroundColor: const Color(0xffEDFDFE),
         appBar: AppBar(
           backgroundColor: const Color(0xffEDFDFE),
@@ -345,7 +384,13 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                                                                   color: Colors.white,
                                                                   border: Border.all(width: 1.0,color: const Color(0xffE25E2A)),
                                                                 ),
-                                                                child: Center(child: Text(getWeekDayFromISODate(holiday.date?.iso.toString() ?? ''), style: const TextStyle(fontSize: 10,color: Color(0xff0720FB))))),
+                                                                child: Center(child:
+                                                                Text(DateFormat('E').format(DateTime.parse(holiday.date!.iso.toString()),
+                                                                ), style:  TextStyle(fontSize: width/30,color: const Color(0xff0720FB))
+                                                                ),
+                                                                ),
+                                                            ),
+
                                                             const SizedBox(width: 2,),
                                                             Container(
                                                                 height: height/20,
@@ -355,13 +400,17 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                                                                   color: Colors.white,
                                                                   border: Border.all(width: 1.0,color: const Color(0xffE25E2A)),
                                                                 ),
-                                                                child: Center(child: Text(holiday.date?.datetime?.day.toString() ?? '', style: const TextStyle(fontSize: 10,color: Color(0xff0720FB))))),
+                                                                child: Center(child:
+                                                                Text(holiday.date?.datetime?.day.toString() ?? '', style:  TextStyle(fontSize: width/30,color: Color(0xff0720FB))),
+                                                                ),
+                                                            ),
                                                             const SizedBox(width:1,),
                                                             Expanded(
                                                               flex: 1,
                                                               child: Text(
                                                                 holiday.name.toString() ?? '',
-                                                                style:  TextStyle(fontWeight: FontWeight.w600,fontSize: 15,
+                                                                style:  TextStyle(fontWeight: FontWeight.w600,
+                                                                  fontSize: width/26,
                                                                   color: holiday.type?.contains("Observance") ?? false ? themeChanger.importantDayColor : themeChanger.holidayColor,
                                                                 ),
                                                                 textAlign: TextAlign.center,
@@ -381,7 +430,6 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                                                                   content: Text(holiday.description?? 'No description available'),
                                                                   actions: <Widget>[
                                                                     CustomButton(
-
                                                                       onPressed: () {
                                                                         Navigator.of(context).pop();
                                                                       }, buttonText: 'Close',
@@ -432,64 +480,71 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                               ),
                             ],
                           ),
-                        ) : Padding(
-                          padding: const EdgeInsets.all(8.0),
-                          child: SizedBox(
-                            width: double.infinity,
-                            height:600,
-                            child: ListView.builder(
-                                itemCount: favourites?.length,
-                                itemBuilder: (context,index){
-                                  return ListTile(
-                                    title: Column(
-                                      children: [
-                                        Container(
-                                          height: 41,
-                                          width: 392,
-                                          decoration: BoxDecoration(
-                                            color: Colors.white,
-                                            border: Border.all(width: 1.0),
-                                            borderRadius: const BorderRadius.only(bottomLeft: Radius.circular(15), bottomRight: Radius.circular(15)),
-                                          ),
-                                          child: Center(
-                                            child: Text(
-                                              DateFormat('MMMM yyyy').format(DateTime.parse(favourites![index]['date'].toString())),
-                                            ),
+                        ) : SizedBox(
+                          height: 500,
+                          child: ListView.builder(
+                              itemCount: favourites?.length,
+                              itemBuilder: (context,index){
+                                return ListTile(
+                                  title: Column(
+                                    children: [
+                                      Container(
+                                        height: 41,
+                                        width: 392,
+                                        decoration: BoxDecoration(
+                                          color: Colors.white,
+                                          border: Border.all(width: 1.0),
+                                          borderRadius: const BorderRadius.only(bottomLeft: Radius.circular(15), bottomRight: Radius.circular(15)),
+                                        ),
+                                        child: Center(
+                                          child: Row(
+                                            mainAxisAlignment: MainAxisAlignment.center,
+                                            children: [
+                                              Text(
+                                                DateFormat('dd-MMM-y').format(DateTime.parse(favourites![index]['date'].toString())),
+
+                                              ),
+                                            ],
                                           ),
                                         ),
-                                      ],
-                                    ),
-                                    subtitle: Row(
-                                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                                      children: [
-                                        Text(favourites![index]['reminder'].toString()),
-                                        Expanded(
-                                            flex: 1,
-                                            child: Text(favourites![index]['event'].toString(),textAlign: TextAlign.center,)),
-                                        IconButton(
-                                          icon: const Icon(Icons.delete),
-                                          onPressed: () {
-                                            List<dynamic> events = storage.read('events') ?? [];
-                                            events.remove(favourites![index]);
-                                            storage.write('events', events);
-                                            setState(() {
-                                              ScaffoldMessenger.of(context).showSnackBar(
-                                                const SnackBar(
-                                                  content: Text('Event deleted'),
-                                                  duration: Duration(seconds: 2),
-                                                ),
-                                              );
-                                            });
-                                          },
-                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                  subtitle: Row(
+                                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                    children: [
+                                      Text(favourites![index]['reminder'].toString(),
+                                      ),
+                                      Expanded(
+                                          flex: 1,
+                                          child:
+                                          Text(favourites![index]['event'].toString(),textAlign: TextAlign.center,
+                                              style:  const TextStyle(color:  Color(0xffE25E2A,),fontWeight: FontWeight.w600),
+                                          ),
+                                      ),
+                                      IconButton(
+                                        icon: const Icon(Icons.delete),
+                                        onPressed: () {
+                                          List<dynamic> events = storage.read('events') ?? [];
+                                          events.remove(favourites![index]);
+                                          storage.write('events', events);
+                                          setState(() {
+                                            ScaffoldMessenger.of(context).showSnackBar(
+                                              const SnackBar(
+                                                content: Text('Event deleted'),
+                                                duration: Duration(seconds: 2),
+                                              ),
+                                            );
+                                          });
+                                        },
+                                      ),
 
-                                      ],
+                                    ],
 
-                                    ),
+                                  ),
 
-                                  );
-                                }),
-                          ),
+                                );
+                              }),
                         ),
                             Align(
                               alignment: Alignment.bottomRight,
@@ -504,86 +559,84 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
                       ]
                         ),
                       ),
-
-
                       Center(
-                        child: Column(
-                          children: [
-                            Row(
-                              children: [
-                                Container(
-                                  padding: const EdgeInsets.only(left: 10),
-                                  height: 50,
-                                  width: 100,
-                                  decoration: BoxDecoration(
-                                    borderRadius: BorderRadius.circular(8),
-                                  ),
-                                  child: DropdownButton(
-                                    style:   const TextStyle(
-                                      fontSize: 15,
-                                      fontWeight: FontWeight.w400,
-                                      color: Colors.black,
-
+                          child: Column(
+                            children: [
+                              Row(
+                                children: [
+                                  Container(
+                                    padding: const EdgeInsets.only(left: 10),
+                                    height: height/30,
+                                    width: width/3,
+                                    decoration: BoxDecoration(
+                                      borderRadius: BorderRadius.circular(8),
                                     ),
-                                    underline: const SizedBox(),
-                                    isExpanded: true,
-                                    value: chooseCalendar,
-                                    onChanged: (newvalue) {
-                                      setState(() {
-                                        chooseCalendar = newvalue;
-                                      });
-                                    },
-                                    items: monthlyYearly.map((e) {
-                                      return DropdownMenuItem(
-                                        value: e,
-                                        child: Text(e),
-                                      );
-                                    }).toList(),
-                                  ),
-                                ),
-                              ],
-                            ),
-                            if (chooseCalendar == monthlyYearly.first)
-                              TableCalendar(
-                                startingDayOfWeek: themeChanger.startWeek == StartWeek.monday
-                                    ? StartingDayOfWeek.monday
-                                    : StartingDayOfWeek.sunday,
-                                headerStyle: const HeaderStyle(
-                                  titleCentered: true,
-                                ),
-                                firstDay: DateTime.utc(2021, 1, 1),
-                                lastDay: DateTime.utc(2030, 12, 31),
-                                focusedDay: focusedDay,
-                                calendarFormat: CalendarFormat.month,
-                                availableCalendarFormats: const {
-                                  CalendarFormat.month: 'Month',
-                                },
-                                calendarStyle:  CalendarStyle(
-                                  weekNumberTextStyle: const TextStyle(color: Colors.red),
-                                  weekendTextStyle: TextStyle(color: themeChanger.sundayColor),
-                                ),
-                                onFormatChanged: (format) {
-                                  setState(() {
-                                    calendarFormat = format;
-                                  });
-                                },
-                                onDaySelected: (selectedDay, focusedDay) {
-                                  setState(() {
-                                    this.selectedDay = selectedDay;
-                                    this.focusedDay = focusedDay;
-                                  });
-                                },
-                                selectedDayPredicate: (day) {
-                                  return isSameDay(selectedDay, day);
-                                },
-                              ),
+                                    child: DropdownButton(
+                                      style:   const TextStyle(
+                                        fontSize: 15,
+                                        fontWeight: FontWeight.w400,
+                                        color: Colors.black,
 
-                            // const CalendarPage(),
-                            if (chooseCalendar != monthlyYearly.first)
-                              const YearlyCalendarGrid(),
-                          ],
+                                      ),
+                                      underline: const SizedBox(),
+                                      isExpanded: true,
+                                      value: chooseCalendar,
+                                      onChanged: (newvalue) {
+                                        setState(() {
+                                          chooseCalendar = newvalue;
+                                        });
+                                      },
+                                      items: monthlyYearly.map((e) {
+                                        return DropdownMenuItem(
+                                          value: e,
+                                          child: Text(e),
+                                        );
+                                      }).toList(),
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              if (chooseCalendar == monthlyYearly.first)
+                                TableCalendar(
+                                  startingDayOfWeek: themeChanger.startWeek == StartWeek.monday
+                                      ? StartingDayOfWeek.monday
+                                      : StartingDayOfWeek.sunday,
+                                  headerStyle: const HeaderStyle(
+                                    titleCentered: true,
+                                  ),
+                                  firstDay: DateTime.utc(2021, 1, 1),
+                                  lastDay: DateTime.utc(2030, 12, 31),
+                                  focusedDay: focusedDay,
+                                  calendarFormat: CalendarFormat.month,
+                                  availableCalendarFormats: const {
+                                    CalendarFormat.month: 'Month',
+                                  },
+                                  calendarStyle:  CalendarStyle(
+                                    weekNumberTextStyle: const TextStyle(color: Colors.red),
+                                    weekendTextStyle: TextStyle(color: themeChanger.sundayColor),
+                                  ),
+                                  onFormatChanged: (format) {
+                                    setState(() {
+                                      calendarFormat = format;
+                                    });
+                                  },
+                                  onDaySelected: (selectedDay, focusedDay) {
+                                    setState(() {
+                                      this.selectedDay = selectedDay;
+                                      this.focusedDay = focusedDay;
+                                    });
+                                  },
+                                  selectedDayPredicate: (day) {
+                                    return isSameDay(selectedDay, day);
+                                  },
+                                ),
+
+                              // const CalendarPage(),
+                              if (chooseCalendar != monthlyYearly.first)
+                                const YearlyCalendarGrid(),
+                            ],
+                          ),
                         ),
-                      ),
                     ]),
               ),
             ],
@@ -606,13 +659,6 @@ class _HoliDaysScreenState extends State<HoliDaysScreen> with SingleTickerProvid
       }
     }
     return holidaysByMonth;
-  }
-
-
-
-  String getWeekDayFromISODate(String isoDate) {
-    DateTime dateTime = DateTime.parse(isoDate);
-    return DateFormat('E').format(dateTime);
   }
   String? _getMonthName(int? month) {
     if (month != null) {

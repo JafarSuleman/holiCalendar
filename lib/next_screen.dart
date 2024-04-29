@@ -1,10 +1,6 @@
 
-
-
 import 'package:flutter/material.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
-import 'package:holidays_calendar/provider/theme_changer_privider.dart';
-import 'package:provider/provider.dart';
 
 import 'app_functions/custom_button.dart';
 import 'holidays_screen.dart';
