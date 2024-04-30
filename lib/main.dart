@@ -1,14 +1,29 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:holidays_calendar/get_started_screen.dart';
+import 'package:holidays_calendar/Screen/get_started_screen.dart';
+import 'package:holidays_calendar/provider/Provier.dart';
 import 'package:holidays_calendar/provider/theme_changer_privider.dart';
 import 'package:provider/provider.dart';
+import 'package:timezone/timezone.dart' as tz;
+import 'package:timezone/data/latest_all.dart' as tz;
+
+FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
+FlutterLocalNotificationsPlugin();
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
+
+  tz.initializeTimeZones();
+  flutterLocalNotificationsPlugin
+      .resolvePlatformSpecificImplementation<
+      AndroidFlutterLocalNotificationsPlugin>()!
+      .requestNotificationsPermission();
+
   MobileAds.instance.initialize();
   await GetStorage.init();
   SystemChrome.setPreferredOrientations([
@@ -43,6 +58,7 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => ThemeChanger()),
+        ChangeNotifierProvider(create: (context) => AlarmProvider()),
       ],
       child: Builder(
         builder: (BuildContext context) {

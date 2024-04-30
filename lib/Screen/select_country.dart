@@ -1,8 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
+import 'package:get_storage/get_storage.dart';
 
-import 'app_functions/custom_button.dart';
+import '../app_functions/custom_button.dart';
 import 'holidays_screen.dart';
 
 class NextScreen extends StatefulWidget {
@@ -570,8 +571,11 @@ class _NextScreenState extends State<NextScreen> {
                     height: height/20,
                     buttonText: "Next",
                     onPressed: () async {
+                      GetStorage countryInfo = GetStorage();
                       if (_formKey.currentState!.validate()) {
                         selectedCountryId = countryIdMap[chooseCountry!];
+                        countryInfo.write('countryId', selectedCountryId);
+                        countryInfo.write('countryName', chooseCountry);
                         Navigator.push(
                           context,
                           MaterialPageRoute(
