@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:holidays_calendar/search_bar.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
-import 'package:holidays_calendar/setting_page.dart';
+import 'package:holidays_calendar/Screen/setting_page.dart';
 import 'package:share/share.dart';
 import '../provider/theme_changer_privider.dart';
 

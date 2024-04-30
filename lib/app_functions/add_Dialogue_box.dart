@@ -52,7 +52,7 @@ class _AddDialogueState extends State<AddDialogue> {
   }
 
   void _setAlarm() {
-    final DateTime scheduledDateTime = DateTime.now().add(Duration(seconds: 15));
+    final DateTime scheduledDateTime = DateTime.now().add(Duration(seconds: 5));
       // selectedDay.year,
       // selectedDay.month,
       // selectedDay.day,

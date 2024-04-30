@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:holidays_calendar/provider/theme_changer_privider.dart';
 import 'package:provider/provider.dart';
 
-import 'next_screen.dart';
+import 'select_country.dart';
 
 class SettingPage extends StatefulWidget {
   final String? selectedCountry;
