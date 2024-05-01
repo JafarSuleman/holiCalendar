@@ -34,7 +34,7 @@ class _GetStartedScreenState extends State<GetStartedScreen> {
                 const SizedBox(height: 30,),
                 CustomButton(
                     width: width/1.7,
-                    height: height/20,
+                    height: height/18,
                     buttonText: "Get Started",
                     onPressed: (){
                       Navigator.push(context,

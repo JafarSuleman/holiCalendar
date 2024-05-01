@@ -15,7 +15,6 @@ void main() async{
     DeviceOrientation.portraitUp,
   ]);
   loadads();
-
   runApp(const MyApp());
 }
 AppOpenAd? appOpenAd;

@@ -567,7 +567,7 @@ class _NextScreenState extends State<NextScreen> {
                   const SizedBox(height: 50,),
                   CustomButton(
                     width: width/1.7,
-                    height: height/20,
+                    height: height/18,
                     buttonText: "Next",
                     onPressed: () async {
                       if (_formKey.currentState!.validate()) {
