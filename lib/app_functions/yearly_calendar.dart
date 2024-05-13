@@ -144,9 +144,7 @@ class MonthCalendar extends StatelessWidget {
             shrinkWrap: true,
             physics: const NeverScrollableScrollPhysics(),
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-              crossAxisCount: 7,
-                childAspectRatio : 2.0
-            ),
+                crossAxisCount: 7, childAspectRatio: 2.0),
             itemCount: daysInMonth + leadingSpaces,
             itemBuilder: (BuildContext context, int index) {
               if (index < leadingSpaces) {
@@ -163,7 +161,9 @@ class MonthCalendar extends StatelessWidget {
                     '${day.day}',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
-                      color: isToday && isCurrentMonth ? Colors.red : (isWeekend ? themeChanger.sundayColor : null),
+                      color: isToday && isCurrentMonth
+                          ? Colors.red
+                          : (isWeekend ? themeChanger.sundayColor : null),
                       fontSize: 4,
                     ),
                   ),

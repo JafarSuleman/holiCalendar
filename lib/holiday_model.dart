@@ -72,31 +72,29 @@ class Holidays {
   String? canonicalUrl;
   String? urlid;
 
-
-  Holidays(
-      {this.name,
-        this.description,
-        this.country,
-        this.date,
-        this.type,
-        this.primaryType,
-        this.canonicalUrl,
-        this.urlid,
-      });
+  Holidays({
+    this.name,
+    this.description,
+    this.country,
+    this.date,
+    this.type,
+    this.primaryType,
+    this.canonicalUrl,
+    this.urlid,
+  });
 
   Holidays.fromJson(Map<String, dynamic> json) {
     name = json['name'];
     description = json['description'];
-    country = json['country'] != null ? Country.fromJson(json['country']) : null;
+    country =
+        json['country'] != null ? Country.fromJson(json['country']) : null;
     date = json['date'] != null ? Date.fromJson(json['date']) : null;
-    type = (json['type'] as List<dynamic>?)?.cast<String>() ?? []; // Ensure type is a list of strings
+    type = (json['type'] as List<dynamic>?)?.cast<String>() ??
+        []; // Ensure type is a list of strings
     primaryType = json['primary_type'];
     canonicalUrl = json['canonical_url'];
     urlid = json['urlid'];
-
   }
-
-
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
@@ -206,10 +204,10 @@ class Timezone {
 
   Timezone(
       {this.offset,
-        this.zoneabb,
-        this.zoneoffset,
-        this.zonedst,
-        this.zonetotaloffset});
+      this.zoneabb,
+      this.zoneoffset,
+      this.zonedst,
+      this.zonetotaloffset});
 
   Timezone.fromJson(Map<String, dynamic> json) {
     offset = json['offset'];
@@ -229,5 +227,3 @@ class Timezone {
     return data;
   }
 }
-
-

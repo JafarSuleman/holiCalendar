@@ -10,9 +10,13 @@ class ThemeChanger with ChangeNotifier {
   StartWeek _startWeek = StartWeek.sunday;
 
   ThemeMode get themeMode => _themeMode;
+
   Color get holidayColor => _holidayColor;
+
   Color get importantDayColor => _importantDayColor;
+
   Color get sundayColors => sundayColor;
+
   StartWeek get startWeek => _startWeek;
 
   void setTheme(ThemeMode mode) {

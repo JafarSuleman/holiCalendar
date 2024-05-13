@@ -1,17 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:holidays_calendar/Screen/setting_page.dart';
 import 'package:holidays_calendar/search_bar.dart';
+import 'package:in_app_review/in_app_review.dart';
 import 'package:intl/intl.dart';
-import 'package:provider/provider.dart';
-import 'package:holidays_calendar/setting_page.dart';
 import 'package:share/share.dart';
-import '../provider/theme_changer_privider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'custom_button.dart';
 
 class CustomDrawer extends StatefulWidget {
   final String selectedCountryId;
   final String selectedCountryName;
-  const CustomDrawer({Key? key, required this.selectedCountryId, required this.selectedCountryName,}) : super(key: key);
+
+  const CustomDrawer({
+    Key? key,
+    required this.selectedCountryId,
+    required this.selectedCountryName,
+  }) : super(key: key);
 
   @override
   State<CustomDrawer> createState() => _CustomDrawerState();
@@ -42,13 +47,26 @@ class _CustomDrawerState extends State<CustomDrawer> {
 
               Row(
                 children: [
-                  Text(monthFormatted.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
-                  const SizedBox(width: 5,),
-                  Text(formattedDate.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
-
+                  Text(
+                    monthFormatted.toString(),
+                    style: const TextStyle(
+                        fontSize: 25, fontWeight: FontWeight.w400),
+                  ),
+                  const SizedBox(
+                    width: 5,
+                  ),
+                  Text(
+                    formattedDate.toString(),
+                    style: const TextStyle(
+                        fontSize: 25, fontWeight: FontWeight.w400),
+                  ),
                 ],
               ),
-              Text(dayFormatted.toString(), style: const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),),
+              Text(
+                dayFormatted.toString(),
+                style:
+                    const TextStyle(fontSize: 25, fontWeight: FontWeight.w400),
+              ),
               const SizedBox(height: 10),
               const Divider(
                 height: 0,
@@ -60,23 +78,30 @@ class _CustomDrawerState extends State<CustomDrawer> {
               ),
               const SizedBox(height: 10),
               InkWell(
-                onTap: (){
-                Navigator.push(context, MaterialPageRoute(builder: (context)=>  SearchBarr(selectedCountryId: widget.selectedCountryId,)));
-                },
+                  onTap: () {
+                    Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => SearchBarr(
+                                  selectedCountryId: widget.selectedCountryId,
+                                )));
+                  },
                   child: const DrawerItem(icon: Icons.search, text: "Search")),
               const SizedBox(height: 20),
-              const DrawerItem(icon: Icons.backup_rounded, text: "Backup & Restore"),
-              const SizedBox(height: 20),
               InkWell(
-                  onTap: (){
+                  onTap: () {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                        builder: (context) => SettingPage(selectedCountry: widget.selectedCountryId, selectedCountryName: widget.selectedCountryName,),
+                        builder: (context) => SettingPage(
+                          selectedCountry: widget.selectedCountryId,
+                          selectedCountryName: widget.selectedCountryName,
+                        ),
                       ),
                     );
                   },
-                  child: const DrawerItem(icon: Icons.settings, text: "Settings")),
+                  child:
+                      const DrawerItem(icon: Icons.settings, text: "Settings")),
               const SizedBox(height: 20),
               const Divider(
                 height: 0,
@@ -88,13 +113,26 @@ class _CustomDrawerState extends State<CustomDrawer> {
               ),
               const SizedBox(height: 20),
 
-              const DrawerItem(icon: Icons.password, text: "Review"),
+              InkWell(
+                  onTap: () async {
+                    final InAppReview inAppReview = InAppReview.instance;
+                    if (await inAppReview.isAvailable()) {
+                      Future.delayed(const Duration(seconds: 2), () {
+                        inAppReview.requestReview();
+                      });
+                    }
+                  },
+                  child:
+                      const DrawerItem(icon: Icons.password, text: "Review")),
               const SizedBox(height: 20),
 
               InkWell(
-                onTap: (){
-                Share.share("Hello, This is notifications");
-                },
+                  onTap: () {
+                    Share.share(
+                        'https://play.google.com/store/apps/details?id=holidayscalender.widgets',
+                        subject:
+                        'Holidays Calender Made Easy: Download This App Now');
+                  },
                   child: const DrawerItem(icon: Icons.share, text: "Share")),
 
               const SizedBox(height: 20),
@@ -107,10 +145,20 @@ class _CustomDrawerState extends State<CustomDrawer> {
                 height: 5,
               ),
               const SizedBox(height: 20),
-              const DrawerItem(icon: Icons.privacy_tip, text: "Privacy Policy"),
+              InkWell(
+                onTap: () async {
+                  final Uri url = Uri.parse(
+                      'https://privacypolicy09876.blogspot.com/2024/04/privacy-policy.html');
+                  if (!await launchUrl(url)) {
+                    throw Exception('Could not launch $url');
+                  }
+                },
+                child: const DrawerItem(
+                    icon: Icons.privacy_tip, text: "Privacy Policy"),
+              ),
               const SizedBox(height: 20),
-              const DrawerItem(icon: Icons.info, text: "About"),
-              const SizedBox(height: 20),
+              // const DrawerItem(icon: Icons.info, text: "About"),
+              // const SizedBox(height: 20),
               const Divider(
                 height: 0,
                 color: Colors.black,
